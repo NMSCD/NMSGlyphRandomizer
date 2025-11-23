@@ -12807,9 +12807,16 @@
     },
     "Iadoitesu": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "InExCor"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Ratlehta Adjunct",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "InExCor": [
           {
             "name": "Desayehi",
@@ -15922,10 +15929,17 @@
     },
     "Oniijialdu": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "InExCor",
         "UNITY"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Komovo Nebula",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "InExCor": [
           {
             "name": "Bahcal",
