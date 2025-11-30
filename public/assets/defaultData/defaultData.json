@@ -778,10 +778,17 @@
     },
     "Badesclema": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "GenBra Space Corp",
         "InExCor"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Odfrei Quadrant",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "GenBra Space Corp": [
           {
             "name": "Acdowel Boundary",
@@ -5204,6 +5211,10 @@
           {
             "name": "Elnatyaz Terminus",
             "coordinates": "043E:0071:0D44:xxxx"
+          },
+          {
+            "name": "Emidtum",
+            "coordinates": "0A85:007C:017B:xxxx"
           },
           {
             "name": "Ennert Adjunct",
@@ -11948,6 +11959,10 @@
             "coordinates": "077F:007F:0ECA:xxxx"
           },
           {
+            "name": "Guptan Fringe",
+            "coordinates": "0803:0086:0805:xxxx"
+          },
+          {
             "name": "Ihirakh Boundary",
             "coordinates": "0802:0085:0805:xxxx"
           },
@@ -13735,10 +13750,17 @@
     },
     "Isenkeyan": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "GenBra Space Corp",
         "InExCor"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Jeuriina Conflux",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "GenBra Space Corp": [
           {
             "name": "Jaquec Band",
