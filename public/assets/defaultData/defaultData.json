@@ -11131,10 +11131,17 @@
     },
     "Ezdartlic": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "GenBra Space Corp",
         "InExCor"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Stahay",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "GenBra Space Corp": [
           {
             "name": "Qudastrua Cloud",
