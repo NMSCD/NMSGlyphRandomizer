@@ -3126,6 +3126,7 @@
         "APT-GEK",
         "Alliance of Galactic Travellers",
         "Amino Hub Eissentam",
+        "Biological Survey Mission",
         "Black Cloud Commonwealth",
         "Brolo Republic",
         "Ciscen Royal Republic",
@@ -3246,6 +3247,12 @@
             "coordinates": "0274:0089:0446:xxxx"
           }
         ],
+        "Biological Survey Mission": [
+          {
+            "name": "Jeffriy Instability",
+            "coordinates": "0E70:007E:0A84:xxxx"
+          }
+        ],
         "Black Cloud Commonwealth": [
           {
             "name": "Hurenima",
@@ -3336,6 +3343,10 @@
           {
             "name": "Puikin",
             "coordinates": "07F9:007D:0804:xxxx"
+          },
+          {
+            "name": "Ruktombk Expanse",
+            "coordinates": "0E92:0078:0897:xxxx"
           },
           {
             "name": "Stvard",
@@ -7237,8 +7248,16 @@
             "coordinates": "09A6:007B:0130:xxxx"
           },
           {
+            "name": "Baixio Bajialdwe",
+            "coordinates": "0CC4:0080:02F0:xxxx"
+          },
+          {
             "name": "Diyuanite Belt",
             "coordinates": "09A6:007C:012F:xxxx"
+          },
+          {
+            "name": "Ecuangd Mass",
+            "coordinates": "064B:0082:066E:xxxx"
           },
           {
             "name": "Esvallr",
@@ -12000,6 +12019,10 @@
           {
             "name": "Mupfemi",
             "coordinates": "0802:0085:0804:xxxx"
+          },
+          {
+            "name": "Obkepp Instability",
+            "coordinates": "07C1:0080:00FA:xxxx"
           },
           {
             "name": "Quimubyc Instability",
@@ -17253,12 +17276,19 @@
     },
     "Sivarates": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "GenBra Space Corp",
         "InExCor",
         "Morley Celestial Bureau",
         "UNITY"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Ortemojea Instability",
+            "coordinates": "0CE3:0079:0CD5:xxxx"
+          }
+        ],
         "GenBra Space Corp": [
           {
             "name": "Jokbert Shallows",
@@ -18286,6 +18316,7 @@
     "Umirpaiya": {
       "civilizations": [
         "9x99",
+        "Alliance of Galactic Travellers",
         "GenBra Space Corp",
         "InExCor",
         "Morley Celestial Bureau",
@@ -18296,6 +18327,12 @@
           {
             "name": "Wulisk",
             "coordinates": "07FB:0078:0800:xxxx"
+          }
+        ],
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Thnavi Spur",
+            "coordinates": "043D:0072:0D44:xxxx"
           }
         ],
         "GenBra Space Corp": [
