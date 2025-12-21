@@ -5740,6 +5740,10 @@
             "coordinates": "045F:007E:0D8D:xxxx"
           },
           {
+            "name": "Styephe Sector",
+            "coordinates": "0339:007B:02EB:xxxx"
+          },
+          {
             "name": "Suzumond",
             "coordinates": "04D7:0081:02A7:xxxx"
           },
@@ -12307,6 +12311,10 @@
           {
             "name": "Kiansa",
             "coordinates": "0A7A:0080:01B9:xxxx"
+          },
+          {
+            "name": "Paxisr Mass",
+            "coordinates": "0A79:007F:01B9:xxxx"
           },
           {
             "name": "Rehyrosa Expanse",
@@ -18907,6 +18915,10 @@
           }
         ],
         "Alliance of Galactic Travellers": [
+          {
+            "name": "Cagnow Instability",
+            "coordinates": "043D:0072:0D44:xxxx"
+          },
           {
             "name": "Libaktsao Boundary",
             "coordinates": "0001:003A:0791:xxxx"
