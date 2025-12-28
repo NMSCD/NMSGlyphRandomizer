@@ -630,6 +630,10 @@
         ],
         "Alliance of Galactic Travellers": [
           {
+            "name": "Ouhotie Boundary",
+            "coordinates": "0805:007A:0801:xxxx"
+          },
+          {
             "name": "Owerba Conflux",
             "coordinates": "043D:0072:0D44:xxxx"
           }
@@ -6312,12 +6316,20 @@
             "coordinates": "07F7:0081:07FC:xxxx"
           },
           {
+            "name": "Bihuman Void",
+            "coordinates": "0E15:007E:0B82:xxxx"
+          },
+          {
             "name": "Cizikerr Mass",
             "coordinates": "07F6:0081:07FC:xxxx"
           },
           {
             "name": "Vudeyne Cluster",
             "coordinates": "07F7:0080:07FC:xxxx"
+          },
+          {
+            "name": "Yachlons",
+            "coordinates": "0EA2:0080:05AF:xxxx"
           }
         ],
         "Dapper Diplo Dough Depot": [
@@ -6906,6 +6918,10 @@
             "coordinates": "0469:0081:0D6D:xxxx"
           },
           {
+            "name": "Rireith Conflux",
+            "coordinates": "041C:004F:0D89:xxxx"
+          },
+          {
             "name": "Savenix Instability",
             "coordinates": "042F:0079:0D55:xxxx"
           },
@@ -7254,6 +7270,10 @@
           {
             "name": "Baixio Bajialdwe",
             "coordinates": "0CC4:0080:02F0:xxxx"
+          },
+          {
+            "name": "Cukjamu Nebula",
+            "coordinates": "09A6:007C:0132:xxxx"
           },
           {
             "name": "Diyuanite Belt",
@@ -12696,12 +12716,28 @@
             "coordinates": "07F8:0078:0802:xxxx"
           },
           {
+            "name": "Inrogli Void",
+            "coordinates": "0946:0083:099A:xxxx"
+          },
+          {
+            "name": "Leyular Expanse",
+            "coordinates": "0634:0080:091E:xxxx"
+          },
+          {
+            "name": "Lidmard Void",
+            "coordinates": "043D:0073:0D44:xxxx"
+          },
+          {
             "name": "Linannaq Terminus",
             "coordinates": "07F7:007B:07FF:xxxx"
           },
           {
             "name": "Nasmisi Terminus",
             "coordinates": "07FA:0079:0802:xxxx"
+          },
+          {
+            "name": "Nucuniansa",
+            "coordinates": "0634:0080:091F:xxxx"
           },
           {
             "name": "Oimudumu",
@@ -12716,8 +12752,16 @@
             "coordinates": "043E:0072:0D44:xxxx"
           },
           {
+            "name": "Sea of Viginbel",
+            "coordinates": "09D7:0080:0798:xxxx"
+          },
+          {
             "name": "Swatko Nebula",
             "coordinates": "0804:0079:0802:xxxx"
+          },
+          {
+            "name": "Valadub",
+            "coordinates": "07DD:007F:09D1:xxxx"
           },
           {
             "name": "Veganata Cloud",
@@ -15805,11 +15849,18 @@
     },
     "Odyavanta": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "GenBra Space Corp",
         "InExCor",
         "UNITY"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Eforsh Expanse",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "GenBra Space Corp": [
           {
             "name": "Ecqune Instability",
@@ -16651,10 +16702,17 @@
     },
     "Raldwicarn": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "GenBra Space Corp",
         "InExCor"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Vuibal",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "GenBra Space Corp": [
           {
             "name": "Kayole Sector",
@@ -17724,6 +17782,10 @@
       ],
       "regions": {
         "Alliance of Galactic Travellers": [
+          {
+            "name": "Dajabuk Void",
+            "coordinates": "043D:0072:0D44:xxxx"
+          },
           {
             "name": "Przihev Spur",
             "coordinates": "0808:0085:0806:xxxx"
@@ -19385,11 +19447,18 @@
     },
     "Zalienkosm": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "GenBra Space Corp",
         "InExCor",
         "UNITY"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Xolocani Shallows",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "GenBra Space Corp": [
           {
             "name": "Iartok Terminus",
@@ -19483,6 +19552,10 @@
           }
         ],
         "Zavainlani Travellers Foundation": [
+          {
+            "name": "Aeciac Instability",
+            "coordinates": "0807:007C:0801:xxxx"
+          },
           {
             "name": "Jackae",
             "coordinates": "07FF:0083:07F8:xxxx"
