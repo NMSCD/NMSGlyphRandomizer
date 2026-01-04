@@ -1180,6 +1180,10 @@
         ],
         "Alliance of Galactic Travellers": [
           {
+            "name": "Mesini Adjunct",
+            "coordinates": "07FB:0083:07F9:xxxx"
+          },
+          {
             "name": "Peeble Quadrant",
             "coordinates": "043D:0072:0D44:xxxx"
           },
@@ -2896,12 +2900,19 @@
     },
     "Eajerandal": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "GenBra Space Corp",
         "InExCor",
         "Morley Celestial Bureau",
         "UNITY"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Ekfurb Adjunct",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "GenBra Space Corp": [
           {
             "name": "Carysoo",
@@ -3133,6 +3144,7 @@
         "Biological Survey Mission",
         "Black Cloud Commonwealth",
         "Brolo Republic",
+        "Celestial Resource Network",
         "Ciscen Royal Republic",
         "Coalition of Free Systems",
         "Consortium Hub - Eissentam",
@@ -3267,6 +3279,12 @@
           {
             "name": "Esbrug",
             "coordinates": "02F8:0062:0A69:xxxx"
+          }
+        ],
+        "Celestial Resource Network": [
+          {
+            "name": "Sea of Tilekt",
+            "coordinates": "0AFF:0085:0E38:xxxx"
           }
         ],
         "Ciscen Royal Republic": [
@@ -4704,6 +4722,7 @@
         "Heian Empire",
         "Helios Confederation of Independent Systems",
         "Hoskei-Oro Inc",
+        "Hub Francophone",
         "Hub Italiana",
         "Immortal Alliance",
         "Imperium Astralis",
@@ -7248,6 +7267,20 @@
           {
             "name": "Lilinja Cluster",
             "coordinates": "0D26:0083:0CAC:XXXX"
+          }
+        ],
+        "Hub Francophone": [
+          {
+            "name": "Aarima Mass",
+            "coordinates": "0D99:0082:04A6:xxxx"
+          },
+          {
+            "name": "Egawul Mass",
+            "coordinates": "0D8E:0080:04A1:xxxx"
+          },
+          {
+            "name": "Tommaijuh Band",
+            "coordinates": "0D9A:0081:04A6:xxxx"
           }
         ],
         "Hub Italiana": [
@@ -18922,10 +18955,17 @@
     },
     "Wucetosucc": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "InExCor",
         "UNITY"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "The Arm of Yikinsca",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "InExCor": [
           {
             "name": "Dugleto Nebula",
