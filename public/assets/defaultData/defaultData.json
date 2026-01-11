@@ -375,12 +375,19 @@
     },
     "Akvasanta": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "InExCor",
         "Morley Celestial Bureau",
         "PanGalactic StarCabs",
         "UNITY"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Sea of Iojiuy",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "InExCor": [
           {
             "name": "Amjeauf Mass",
@@ -3139,6 +3146,7 @@
       "civilizations": [
         "9x99",
         "APT-GEK",
+        "Alliance of Atlas Travellers",
         "Alliance of Galactic Travellers",
         "Amino Hub Eissentam",
         "Biological Survey Mission",
@@ -3176,6 +3184,7 @@
         "NMS Wallpaper Hub",
         "Neo-Tech Industries",
         "New Galactic Empire",
+        "No",
         "No Man's High Hub",
         "No Man's Sky Love",
         "Ph@nt0I¥I Š¥nDî¢ÅT€",
@@ -3209,6 +3218,12 @@
           {
             "name": "Syminoni Cloud",
             "coordinates": "0BDF:007F:026A:0079"
+          }
+        ],
+        "Alliance of Atlas Travellers": [
+          {
+            "name": "Qolevni Boundary",
+            "coordinates": "0D8D:006B:0E89:xxxx"
           }
         ],
         "Alliance of Galactic Travellers": [
@@ -3809,6 +3824,12 @@
             "coordinates": "046F:007C:0E12:xxxx"
           }
         ],
+        "No": [
+          {
+            "name": "Bojeaum",
+            "coordinates": "0E70:007F:0A84:0000"
+          }
+        ],
         "No Man's High Hub": [
           {
             "name": "Kaertj Band",
@@ -4068,12 +4089,19 @@
     },
     "Ekwathore": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "GenBra Space Corp",
         "InExCor",
         "Morley Celestial Bureau",
         "UNITY"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Setsia Cluster",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "GenBra Space Corp": [
           {
             "name": "Emoucer Void",
@@ -4641,7 +4669,10 @@
         "Atari Corporation",
         "Atlas's Children",
         "Aviszar Cartel",
+        "Avitus Valentinian",
+        "Aykanar Explorers Guild (AEG)",
         "BSO Botanical Society",
+        "Barrett Federation",
         "Bizarro Star Empire",
         "Black Star Order",
         "Blackwolfe Company",
@@ -4652,6 +4683,7 @@
         "Carcharodon Merchant Fleet",
         "Central Empire",
         "Chaos",
+        "Chrisubidon",
         "Circle16",
         "Commonwealth of Alesia",
         "Commonwealth of Independent Systems",
@@ -6023,6 +6055,10 @@
             "coordinates": "0116:007A:075C:xxxx"
           },
           {
+            "name": "Sea of Tiyrish",
+            "coordinates": "0116:0079:0760:xxxx"
+          },
+          {
             "name": "Taaroj Cluster",
             "coordinates": "0115:0079:075F:xxxx"
           }
@@ -6037,6 +6073,10 @@
           {
             "name": "Exphin Adjunct",
             "coordinates": "091D:00A1:09FF:xxxx"
+          },
+          {
+            "name": "Lofsko Nebula",
+            "coordinates": "0EBD:0080:065A:xxxx"
           },
           {
             "name": "Viansa Quadrant",
@@ -6057,6 +6097,10 @@
           {
             "name": "Eeshiro Adjunct",
             "coordinates": "0656:0080:012A:xxxx"
+          },
+          {
+            "name": "Tuarry Conflux",
+            "coordinates": "09D4:0082:016C:xxxx"
           }
         ],
         "Astral Fleet": [
@@ -6091,10 +6135,28 @@
             "coordinates": "0FE1:0004:0FFD:xxxx"
           }
         ],
+        "Avitus Valentinian": [
+          {
+            "name": "Nepins Adjunct",
+            "coordinates": "0DC4:0030:0982:xxxx"
+          }
+        ],
+        "Aykanar Explorers Guild (AEG)": [
+          {
+            "name": "Wildbi Nebula",
+            "coordinates": "01B3:0078:0AF0:xxxx"
+          }
+        ],
         "BSO Botanical Society": [
           {
             "name": "Dihirng",
             "coordinates": "0A72:007C:0A56:xxxx"
+          }
+        ],
+        "Barrett Federation": [
+          {
+            "name": "Oydport Mass",
+            "coordinates": "0A26:0080:0196:xxxx"
           }
         ],
         "Bizarro Star Empire": [
@@ -6275,6 +6337,12 @@
           {
             "name": "Lagresb Adjunct",
             "coordinates": "0326:0082:0D06:xxxx"
+          }
+        ],
+        "Chrisubidon": [
+          {
+            "name": "Ohuavey Spur",
+            "coordinates": "0448:0081:0D55:xxxx"
           }
         ],
         "Circle16": [
@@ -9432,6 +9500,10 @@
           }
         ],
         "MegaCorp": [
+          {
+            "name": "Alscotaiz Void",
+            "coordinates": "0FFD:007D:0897:xxxx"
+          },
           {
             "name": "Esvasol Conflux",
             "coordinates": "0FFC:007D:0896:xxxx"
@@ -12614,9 +12686,16 @@
     },
     "Huruahili": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "InExCor"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Sea of Yistani",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "InExCor": [
           {
             "name": "Cayrian Expanse",
@@ -13636,6 +13715,7 @@
         "Elysium",
         "GenBra Space Corp",
         "InExCor",
+        "Isdoraijung Travellers Foundation",
         "Legion of Mandoran",
         "Morley Celestial Bureau",
         "Mud Bunny 11",
@@ -13646,10 +13726,6 @@
       ],
       "regions": {
         "Alliance of Galactic Travellers": [
-          {
-            "name": "Umuiri Cloud",
-            "coordinates": "043D:0072:0D44:xxxx"
-          },
           {
             "name": "Yibiakulk Sector",
             "coordinates": "0811:00A2:0810:xxxx"
@@ -13741,6 +13817,16 @@
           {
             "name": "Yepuaesu",
             "coordinates": "080C:0080:080A:xxxx"
+          }
+        ],
+        "Isdoraijung Travellers Foundation": [
+          {
+            "name": "Socylulapp Terminus",
+            "coordinates": "043D:0072:0D43:xxxx"
+          },
+          {
+            "name": "Umuiri Cloud",
+            "coordinates": "043D:0072:0D44:xxxx"
           }
         ],
         "Legion of Mandoran": [
@@ -17296,9 +17382,23 @@
     },
     "Saffneckm": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
+        "Bemporean PanGalactic",
         "InExCor"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Boverdi Nebula",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
+        "Bemporean PanGalactic": [
+          {
+            "name": "Aofenroz",
+            "coordinates": "05F0:00D7:04CA:xxxx"
+          }
+        ],
         "InExCor": [
           {
             "name": "Agpurz",
