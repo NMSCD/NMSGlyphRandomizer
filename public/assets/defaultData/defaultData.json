@@ -1485,7 +1485,6 @@
     },
     "Calypso": {
       "civilizations": [
-        "Alliance of Galactic Travellers",
         "Calypso Travellers Foundation",
         "Central Empire",
         "GPIEC",
@@ -1499,12 +1498,6 @@
         "The Pirate Hub"
       ],
       "regions": {
-        "Alliance of Galactic Travellers": [
-          {
-            "name": "Deduywri Cloud",
-            "coordinates": "043D:0072:0D44:xxxx"
-          }
-        ],
         "Calypso Travellers Foundation": [
           {
             "name": "Ahnelev Instability",
@@ -1517,6 +1510,10 @@
           {
             "name": "Cokowat",
             "coordinates": "0687:007E:043E:xxxx"
+          },
+          {
+            "name": "Deduywri Cloud",
+            "coordinates": "043D:0072:0D44:xxxx"
           },
           {
             "name": "Eakoss",
@@ -1533,6 +1530,10 @@
           {
             "name": "Eporpha",
             "coordinates": "0805:0082:07FA:xxxx"
+          },
+          {
+            "name": "Etnormt Cloud",
+            "coordinates": "0803:0084:07FA:xxxx"
           },
           {
             "name": "Etnormteyll Void",
@@ -1560,6 +1561,10 @@
           },
           {
             "name": "Inusamophr Adjunct",
+            "coordinates": "043C:007F:0565:xxxx"
+          },
+          {
+            "name": "Inusham Band",
             "coordinates": "043C:007F:0565:xxxx"
           },
           {
@@ -1591,8 +1596,24 @@
             "coordinates": "0801:007E:07F7:xxxx"
           },
           {
+            "name": "Rahulse Anomaly",
+            "coordinates": "0512:007A:0205:xxxx"
+          },
+          {
+            "name": "Rohulsenga Cluster",
+            "coordinates": "0512:007A:0205:xxxx"
+          },
+          {
             "name": "Sipeken",
             "coordinates": "0680:0081:042B:xxxx"
+          },
+          {
+            "name": "Wechti Sector",
+            "coordinates": "0804:0081:07F9:xxxx"
+          },
+          {
+            "name": "Wechtinsk",
+            "coordinates": "0804:0081:07F9:xxxx"
           },
           {
             "name": "Yashimih Quadrant",
@@ -4687,6 +4708,7 @@
         "Circle16",
         "Commonwealth of Alesia",
         "Commonwealth of Independent Systems",
+        "Conure Core Project",
         "Conure Republic",
         "Coruscant Republic",
         "Cosmic Cooperative",
@@ -4779,6 +4801,7 @@
         "L22B Convergence",
         "La Cosa Nostra Cartel",
         "Laconian Republic",
+        "League of Super Evil",
         "Librarian Knights",
         "Lukazon",
         "Lycentian Federation",
@@ -6361,6 +6384,12 @@
           {
             "name": "Arahgno Cluster",
             "coordinates": "05F8:007F:04F0:xxxx"
+          }
+        ],
+        "Conure Core Project": [
+          {
+            "name": "Loptong Conflux",
+            "coordinates": "080E:0079:07F4:xxxx"
           }
         ],
         "Conure Republic": [
@@ -9451,6 +9480,12 @@
             "coordinates": "0909:007F:010D:00A9"
           }
         ],
+        "League of Super Evil": [
+          {
+            "name": "Imuirin Spur",
+            "coordinates": "0A91:0002:0781:xxxx"
+          }
+        ],
         "Librarian Knights": [
           {
             "name": "Oglieser Band",
@@ -10291,6 +10326,10 @@
           {
             "name": "Sea of Kepatoras",
             "coordinates": "0C38:0080:0CA8:xxxx"
+          },
+          {
+            "name": "Yoquaesu Expanse",
+            "coordinates": "0C44:0083:0CB1:xxxx"
           }
         ],
         "Solis Dominion": [
@@ -10881,6 +10920,10 @@
           {
             "name": "Beholby Conflux",
             "coordinates": "0A48:00FD:075B:xxxx"
+          },
+          {
+            "name": "Nusking",
+            "coordinates": "0A47:00FE:075C:xxxx"
           }
         ],
         "Trailblazer Corporation": [
@@ -15908,6 +15951,10 @@
           {
             "name": "Sifaleve Terminus",
             "coordinates": "0804:0083:0804:xxxx"
+          },
+          {
+            "name": "The Arm of Pekeel",
+            "coordinates": "0575:007B:0127:xxxx"
           }
         ],
         "GenBra Space Corp": [
@@ -19595,6 +19642,10 @@
       "regions": {
         "Alliance of Galactic Travellers": [
           {
+            "name": "Cohchowe Fringe",
+            "coordinates": "07FB:007A:07FA:xxxx"
+          },
+          {
             "name": "Xolocani Shallows",
             "coordinates": "043D:0072:0D44:xxxx"
           }
@@ -19633,6 +19684,7 @@
     },
     "Zavainlani": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "Duskbreaker",
         "InExCor",
         "Morley Celestial Bureau",
@@ -19641,6 +19693,12 @@
         "Zavainlani Travellers Foundation"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Ryennent Quadrant",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "Duskbreaker": [
           {
             "name": "Onilis Fringe",
