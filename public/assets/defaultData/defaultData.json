@@ -3411,6 +3411,10 @@
             "coordinates": "0800:0078:0803:xxxx"
           },
           {
+            "name": "Waranol Fringe",
+            "coordinates": "07FF:0078:0804:xxxx"
+          },
+          {
             "name": "Wiambe",
             "coordinates": "07FF:0072:0805:xxxx"
           },
@@ -19694,6 +19698,10 @@
       ],
       "regions": {
         "Alliance of Galactic Travellers": [
+          {
+            "name": "Gatisto Sector",
+            "coordinates": "042F:007C:08BF:xxxx"
+          },
           {
             "name": "Ryennent Quadrant",
             "coordinates": "043D:0072:0D44:xxxx"
