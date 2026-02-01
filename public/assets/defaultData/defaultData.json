@@ -1616,7 +1616,15 @@
             "coordinates": "0804:0081:07F9:xxxx"
           },
           {
+            "name": "Xinghus Spur",
+            "coordinates": "0682:0080:0427:xxxx"
+          },
+          {
             "name": "Yashimih Quadrant",
+            "coordinates": "0682:0080:0429:xxxx"
+          },
+          {
+            "name": "Yashimihara",
             "coordinates": "0682:0080:0429:xxxx"
           }
         ],
@@ -3291,6 +3299,10 @@
           {
             "name": "Vunina Conflux",
             "coordinates": "080B:0075:0801:xxxx"
+          },
+          {
+            "name": "Zutikleo Adjunct",
+            "coordinates": "07FC:0078:0803:xxxx"
           }
         ],
         "Amino Hub Eissentam": [
@@ -3378,6 +3390,10 @@
           }
         ],
         "Eissentam Travellers Foundation": [
+          {
+            "name": "Ajukualk",
+            "coordinates": "07FD:0078:0803:xxxx"
+          },
           {
             "name": "Havense",
             "coordinates": "07FF:0077:0803:xxxx"
@@ -12217,6 +12233,10 @@
             "coordinates": "077F:007E:0ECB:xxxx"
           },
           {
+            "name": "Suhchap",
+            "coordinates": "0587:0080:0195:xxxx"
+          },
+          {
             "name": "Tapota Adjunct",
             "coordinates": "077D:007E:0ECB:xxxx"
           },
@@ -12479,6 +12499,10 @@
           {
             "name": "Adsentuf Conflux",
             "coordinates": "0A7A:007F:01BA:xxxx"
+          },
+          {
+            "name": "Bossal Quadrant",
+            "coordinates": "0A7B:007F:01BA:xxxx"
           },
           {
             "name": "Kiansa",
@@ -17700,6 +17724,7 @@
     "Sudzerbal": {
       "civilizations": [
         "9x99",
+        "Alliance of Galactic Travellers",
         "Catholic Haven of Righteous Intergalactic Sanctified Travelers",
         "GenBra Space Corp",
         "InExCor",
@@ -17713,6 +17738,12 @@
           {
             "name": "Utaana",
             "coordinates": "07FB:007A:07FA:XXXX"
+          }
+        ],
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Boffme",
+            "coordinates": "0772:0084:0E25:xxxx"
           }
         ],
         "Catholic Haven of Righteous Intergalactic Sanctified Travelers": [
