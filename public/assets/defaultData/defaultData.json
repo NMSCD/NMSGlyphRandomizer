@@ -1485,6 +1485,7 @@
     },
     "Calypso": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "Calypso Travellers Foundation",
         "Central Empire",
         "GPIEC",
@@ -1498,6 +1499,12 @@
         "The Pirate Hub"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Ruemel",
+            "coordinates": "07FD:0080:0809:xxxx"
+          }
+        ],
         "Calypso Travellers Foundation": [
           {
             "name": "Ahnelev Instability",
@@ -13892,6 +13899,10 @@
         ],
         "Isdoraijung Travellers Foundation": [
           {
+            "name": "Dipibel Boundary",
+            "coordinates": "07BC:0082:07C4:xxxx"
+          },
+          {
             "name": "Socylulapp Terminus",
             "coordinates": "043D:0072:0D43:xxxx"
           },
@@ -15243,11 +15254,18 @@
     },
     "Muhacksonto": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "GenBra Space Corp",
         "InExCor",
         "Morley Celestial Bureau"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Lowannyas",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "GenBra Space Corp": [
           {
             "name": "Accurla Adjunct",
@@ -17398,11 +17416,18 @@
     },
     "Rycempler": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "InExCor",
         "Morley Celestial Bureau",
         "Rycempler Travellers Foundation"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Fainni Instability",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "InExCor": [
           {
             "name": "Biteter Anomaly",
