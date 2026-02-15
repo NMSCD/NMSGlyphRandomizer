@@ -3240,6 +3240,7 @@
         "The Pirate Hub",
         "The Qitanian Empire",
         "The Viridian Assembly of Eissentam",
+        "United Star Navy",
         "Weyland-Yutani Corporation",
         "YES Recovery Project"
       ],
@@ -4094,6 +4095,12 @@
           {
             "name": "Sea of Aknopi",
             "coordinates": "05CE:0081:020E:xxxx"
+          }
+        ],
+        "United Star Navy": [
+          {
+            "name": "Asbrogr Nebula",
+            "coordinates": "017D:007F:0938:xxxx"
           }
         ],
         "Weyland-Yutani Corporation": [
@@ -5825,6 +5832,10 @@
             "coordinates": "0E05:0079:067E:xxxx"
           },
           {
+            "name": "Sea of Mymifa",
+            "coordinates": "0B0E:0080:02E8:xxxx"
+          },
+          {
             "name": "Sea of Uxalif",
             "coordinates": "0B0E:0080:02EB:xxxx"
           },
@@ -5857,6 +5868,10 @@
             "coordinates": "04D7:0081:02A7:xxxx"
           },
           {
+            "name": "Tasyapot",
+            "coordinates": "0746:007E:0EB9:xxxx"
+          },
+          {
             "name": "The Arm of Chuaria",
             "coordinates": "0A7C:007F:016C:xxxx"
           },
@@ -5871,6 +5886,10 @@
           {
             "name": "Tiosan Boundary",
             "coordinates": "0D17:007F:0A58:xxxx"
+          },
+          {
+            "name": "Tisyapotazi Fringe",
+            "coordinates": "0746:007E:0EB9:xxxx"
           },
           {
             "name": "Tiysoor Cloud",
@@ -11161,6 +11180,10 @@
             "coordinates": "046B:0082:0D6E:xxxx"
           },
           {
+            "name": "Sea of Wiforsso",
+            "coordinates": "046B:0082:0D6E:xxxx"
+          },
+          {
             "name": "Woforssonsi",
             "coordinates": "046B:0082:0D6E:xxxx"
           }
@@ -13901,6 +13924,10 @@
           {
             "name": "Dipibel Boundary",
             "coordinates": "07BC:0082:07C4:xxxx"
+          },
+          {
+            "name": "Seyevir Sector",
+            "coordinates": "07C3:0083:07D6:xxxx"
           },
           {
             "name": "Socylulapp Terminus",
