@@ -1172,6 +1172,7 @@
         "ENDPOINT",
         "Galactic Hub Budullangr",
         "GenBra Space Corp",
+        "Heian Empire",
         "InExCor",
         "Morley Celestial Bureau",
         "New Hub Order",
@@ -1305,6 +1306,12 @@
           {
             "name": "Veykin Expanse",
             "coordinates": "07FB:0085:07FB:xxxx"
+          }
+        ],
+        "Heian Empire": [
+          {
+            "name": "Ubaredj Abjunct",
+            "coordinates": "042E:0076:OD53:xxxx"
           }
         ],
         "InExCor": [
@@ -10028,6 +10035,10 @@
           {
             "name": "Exkeel Sector",
             "coordinates": "0803:0086:07FE:xxxx"
+          },
+          {
+            "name": "Nulaene",
+            "coordinates": "0804:0087:07FE:xxxx"
           }
         ],
         "Sacred Observers: Operation Null": [
@@ -12215,6 +12226,10 @@
             "coordinates": "0802:0085:0805:xxxx"
           },
           {
+            "name": "Intrau",
+            "coordinates": "0801:0086:0805:xxxx"
+          },
+          {
             "name": "Iugosla Expanse",
             "coordinates": "077D:007F:0ECB:xxxx"
           },
@@ -12261,6 +12276,10 @@
           {
             "name": "Rohlitk Shallows",
             "coordinates": "077F:007E:0ECB:xxxx"
+          },
+          {
+            "name": "Sea of Ajukuna",
+            "coordinates": "02D4:007E:051A:xxxx"
           },
           {
             "name": "Suhchap",
@@ -13924,6 +13943,10 @@
           {
             "name": "Dipibel Boundary",
             "coordinates": "07BC:0082:07C4:xxxx"
+          },
+          {
+            "name": "Inklem",
+            "coordinates": "043C:0072:0D45:xxxx"
           },
           {
             "name": "Seyevir Sector",
