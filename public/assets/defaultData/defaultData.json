@@ -13830,7 +13830,6 @@
     },
     "Isdoraijung": {
       "civilizations": [
-        "Alliance of Galactic Travellers",
         "CIAT Atlas Civilization",
         "Elysium",
         "GenBra Space Corp",
@@ -13845,12 +13844,6 @@
         "UFIPA"
       ],
       "regions": {
-        "Alliance of Galactic Travellers": [
-          {
-            "name": "Yibiakulk Sector",
-            "coordinates": "0811:00A2:0810:xxxx"
-          }
-        ],
         "CIAT Atlas Civilization": [
           {
             "name": "Olamba Cluster",
@@ -13959,6 +13952,10 @@
           {
             "name": "Umuiri Cloud",
             "coordinates": "043D:0072:0D44:xxxx"
+          },
+          {
+            "name": "Yibiakulk Sector",
+            "coordinates": "0811:00A2:0810:xxxx"
           }
         ],
         "Legion of Mandoran": [
