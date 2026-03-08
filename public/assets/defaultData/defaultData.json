@@ -9971,6 +9971,14 @@
           {
             "name": "Ilmatch Conflux",
             "coordinates": "080B:0080:0804:xxxx"
+          },
+          {
+            "name": "Nonhaki Terminus",
+            "coordinates": "081F:007E:0815:XXXX"
+          },
+          {
+            "name": "Otusing Cluster",
+            "coordinates": "0820:007F:0815:XXXX"
           }
         ],
         "Royal Space Society": [
@@ -11077,6 +11085,10 @@
           {
             "name": "Tusdaibu Spur",
             "coordinates": "0C1E:0081:029B:xxxx"
+          },
+          {
+            "name": "Uagste",
+            "coordinates": "0AFD:0079:0E37:xxxx"
           },
           {
             "name": "Wakakabo Spur",
