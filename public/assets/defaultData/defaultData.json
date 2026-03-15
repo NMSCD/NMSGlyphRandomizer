@@ -2578,11 +2578,18 @@
     },
     "Doctinawyra": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "GenBra Space Corp",
         "InExCor",
         "Morley Celestial Bureau"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "The Arm of Dahrimanne",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "GenBra Space Corp": [
           {
             "name": "Hahnein Sector",
@@ -5345,10 +5352,6 @@
           {
             "name": "Emidtum",
             "coordinates": "0A85:007C:017B:xxxx"
-          },
-          {
-            "name": "Ennert Adjunct",
-            "coordinates": "043C:0073:0D42:0xxx"
           },
           {
             "name": "Enzexu Mass",
