@@ -1622,6 +1622,10 @@
             "coordinates": "0680:0081:042B:xxxx"
           },
           {
+            "name": "Sipekentoyr",
+            "coordinates": "0680:0081:042B:xxxx"
+          },
+          {
             "name": "Wechti Sector",
             "coordinates": "0804:0081:07F9:xxxx"
           },
@@ -4717,6 +4721,7 @@
         "AP Federation",
         "Aculon Empire",
         "Adventurers Society",
+        "Aesir Ascendancy",
         "Age of eXistence",
         "Ahiran Order",
         "Aiad Khaganate",
@@ -4765,6 +4770,7 @@
         "Damatagam Coalition",
         "Dapper Diplo Dough Depot",
         "Death Watch",
+        "Deep Thought Collective",
         "Democratic Order Of Planets",
         "Divine Dynasty Empire",
         "Domus Stellaris Confederation",
@@ -4927,6 +4933,7 @@
         "The Chivalric Knights of the Order of Iteration",
         "The Civilization Hub",
         "The Collective",
+        "The Commonwealth of Saxia",
         "The Council of Kings",
         "The Crimson Arc",
         "The Elmhurst Hermitage",
@@ -5038,6 +5045,12 @@
           {
             "name": "Mubloeh",
             "coordinates": "044D:0081:0D57:xxxx"
+          }
+        ],
+        "Aesir Ascendancy": [
+          {
+            "name": "Uveangbon Cloud",
+            "coordinates": "0916:0081:0138:xxxx"
           }
         ],
         "Age of eXistence": [
@@ -6514,6 +6527,12 @@
           {
             "name": "Hompor Nebula",
             "coordinates": "0E2D:0080:0512:xxxx"
+          }
+        ],
+        "Deep Thought Collective": [
+          {
+            "name": "Ottiiq Fringe",
+            "coordinates": "0803:0087:0800:xxxx"
           }
         ],
         "Democratic Order Of Planets": [
@@ -9422,6 +9441,10 @@
           {
             "name": "Iatrixon",
             "coordinates": "0642:007B:0152:xxxx"
+          },
+          {
+            "name": "Uygurus",
+            "coordinates": "0641:007A:0150:xxxx"
           }
         ],
         "Interstellar Commerce Guild": [
@@ -10602,6 +10625,20 @@
           {
             "name": "Ilturny Quadrant",
             "coordinates": "0810:0084:07F0:xxxx"
+          }
+        ],
+        "The Commonwealth of Saxia": [
+          {
+            "name": "Gihback Anomaly",
+            "coordinates": "09B8:0081:0E6D:xxxx"
+          },
+          {
+            "name": "Shbune Conflux",
+            "coordinates": "0520:0077:0E23:xxxx"
+          },
+          {
+            "name": "Zexunggo Shallows",
+            "coordinates": "09B8:0081:0E6E:xxxx"
           }
         ],
         "The Council of Kings": [
