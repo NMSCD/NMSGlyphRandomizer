@@ -4725,6 +4725,7 @@
         "Age of eXistence",
         "Ahiran Order",
         "Aiad Khaganate",
+        "AlienVirus",
         "Aliens of NMS",
         "Alliance of Atlas Travellers",
         "Alliance of Delta Andromeda",
@@ -5104,6 +5105,12 @@
             "coordinates": "018F:007D:0712:xxxx"
           }
         ],
+        "AlienVirus": [
+          {
+            "name": "Urtian",
+            "coordinates": "0965:0085:0EA0:xxxx"
+          }
+        ],
         "Aliens of NMS": [
           {
             "name": "Aausses Spur",
@@ -5244,6 +5251,10 @@
             "coordinates": "0EC9:007D:099B:xxxx"
           },
           {
+            "name": "Bovell",
+            "coordinates": "0C19:0080:029B:xxxx"
+          },
+          {
             "name": "Cagonia Shallows",
             "coordinates": "043D:0072:0D45:xxxx"
           },
@@ -5338,10 +5349,6 @@
           {
             "name": "Eggine Sector",
             "coordinates": "0D16:007F:0A58:xxxx"
-          },
-          {
-            "name": "Ehsiegf",
-            "coordinates": "0B0E:0080:02E7:xxxx"
           },
           {
             "name": "Eibesh",
@@ -5544,6 +5551,10 @@
             "coordinates": "0A11:0081:0E2B:xxxx"
           },
           {
+            "name": "Ihtigen Quadrant",
+            "coordinates": "0177:0083:07F8:xxxx"
+          },
+          {
             "name": "Iknarvert",
             "coordinates": "043D:0072:0D42:xxxx"
           },
@@ -5564,10 +5575,6 @@
             "coordinates": "042D:0074:0D26:xxxx"
           },
           {
-            "name": "Ipivi Shallows",
-            "coordinates": "0B0E:0080:02E9:xxxx"
-          },
-          {
             "name": "Iptrevs Boundary",
             "coordinates": "0818:007C:01C2:0xxx"
           },
@@ -5586,6 +5593,10 @@
           {
             "name": "Itsuci Conflux",
             "coordinates": "05F5:007C:02EB:0xxx"
+          },
+          {
+            "name": "Itzilj Terminus",
+            "coordinates": "06D6:0078:0ED5:xxxx"
           },
           {
             "name": "Iubikasi Adjunct",
@@ -5896,8 +5907,16 @@
             "coordinates": "0746:007E:0EB9:xxxx"
           },
           {
+            "name": "Terykle Terminus",
+            "coordinates": "0E8F:0083:076A:xxxx"
+          },
+          {
             "name": "The Arm of Chuaria",
             "coordinates": "0A7C:007F:016C:xxxx"
+          },
+          {
+            "name": "The Arm of Nudgret",
+            "coordinates": "06D5:0078:0ED5:xxxx"
           },
           {
             "name": "The Arm of Obgenkaiw",
@@ -6464,6 +6483,10 @@
         ],
         "Conure Republic": [
           {
+            "name": "Gohaiyulk Instability",
+            "coordinates": "0445:0088:0C08:xxxx"
+          },
+          {
             "name": "Gohaiyulkuq Adjunct",
             "coordinates": "0445:0088:0C08:xxxx"
           }
@@ -7026,6 +7049,10 @@
             "coordinates": "0469:0081:0D6E:xxxx"
           },
           {
+            "name": "Bistim Band",
+            "coordinates": "0469:0081:0D6E:xxxx"
+          },
+          {
             "name": "Canthian",
             "coordinates": "042F:0078:0D54:xxxx"
           },
@@ -7060,6 +7087,10 @@
           {
             "name": "Eapustafiges Adjunct",
             "coordinates": "046A:0081:0D6D:xxxx"
+          },
+          {
+            "name": "Enhara",
+            "coordinates": "0468:0081:0D6C:xxxx"
           },
           {
             "name": "Enharagch Expanse",
@@ -9450,6 +9481,10 @@
             "coordinates": "0642:007B:0152:xxxx"
           },
           {
+            "name": "Mevelig",
+            "coordinates": "0641:007A:0151:xxxx"
+          },
+          {
             "name": "Uygurus",
             "coordinates": "0641:007A:0150:xxxx"
           }
@@ -9806,6 +9841,10 @@
         ],
         "No Man's Sky Love": [
           {
+            "name": "Haesubam Void",
+            "coordinates": "0803:0085:0803:xxxx"
+          },
+          {
             "name": "Haesubamuru Boundary",
             "coordinates": "0803:0085:0803:xxxx"
           },
@@ -10006,12 +10045,20 @@
             "coordinates": "080B:0080:0804:xxxx"
           },
           {
+            "name": "Juhambi Cluster",
+            "coordinates": "07EC:0070:074F:0078"
+          },
+          {
             "name": "Nonhaki Terminus",
             "coordinates": "081F:007E:0815:XXXX"
           },
           {
             "name": "Otusing Cluster",
             "coordinates": "0820:007F:0815:XXXX"
+          },
+          {
+            "name": "Ticism",
+            "coordinates": "07EC:007F:07F3:XXXX"
           }
         ],
         "Royal Space Society": [
@@ -10729,6 +10776,10 @@
         "The Entente Sector": [
           {
             "name": "Ahgnortae Void",
+            "coordinates": "0469:0081:0D71:xxxx"
+          },
+          {
+            "name": "Aoakea",
             "coordinates": "0469:0081:0D71:xxxx"
           }
         ],
@@ -12321,6 +12372,10 @@
             "coordinates": "0802:0085:0804:xxxx"
           },
           {
+            "name": "Musbonari Cluster",
+            "coordinates": "0FFE:00A1:0D36:xxxx"
+          },
+          {
             "name": "Obkepp Instability",
             "coordinates": "07C1:0080:00FA:xxxx"
           },
@@ -12355,6 +12410,10 @@
           {
             "name": "Teuriabal Quadrant",
             "coordinates": "0802:0086:0804:xxxx"
+          },
+          {
+            "name": "Vegand Nebula",
+            "coordinates": "0FFE:00A1:0D37:xxxx"
           }
         ],
         "Amino Hub": [
@@ -19819,6 +19878,14 @@
       "regions": {
         "Alliance of Galactic Travellers": [
           {
+            "name": "Acculo Anomaly",
+            "coordinates": "07FA:007A:07FA:xxxx"
+          },
+          {
+            "name": "Agrova Mass",
+            "coordinates": "07FA:007A:07FB:xxxx"
+          },
+          {
             "name": "Cohchowe Fringe",
             "coordinates": "07FB:007A:07FA:xxxx"
           },
@@ -19944,8 +20011,16 @@
             "coordinates": "07F9:0084:07FC:xxxx"
           },
           {
+            "name": "Normt Spur",
+            "coordinates": "07FD:0083:07F7:xxxx"
+          },
+          {
             "name": "Ratdaman",
             "coordinates": "07F8:007E:07FB:xxxx"
+          },
+          {
+            "name": "Sea of Tikulcor",
+            "coordinates": "07FE:0083:07F8:xxxx"
           }
         ]
       }
@@ -20045,9 +20120,16 @@
     },
     "Zikehpm": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "InExCor"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Umtatj",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "InExCor": [
           {
             "name": "Ifnaldak Terminus",
