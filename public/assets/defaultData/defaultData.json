@@ -3429,7 +3429,7 @@
             "coordinates": "07FD:0074:0806:xxxx"
           },
           {
-            "name": "Ihlaver",
+            "name": "Ilhlaver",
             "coordinates": "07FE:0071:0808:xxxx"
           },
           {
@@ -5499,10 +5499,6 @@
             "coordinates": "078B:007C:0EAA:xxxx"
           },
           {
-            "name": "Gureit Expanse",
-            "coordinates": "0B0F:0080:02E9:xxxx"
-          },
-          {
             "name": "Guthia Adjunct",
             "coordinates": "0335:0072:0C71:0xxx"
           },
@@ -5869,6 +5865,10 @@
           {
             "name": "Sea of Mymifa",
             "coordinates": "0B0E:0080:02E8:xxxx"
+          },
+          {
+            "name": "Sea of Umvell",
+            "coordinates": "0DAA:0077:0457:xxxx"
           },
           {
             "name": "Sea of Uxalif",
@@ -6597,12 +6597,24 @@
         ],
         "EPIC": [
           {
+            "name": "Akyumid Fringe",
+            "coordinates": "0908:007E:092D:xxxx"
+          },
+          {
             "name": "Bisong Conflux",
             "coordinates": "0FE2:0004:0FFA:xxxx"
           },
           {
             "name": "Bonesenk Cloud",
             "coordinates": "0FE2:0004:0FFB:xxxx"
+          },
+          {
+            "name": "Emkinses Fringe",
+            "coordinates": "0FE1:0004:0FFB:xxxx"
+          },
+          {
+            "name": "Ergenth",
+            "coordinates": "0907:007E:092C:xxxx"
           },
           {
             "name": "Hausan Expanse",
@@ -7011,6 +7023,10 @@
         ],
         "Galactic Empire of HOVA": [
           {
+            "name": "Iszmyt Sector",
+            "coordinates": "0467:0081:0D71:xxxx"
+          },
+          {
             "name": "Iszmytrid Mass",
             "coordinates": "0467:0081:0D71:xxxx"
           },
@@ -7107,6 +7123,10 @@
           {
             "name": "Iajukul Cluster",
             "coordinates": "044D:0082:0D54:xxxx"
+          },
+          {
+            "name": "Kogii Shallows",
+            "coordinates": "0468:0081:0D6E:xxxx"
           },
           {
             "name": "Kogii'ithip",
@@ -7537,6 +7557,10 @@
           {
             "name": "Nancouri Instability",
             "coordinates": "09A6:007C:0130:xxxx"
+          },
+          {
+            "name": "Obreen Void",
+            "coordinates": "0BF2:0074:0D61:xxxx"
           },
           {
             "name": "Uyumisi Spur",
@@ -10047,6 +10071,10 @@
           {
             "name": "Juhambi Cluster",
             "coordinates": "07EC:0070:074F:0078"
+          },
+          {
+            "name": "Manheirs Sector",
+            "coordinates": "0807:0080:0802:XXXX"
           },
           {
             "name": "Nonhaki Terminus",
