@@ -610,7 +610,8 @@
         "Alliance of Galactic Travellers",
         "GenBra Space Corp",
         "InExCor",
-        "Morley Celestial Bureau"
+        "Morley Celestial Bureau",
+        "Noctyrium"
       ],
       "regions": {
         "ARFL": [
@@ -737,6 +738,12 @@
           {
             "name": "Suculumbar Sector",
             "coordinates": "07F4:007F:07EC:0078"
+          }
+        ],
+        "Noctyrium": [
+          {
+            "name": "Datasynt Adjunct",
+            "coordinates": "0807:0087:07F9:xxxx"
           }
         ]
       }
@@ -4908,6 +4915,7 @@
         "Sacred Observers: Operation Null",
         "Samone Corporation",
         "Sankara Resistance Force",
+        "Santherian Collective",
         "Scholars and Cartographers Guild",
         "Selenite Blizzard Guild",
         "Sepros Alliance",
@@ -5865,10 +5873,6 @@
           {
             "name": "Sea of Mymifa",
             "coordinates": "0B0E:0080:02E8:xxxx"
-          },
-          {
-            "name": "Sea of Umvell",
-            "coordinates": "0DAA:0077:0457:xxxx"
           },
           {
             "name": "Sea of Uxalif",
@@ -10185,6 +10189,12 @@
           {
             "name": "Yangvirs Mass",
             "coordinates": "0E92:0080:0695:xxxx"
+          }
+        ],
+        "Santherian Collective": [
+          {
+            "name": "Yenmaria Band",
+            "coordinates": "0EED:0082:073D:xxxx"
           }
         ],
         "Scholars and Cartographers Guild": [
@@ -15725,7 +15735,8 @@
     "Neuxoisan": {
       "civilizations": [
         "Alliance of Galactic Travellers",
-        "InExCor"
+        "InExCor",
+        "The Stargate Imperium"
       ],
       "regions": {
         "Alliance of Galactic Travellers": [
@@ -15750,6 +15761,12 @@
           {
             "name": "Tuswifto Band",
             "coordinates": "0807:0080:0807:xxxx"
+          }
+        ],
+        "The Stargate Imperium": [
+          {
+            "name": "Siguerr Mass",
+            "coordinates": "0839:00D0:0829:XXXX"
           }
         ]
       }
