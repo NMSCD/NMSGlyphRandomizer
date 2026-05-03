@@ -3220,9 +3220,11 @@
         "Darkk Sector Syndicate",
         "Depressed Space Federation",
         "Doru Empire",
+        "Eissengard Construction Coalition",
         "Eissentam Confederated Systems",
         "Eissentam Travellers Foundation",
         "Eisvana",
+        "Empire of Bob",
         "ExoGek Intergalactic Holdings Corporation",
         "Federal Republic of Rezehno",
         "Free Xparsian Star Order",
@@ -3408,6 +3410,12 @@
             "coordinates": "0E91:007B:0603:xxxx"
           }
         ],
+        "Eissengard Construction Coalition": [
+          {
+            "name": "Oianad",
+            "coordinates": "0E45:0078:0539:xxxx"
+          }
+        ],
         "Eissentam Confederated Systems": [
           {
             "name": "Aadwajima Cloud",
@@ -3500,6 +3508,12 @@
           {
             "name": "Ziwananau",
             "coordinates": "0FFD:0021:0910:xxxx"
+          }
+        ],
+        "Empire of Bob": [
+          {
+            "name": "Jafnet Cloud",
+            "coordinates": "0DF6:007F:05E6:xxxx"
           }
         ],
         "ExoGek Intergalactic Holdings Corporation": [
@@ -4726,6 +4740,7 @@
         "A+ Alliance",
         "A.D.E.P.T Federation",
         "AP Federation",
+        "ATLAS Commonwealth",
         "Aculon Empire",
         "Adventurers Society",
         "Aesir Ascendancy",
@@ -5043,6 +5058,12 @@
           {
             "name": "Meblakier",
             "coordinates": "0EF5:007E:0906:xxxx"
+          }
+        ],
+        "ATLAS Commonwealth": [
+          {
+            "name": "Erosung Quadrant",
+            "coordinates": "0801:007F:0828:03EF"
           }
         ],
         "Aculon Empire": [
@@ -6151,6 +6172,10 @@
           {
             "name": "Vigdists Spur",
             "coordinates": "064B:0082:01B8:xxxx"
+          },
+          {
+            "name": "Yiforsc Cluster",
+            "coordinates": "064B:0081:0119:xxxx"
           }
         ],
         "Anomaly Empire": [
@@ -6417,6 +6442,10 @@
         ],
         "Capital Triangle": [
           {
+            "name": "Aauwen Anomaly",
+            "coordinates": "0366:0078:0CE5:xxxx"
+          },
+          {
             "name": "Afuthro",
             "coordinates": "0363:0072:0CE5:xxxx"
           },
@@ -6570,6 +6599,10 @@
           }
         ],
         "Divine Dynasty Empire": [
+          {
+            "name": "Kivate Terminus",
+            "coordinates": "0CCB:007E:05D6:xxxx"
+          },
           {
             "name": "Kivategin Expanse",
             "coordinates": "0CCB:007E:05D6:xxxx"
@@ -7189,6 +7222,10 @@
             "coordinates": "042F:0078:0D55:xxxx"
           },
           {
+            "name": "Uahakplat Spur",
+            "coordinates": "0469:0082:0D6D:xxxx"
+          },
+          {
             "name": "Uahakplatopo Adjunct",
             "coordinates": "0469:0082:0D6D:xxxx"
           },
@@ -7543,6 +7580,10 @@
             "coordinates": "09A6:007C:0132:xxxx"
           },
           {
+            "name": "Dibonk Quadrant",
+            "coordinates": "06B2:0082:066C:xxxx"
+          },
+          {
             "name": "Diyuanite Belt",
             "coordinates": "09A6:007C:012F:xxxx"
           },
@@ -7567,8 +7608,16 @@
             "coordinates": "0BF2:0074:0D61:xxxx"
           },
           {
+            "name": "The Lescla Arm",
+            "coordinates": "04CF:0080:01D3:xxxx"
+          },
+          {
             "name": "Uyumisi Spur",
             "coordinates": "04CF:0080:01D4:XXXX"
+          },
+          {
+            "name": "Waeloharc Belt",
+            "coordinates": "0CC3:0081:02F1:xxxx"
           }
         ],
         "InExCor": [
@@ -9937,6 +9986,10 @@
         ],
         "Oxalis": [
           {
+            "name": "Irjort",
+            "coordinates": "0802:0079:07FA:xxxx"
+          },
+          {
             "name": "Irjortlah",
             "coordinates": "0802:0079:07FA:xxxx"
           },
@@ -10477,11 +10530,19 @@
         ],
         "Skaggerrak Refuge": [
           {
+            "name": "Cutoph Band",
+            "coordinates": "041A:007D:0D58:xxxx"
+          },
+          {
             "name": "Cutophusb Expanse",
             "coordinates": "041A:007D:0D58:xxxx"
           },
           {
             "name": "Hubbleraco",
+            "coordinates": "0418:007D:0D57:xxxx"
+          },
+          {
+            "name": "Sea of Hubbler",
             "coordinates": "0418:007D:0D57:xxxx"
           }
         ],
@@ -15766,7 +15827,7 @@
         "The Stargate Imperium": [
           {
             "name": "Siguerr Mass",
-            "coordinates": "0839:00D0:0829:XXXX"
+            "coordinates": "0839:00D0:0829:xxxx"
           }
         ]
       }
