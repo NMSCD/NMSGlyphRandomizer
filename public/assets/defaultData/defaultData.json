@@ -3225,6 +3225,7 @@
         "Eissentam Travellers Foundation",
         "Eisvana",
         "Empire of Bob",
+        "Empire of the Rising Sun",
         "ExoGek Intergalactic Holdings Corporation",
         "Federal Republic of Rezehno",
         "Free Xparsian Star Order",
@@ -3514,6 +3515,12 @@
           {
             "name": "Jafnet Cloud",
             "coordinates": "0DF6:007F:05E6:xxxx"
+          }
+        ],
+        "Empire of the Rising Sun": [
+          {
+            "name": "Vemuru Anomaly",
+            "coordinates": "059D:007D:0E72:xxxx"
           }
         ],
         "ExoGek Intergalactic Holdings Corporation": [
@@ -4811,10 +4818,13 @@
         "Empire of Desolation",
         "Empire of Eld",
         "Empire of Jatriwil",
+        "Empire of New Missouri",
         "Empire of Phantomium Marxium",
         "Envoys of Talos",
         "Et Viatores Amalgamation",
+        "Euclid Market",
         "Euclidean Federation of Independent Systems",
+        "Euclidean Galactic Republic",
         "Euclidean Scholar's Society",
         "Explorers Alliance",
         "Eye Of the Korvax Legion",
@@ -5760,6 +5770,10 @@
             "coordinates": "01E4:007F:0483:xxxx"
           },
           {
+            "name": "Nizuki Mass",
+            "coordinates": "03F7:0073:0CFD:xxxx"
+          },
+          {
             "name": "Nomamo Quadrant",
             "coordinates": "0B0F:0080:02EC:xxxx"
           },
@@ -6044,12 +6058,20 @@
             "coordinates": "032C:0072:0C69:0xxx"
           },
           {
+            "name": "Yicrospedi",
+            "coordinates": "0DAB:0077:0458:xxxx"
+          },
+          {
             "name": "Yihelli Quadrant",
             "coordinates": "043D:0072:0D44:xxxx"
           },
           {
             "name": "Yilkaluk Void",
             "coordinates": "04D2:0087:0DF1:xxxx"
+          },
+          {
+            "name": "Yocrosp Sector",
+            "coordinates": "0DAB:0077:0458:xxxx"
           },
           {
             "name": "Younse Conflux",
@@ -6131,6 +6153,14 @@
           },
           {
             "name": "Diyingn Boundary",
+            "coordinates": "064A:0082:01BA:xxxx"
+          },
+          {
+            "name": "Doardang Instability",
+            "coordinates": "064A:0081:01BA:xxxx"
+          },
+          {
+            "name": "Duyingnius Band",
             "coordinates": "064A:0082:01BA:xxxx"
           },
           {
@@ -6446,6 +6476,10 @@
             "coordinates": "0366:0078:0CE5:xxxx"
           },
           {
+            "name": "Aauwendan Cluster",
+            "coordinates": "0366:0078:0CE5:xxxx"
+          },
+          {
             "name": "Afuthro",
             "coordinates": "0363:0072:0CE5:xxxx"
           },
@@ -6758,6 +6792,12 @@
             "coordinates": "0426:0078:0D59:xxxx"
           }
         ],
+        "Empire of New Missouri": [
+          {
+            "name": "Kaakoshaw",
+            "coordinates": "0800:0078:07F0:xxxx"
+          }
+        ],
         "Empire of Phantomium Marxium": [
           {
             "name": "Gevirta Terminus",
@@ -6792,10 +6832,22 @@
             "coordinates": "06B9:0087:0EAA:xxxx"
           }
         ],
+        "Euclid Market": [
+          {
+            "name": "Tevikt Instability",
+            "coordinates": "0D21:0081:0365:xxxx"
+          }
+        ],
         "Euclidean Federation of Independent Systems": [
           {
             "name": "Aehlesk Cloud",
             "coordinates": "07FA:0080:07F8:xxxx"
+          }
+        ],
+        "Euclidean Galactic Republic": [
+          {
+            "name": "Jaelott Band",
+            "coordinates": "06AB:0085:0914:xxxx"
           }
         ],
         "Euclidean Scholar's Society": [
@@ -7592,8 +7644,16 @@
             "coordinates": "064B:0082:066E:xxxx"
           },
           {
+            "name": "Erjunlo Frontier",
+            "coordinates": "0127:0080:06DF:xxxx"
+          },
+          {
             "name": "Esvallr",
             "coordinates": "09A6:007C:0131:xxxx"
+          },
+          {
+            "name": "Ipcham Cluster",
+            "coordinates": "0128:0080:06DE:xxxx"
           },
           {
             "name": "Jubacanpe Mass",
@@ -7606,6 +7666,14 @@
           {
             "name": "Obreen Void",
             "coordinates": "0BF2:0074:0D61:xxxx"
+          },
+          {
+            "name": "Sea of Amitri",
+            "coordinates": "0CC2:0080:02F1:xxxx"
+          },
+          {
+            "name": "Sea of Uokavi",
+            "coordinates": "06B1:0082:066B:xxxx"
           },
           {
             "name": "The Lescla Arm",
