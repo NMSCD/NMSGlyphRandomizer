@@ -4826,6 +4826,7 @@
         "Euclidean Federation of Independent Systems",
         "Euclidean Galactic Republic",
         "Euclidean Scholar's Society",
+        "Everion Empire",
         "Explorers Alliance",
         "Eye Of the Korvax Legion",
         "Eyfert Khannate",
@@ -5766,10 +5767,6 @@
             "coordinates": "01E4:007F:0483:xxxx"
           },
           {
-            "name": "Nizuki Mass",
-            "coordinates": "03F7:0073:0CFD:xxxx"
-          },
-          {
             "name": "Nomamo Quadrant",
             "coordinates": "0B0F:0080:02EC:xxxx"
           },
@@ -5804,6 +5801,10 @@
           {
             "name": "Ootieg Cloud",
             "coordinates": "034D:0070:0C82:0xxx"
+          },
+          {
+            "name": "Ouberd Instability",
+            "coordinates": "0441:0072:0D3C:xxxx"
           },
           {
             "name": "Owry Adjunct",
@@ -6854,6 +6855,12 @@
           {
             "name": "Abikovaco Adjunct",
             "coordinates": "0CE8:007A:031D:xxxx"
+          }
+        ],
+        "Everion Empire": [
+          {
+            "name": "Leydernk Conflux",
+            "coordinates": "0189:007B:0A92:xxxx"
           }
         ],
         "Explorers Alliance": [
@@ -10309,6 +10316,18 @@
           }
         ],
         "Santherian Collective": [
+          {
+            "name": "Aycush Expanse",
+            "coordinates": "0EE8:00A2:0426:XXXX"
+          },
+          {
+            "name": "Ismina Instability",
+            "coordinates": "0EE8:0080:073E:XXXX"
+          },
+          {
+            "name": "Luzona",
+            "coordinates": "0F09:00F5:051D:xxxx"
+          },
           {
             "name": "Yenmaria Band",
             "coordinates": "0EED:0082:073D:xxxx"
