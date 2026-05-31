@@ -10201,12 +10201,20 @@
             "coordinates": "07EC:0070:074F:0078"
           },
           {
+            "name": "Keytheeps Instability",
+            "coordinates": "090D:0082:0EEB:XXXX"
+          },
+          {
             "name": "Manheirs Sector",
             "coordinates": "0807:0080:0802:XXXX"
           },
           {
             "name": "Nonhaki Terminus",
             "coordinates": "081F:007E:0815:XXXX"
+          },
+          {
+            "name": "Ogoweet Boundary",
+            "coordinates": "Dissonant"
           },
           {
             "name": "Otusing Cluster",
@@ -10873,6 +10881,10 @@
             "coordinates": "09B8:0081:0E6D:xxxx"
           },
           {
+            "name": "Novski Terminus",
+            "coordinates": "07ED:0082:0147:xxxx"
+          },
+          {
             "name": "Shbune Conflux",
             "coordinates": "0520:0077:0E23:xxxx"
           },
@@ -11437,6 +11449,10 @@
           {
             "name": "IIfrig Fringe",
             "coordinates": "0803:0078:07FF:xxxx"
+          },
+          {
+            "name": "Xacatsc Quadrant",
+            "coordinates": "0988:0078:0163:xxxx"
           }
         ],
         "United Nations 42": [
