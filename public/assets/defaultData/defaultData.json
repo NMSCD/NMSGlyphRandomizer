@@ -3256,6 +3256,7 @@
         "Royal Space Society",
         "Sepros Alliance",
         "SetDef",
+        "Space Link Federation",
         "The Blob Church",
         "The Council of Kings",
         "The Cult of 16",
@@ -4037,6 +4038,12 @@
           {
             "name": "Buillma Fringe",
             "coordinates": "0137:0081:086E:xxxx"
+          }
+        ],
+        "Space Link Federation": [
+          {
+            "name": "Capeki Spur",
+            "coordinates": "0E75:007D:096C:xxxx"
           }
         ],
         "The Blob Church": [
@@ -4943,6 +4950,7 @@
         "Sankara Resistance Force",
         "Santherian Collective",
         "Scholars and Cartographers Guild",
+        "Sea of Keziosko Express",
         "Selenite Blizzard Guild",
         "Sepros Alliance",
         "Seventh Fleet",
@@ -4966,6 +4974,7 @@
         "The Atlas Association",
         "The Atlas Cartographers",
         "The Aurorian Empire",
+        "The Bez-Harr Concern",
         "The Chivalric Knights of the Order of Iteration",
         "The Civilization Hub",
         "The Collective",
@@ -5016,6 +5025,7 @@
         "United Federation of Travelers",
         "United Galactic Corps",
         "United Nations 42",
+        "United Nations of Delta",
         "United Planets Federation",
         "United Republic of Planets",
         "United Soviet Systemic Empire",
@@ -5581,10 +5591,6 @@
           {
             "name": "Iggatl Mass",
             "coordinates": "0A11:0081:0E2B:xxxx"
-          },
-          {
-            "name": "Ihtigen Quadrant",
-            "coordinates": "0177:0083:07F8:xxxx"
           },
           {
             "name": "Iknarvert",
@@ -7149,8 +7155,20 @@
             "coordinates": "042E:0078:0D55:xxxx"
           },
           {
+            "name": "Avnise",
+            "coordinates": "041C:004F:0D87:xxxx"
+          },
+          {
+            "name": "Awkest",
+            "coordinates": "041D:004F:0D87:xxxx"
+          },
+          {
             "name": "Aybess Terminus",
             "coordinates": "044C:0083:0D55:xxxx"
+          },
+          {
+            "name": "Biangen Conflux",
+            "coordinates": "041C:004F:0D88:xxxx"
           },
           {
             "name": "Bisticabi Boundary",
@@ -7171,6 +7189,10 @@
           {
             "name": "Dadurgh",
             "coordinates": "044B:0082:0D56:xxxx"
+          },
+          {
+            "name": "Davikto Sector",
+            "coordinates": "041D:004F:0D88:xxxx"
           },
           {
             "name": "Dazhang Terminus",
@@ -7197,6 +7219,10 @@
             "coordinates": "046A:0081:0D6D:xxxx"
           },
           {
+            "name": "Edvario Cloud",
+            "coordinates": "041D:004D:0D89:xxxx"
+          },
+          {
             "name": "Enhara",
             "coordinates": "0468:0081:0D6C:xxxx"
           },
@@ -7213,8 +7239,28 @@
             "coordinates": "0485:0084:0D54:xxxx"
           },
           {
+            "name": "Funghu Terminus",
+            "coordinates": "041E:004F:0D87:xxxx"
+          },
+          {
+            "name": "Gollodu Adjunct",
+            "coordinates": "041E:004F:0D89:xxxx"
+          },
+          {
+            "name": "Gwrigi",
+            "coordinates": "041E:004E:0D87:xxxx"
+          },
+          {
+            "name": "Haspra",
+            "coordinates": "041E:004D:0D87:xxxx"
+          },
+          {
             "name": "Iajukul Cluster",
             "coordinates": "044D:0082:0D54:xxxx"
+          },
+          {
+            "name": "Jortan Spur",
+            "coordinates": "041E:004E:0D89:xxxx"
           },
           {
             "name": "Kogii Shallows",
@@ -7225,8 +7271,28 @@
             "coordinates": "0468:0081:0D6E:xxxx"
           },
           {
+            "name": "Loalsh Cloud",
+            "coordinates": "041C:004E:0D89:xxxx"
+          },
+          {
+            "name": "Lukyria Terminus",
+            "coordinates": "041D:004F:0D89:xxxx"
+          },
+          {
             "name": "Marmor Spur",
             "coordinates": "044B:0082:0D55:xxxx"
+          },
+          {
+            "name": "Mivabak Cluster",
+            "coordinates": "041C:004E:0D87:xxxx"
+          },
+          {
+            "name": "Mompop Cloud",
+            "coordinates": "041C:004D:0D87:xxxx"
+          },
+          {
+            "name": "Nilinun Band",
+            "coordinates": "041E:004E:0D88:xxxx"
           },
           {
             "name": "Ninasoness Mass",
@@ -7241,8 +7307,32 @@
             "coordinates": "0430:0078:0D56:xxxx"
           },
           {
+            "name": "Oilz",
+            "coordinates": "041C:004D:0D89:xxxx"
+          },
+          {
             "name": "Ooksten Terminus",
             "coordinates": "044B:0082:0D54:xxxx"
+          },
+          {
+            "name": "Oujeme Band",
+            "coordinates": "041D:004D:0D88:xxxx"
+          },
+          {
+            "name": "Parkim",
+            "coordinates": "041E:004D:0D88:xxxx"
+          },
+          {
+            "name": "Pewyan Adjunct",
+            "coordinates": "041D:004D:0D87:xxxx"
+          },
+          {
+            "name": "Qerooit Terminus",
+            "coordinates": "041E:004F:0D88:xxxx"
+          },
+          {
+            "name": "Raidelsba Boundary",
+            "coordinates": "041C:004D:0D88:xxxx"
           },
           {
             "name": "Rentocnii Conflux",
@@ -7261,6 +7351,10 @@
             "coordinates": "042F:0079:0D55:xxxx"
           },
           {
+            "name": "Sea of Xionahui",
+            "coordinates": "041D:004E:0D88:xxxx"
+          },
+          {
             "name": "Shungka Void",
             "coordinates": "044C:0082:0D55:xxxx"
           },
@@ -7273,8 +7367,16 @@
             "coordinates": "0430:0078:0D55:xxxx"
           },
           {
+            "name": "The Arm of Minones",
+            "coordinates": "041E:004D:0D89:xxxx"
+          },
+          {
             "name": "The Arm of Vezitinen",
             "coordinates": "042F:0078:0D55:xxxx"
+          },
+          {
+            "name": "Tujmareg",
+            "coordinates": "041D:004E:0D89:xxxx"
           },
           {
             "name": "Uahakplat Spur",
@@ -7293,12 +7395,20 @@
             "coordinates": "0469:0080:0D6D:xxxx"
           },
           {
+            "name": "Vosagi Spur",
+            "coordinates": "041D:004E:0D87:xxxx"
+          },
+          {
             "name": "Waolab Anomaly",
             "coordinates": "044C:0082:0D54:xxxx"
           },
           {
             "name": "Widraik",
             "coordinates": "042E:0078:0D56:xxxx"
+          },
+          {
+            "name": "Zeyaeva",
+            "coordinates": "041C:004E:0D88:xxxx"
           }
         ],
         "Galactic Maximus Empire": [
@@ -10347,6 +10457,12 @@
             "coordinates": "071C:007F:0146:xxxx"
           }
         ],
+        "Sea of Keziosko Express": [
+          {
+            "name": "Sea of Keziosko",
+            "coordinates": "02DA:007D:0CC3:0055"
+          }
+        ],
         "Selenite Blizzard Guild": [
           {
             "name": "Rignewb Cloud",
@@ -10843,6 +10959,12 @@
           {
             "name": "Cithigh Sector",
             "coordinates": "013D:0078:0901:xxxx"
+          }
+        ],
+        "The Bez-Harr Concern": [
+          {
+            "name": "Munsfelkha Band",
+            "coordinates": "0408:007E:0B13:xxxx"
           }
         ],
         "The Chivalric Knights of the Order of Iteration": [
@@ -11459,6 +11581,12 @@
           {
             "name": "Utopia (Euclid)",
             "coordinates": "06D9:0080:0001:xxxx"
+          }
+        ],
+        "United Nations of Delta": [
+          {
+            "name": "Renuenak Mass",
+            "coordinates": "0E25:0088:0AB1:xxxx"
           }
         ],
         "United Planets Federation": [
