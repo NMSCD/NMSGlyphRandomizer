@@ -4913,6 +4913,7 @@
         "NEXT Generation Hub",
         "NMS Galactic Empire",
         "NMSA 905 Hub",
+        "NMSGPNEP (No Man's Sky Goofy Planet Naming Exploration Project)",
         "Naporth-Hofs Corporation",
         "Neo Wanderers",
         "Neutral Space Exploration Corporation",
@@ -4998,6 +4999,7 @@
         "The Plamidian Empire",
         "The Plamidian Remnants",
         "The Qitanian Empire",
+        "The Revilian Empire",
         "The Roman Star Federation",
         "The SHELTER Organization",
         "The StarCom Federation",
@@ -9967,6 +9969,12 @@
             "coordinates": "0215:007B:044A:xxxx"
           }
         ],
+        "NMSGPNEP (No Man's Sky Goofy Planet Naming Exploration Project)": [
+          {
+            "name": "Lujenua",
+            "coordinates": "073C:0081:082F:xxxx"
+          }
+        ],
         "Naporth-Hofs Corporation": [
           {
             "name": "Isquineg Quadrant",
@@ -11315,6 +11323,12 @@
           {
             "name": "Oefergia Boundary",
             "coordinates": "07FA:0081:07F9:xxxx"
+          }
+        ],
+        "The Revilian Empire": [
+          {
+            "name": "Mequech Anomaly",
+            "coordinates": "0101:0080:074B:xxxx"
           }
         ],
         "The Roman Star Federation": [
@@ -20541,6 +20555,7 @@
       "civilizations": [
         "InExCor",
         "Morley Celestial Bureau",
+        "Soleth Prime Technologies Sole Propietaryship",
         "UNITY"
       ],
       "regions": {
@@ -20582,6 +20597,12 @@
           {
             "name": "The Arm of Deenaj",
             "coordinates": "080D:005C:07F6:xxxx"
+          }
+        ],
+        "Soleth Prime Technologies Sole Propietaryship": [
+          {
+            "name": "Sallast",
+            "coordinates": "0917:0078:07F7:xxxx"
           }
         ],
         "UNITY": [
