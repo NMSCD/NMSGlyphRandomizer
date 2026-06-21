@@ -1213,6 +1213,10 @@
         ],
         "Budullangr Travellers Foundation": [
           {
+            "name": "Sea of Aptall",
+            "coordinates": "07F7:007F:0802:xxxx"
+          },
+          {
             "name": "Westle Instability",
             "coordinates": "07F7:007F:0801:xxxx"
           }
@@ -1509,6 +1513,7 @@
         "Intergalactic Space Force",
         "Khan Corporation",
         "NMS Mexico",
+        "NMSGPNEP (No Man's Sky Goofy Planet Naming Exploration Project)",
         "Oxalis",
         "The Pirate Hub"
       ],
@@ -2083,6 +2088,12 @@
           {
             "name": "Suinne Quadrant",
             "coordinates": "0C52:007C:0D2F:xxxx"
+          }
+        ],
+        "NMSGPNEP (No Man's Sky Goofy Planet Naming Exploration Project)": [
+          {
+            "name": "Eoisse",
+            "coordinates": "0D30:007E:0CA2:xxxx"
           }
         ],
         "Oxalis": [
@@ -3456,6 +3467,14 @@
           {
             "name": "Kaoare",
             "coordinates": "07FC:0078:0802:xxxx"
+          },
+          {
+            "name": "Nehsie",
+            "coordinates": "07FD:0072:0808:xxxx"
+          },
+          {
+            "name": "Pihnevsk Cloud",
+            "coordinates": "07FF:0078:0803:xxxx"
           },
           {
             "name": "Puikin",
@@ -5817,6 +5836,10 @@
           {
             "name": "Owry Adjunct",
             "coordinates": "0382:0072:0CA9:0xxx"
+          },
+          {
+            "name": "Padionii Sector",
+            "coordinates": "01C2:007C:0B2D:xxxx"
           },
           {
             "name": "Pagana",
@@ -10468,7 +10491,7 @@
         "Sea of Keziosko Express": [
           {
             "name": "Sea of Keziosko",
-            "coordinates": "02DA:007D:0CC3:0055"
+            "coordinates": "02DA:007D:0CC3:xxxx"
           }
         ],
         "Selenite Blizzard Guild": [
@@ -10972,6 +10995,10 @@
         "The Bez-Harr Concern": [
           {
             "name": "Munsfelkha Band",
+            "coordinates": "0408:007E:0B13:xxxx"
+          },
+          {
+            "name": "The Arm of Munsfel",
             "coordinates": "0408:007E:0B13:xxxx"
           }
         ],
@@ -12674,6 +12701,10 @@
           {
             "name": "Guptan Fringe",
             "coordinates": "0803:0086:0805:xxxx"
+          },
+          {
+            "name": "Heltrave Terminus",
+            "coordinates": "0801:0085:0805:xxxx"
           },
           {
             "name": "Ihirakh Boundary",
@@ -15302,12 +15333,19 @@
     },
     "Loychazinq": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "GenBra Space Corp",
         "InExCor",
         "Morley Celestial Bureau",
         "UNITY"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Ocnairu Spur",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "GenBra Space Corp": [
           {
             "name": "Boisonsi",
@@ -16386,12 +16424,19 @@
     },
     "Odiwagiri": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "Darkk Sector Syndicate",
         "GenBra Space Corp",
         "InExCor",
         "Morley Celestial Bureau"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Yopiapu Quadrant",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "Darkk Sector Syndicate": [
           {
             "name": "Sposel",
@@ -19939,10 +19984,17 @@
     },
     "Yeberhahne": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "InExCor",
         "UNITY"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Habaja Fringe",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "InExCor": [
           {
             "name": "Aphnervin Fringe",
@@ -20553,12 +20605,19 @@
     },
     "Zukasizawa": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "InExCor",
         "Morley Celestial Bureau",
-        "Soleth Prime Technologies Sole Propietaryship",
+        "Soleth Prime Technologies SP",
         "UNITY"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Aoguedai Void",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "InExCor": [
           {
             "name": "Aoguata Instability",
@@ -20599,7 +20658,7 @@
             "coordinates": "080D:005C:07F6:xxxx"
           }
         ],
-        "Soleth Prime Technologies Sole Propietaryship": [
+        "Soleth Prime Technologies SP": [
           {
             "name": "Sallast",
             "coordinates": "0917:0078:07F7:xxxx"
