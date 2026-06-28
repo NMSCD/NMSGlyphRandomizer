@@ -1203,6 +1203,10 @@
             "coordinates": "043D:0072:0D44:xxxx"
           },
           {
+            "name": "Poisin Shallows",
+            "coordinates": "08FC:007F:0E66:xxxx"
+          },
+          {
             "name": "Rotrema",
             "coordinates": "07FA:007D:0805:xxxx"
           },
@@ -2601,6 +2605,7 @@
     "Doctinawyra": {
       "civilizations": [
         "Alliance of Galactic Travellers",
+        "Doctinawyra Republic",
         "GenBra Space Corp",
         "InExCor",
         "Morley Celestial Bureau"
@@ -2610,6 +2615,16 @@
           {
             "name": "The Arm of Dahrimanne",
             "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
+        "Doctinawyra Republic": [
+          {
+            "name": "Gehustan Sector",
+            "coordinates": "06E2:006B:0EDE:xxxx"
+          },
+          {
+            "name": "Intrykro Shallows",
+            "coordinates": "0B32:00B2:0B32:xxxx"
           }
         ],
         "GenBra Space Corp": [
@@ -5350,6 +5365,10 @@
             "coordinates": "033A:007E:0362:xxxx"
           },
           {
+            "name": "Dehnaya",
+            "coordinates": "0B0F:0080:02ED:xxxx"
+          },
+          {
             "name": "Denevic Anomaly",
             "coordinates": "05B6:007F:060F:xxxx"
           },
@@ -6162,6 +6181,10 @@
           {
             "name": "Fokkolessla",
             "coordinates": "0001:00FE:0FFD:xxxx"
+          },
+          {
+            "name": "Pahmidge",
+            "coordinates": "046A:0081:0D6C:xxxx"
           }
         ],
         "Amaranthine League": [
@@ -7304,6 +7327,10 @@
             "coordinates": "041D:004F:0D89:xxxx"
           },
           {
+            "name": "Mafdieb Boundary",
+            "coordinates": "046A:0082:0D6C:xxxx"
+          },
+          {
             "name": "Marmor Spur",
             "coordinates": "044B:0082:0D55:xxxx"
           },
@@ -7314,6 +7341,10 @@
           {
             "name": "Mompop Cloud",
             "coordinates": "041C:004D:0D87:xxxx"
+          },
+          {
+            "name": "Nagkamu",
+            "coordinates": "046A:0081:0D6E:xxxx"
           },
           {
             "name": "Nilinun Band",
@@ -7358,6 +7389,10 @@
           {
             "name": "Raidelsba Boundary",
             "coordinates": "041C:004D:0D88:xxxx"
+          },
+          {
+            "name": "Ranbell Spur",
+            "coordinates": "0469:0081:0D6C:xxxx"
           },
           {
             "name": "Rentocnii Conflux",
@@ -10148,6 +10183,10 @@
           {
             "name": "Sogardhiss",
             "coordinates": "0804:0083:0804:xxxx"
+          },
+          {
+            "name": "Zumytiaci",
+            "coordinates": "0805:0084:0801:xxxx"
           }
         ],
         "OLDARIUM": [
@@ -10467,7 +10506,7 @@
         "Santherian Collective": [
           {
             "name": "Aycush Expanse",
-            "coordinates": "0EE8:00A2:0426:XXXX"
+            "coordinates": "0EE8:00A2:06EC:xxxx"
           },
           {
             "name": "Ismina Instability",
@@ -10782,6 +10821,10 @@
           {
             "name": "Sea of Hubbler",
             "coordinates": "0418:007D:0D57:xxxx"
+          },
+          {
+            "name": "Yuquere Void",
+            "coordinates": "0419:007D:0D56:xxxx"
           }
         ],
         "Société des Cartographes Stellaires": [
