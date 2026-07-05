@@ -3586,12 +3586,12 @@
         ],
         "Fülkwinn Galactic Republic": [
           {
-            "name": "Arm of Eeponr",
-            "coordinates": "0E82:0075:0761:XXXX"
-          },
-          {
             "name": "Kutkiny Cloud",
             "coordinates": "0BFA:007F:025F:xxxx"
+          },
+          {
+            "name": "The Arm of Eeponr",
+            "coordinates": "0E82:0075:0761:xxxx"
           }
         ],
         "Galactic Hub Eissentam": [
@@ -4806,6 +4806,7 @@
         "Anomaly Empire",
         "Antaurean Imperium",
         "Anti Sentinel Council",
+        "Arcadian Republic",
         "Arizonian Galactic Empire",
         "Artifices Caeli",
         "Asgardian Empire",
@@ -5745,6 +5746,10 @@
             "coordinates": "042D:0072:0D23:xxxx"
           },
           {
+            "name": "Kitisba Instability",
+            "coordinates": "0803:0080:07F8:xxxx"
+          },
+          {
             "name": "Koychyl",
             "coordinates": "0C44:0084:0CB1:xxxx"
           },
@@ -6185,6 +6190,10 @@
           {
             "name": "Pahmidge",
             "coordinates": "046A:0081:0D6C:xxxx"
+          },
+          {
+            "name": "Pihmidgerra",
+            "coordinates": "046A:0081:0D6C:xxxx"
           }
         ],
         "Amaranthine League": [
@@ -6283,6 +6292,12 @@
           {
             "name": "Taaroj Cluster",
             "coordinates": "0115:0079:075F:xxxx"
+          }
+        ],
+        "Arcadian Republic": [
+          {
+            "name": "Yokoju Fringe",
+            "coordinates": "0204:0078:0B3E:xxxx"
           }
         ],
         "Arizonian Galactic Empire": [
@@ -6691,6 +6706,10 @@
           {
             "name": "Kivategin Expanse",
             "coordinates": "0CCB:007E:05D6:xxxx"
+          },
+          {
+            "name": "Lokushwi Expanse",
+            "coordinates": "0CCB:007F:05D6:xxxx"
           }
         ],
         "Domus Stellaris Confederation": [
@@ -10247,6 +10266,10 @@
           {
             "name": "Nesdori Spur",
             "coordinates": "0804:0079:07FD:xxxx"
+          },
+          {
+            "name": "Qomchu",
+            "coordinates": "0105:0081:08B4:xxxx"
           }
         ],
         "PANDORA-S CONSORTIUM": [
@@ -10475,6 +10498,10 @@
           {
             "name": "Nulaene",
             "coordinates": "0804:0087:07FE:xxxx"
+          },
+          {
+            "name": "Olvant",
+            "coordinates": "0804:0089:07FE:xxxx"
           }
         ],
         "Sacred Observers: Operation Null": [
@@ -10513,7 +10540,7 @@
             "coordinates": "0EE8:0080:073E:XXXX"
           },
           {
-            "name": "Luzona",
+            "name": "Iuzona",
             "coordinates": "0F09:00F5:051D:xxxx"
           },
           {
@@ -10823,7 +10850,19 @@
             "coordinates": "0418:007D:0D57:xxxx"
           },
           {
+            "name": "Yetones Anomaly",
+            "coordinates": "0419:007D:0D57:xxxx"
+          },
+          {
+            "name": "Yotonessim Void",
+            "coordinates": "0419:007D:0D57:xxxx"
+          },
+          {
             "name": "Yuquere Void",
+            "coordinates": "0419:007D:0D56:xxxx"
+          },
+          {
+            "name": "Yuquerezov Band",
             "coordinates": "0419:007D:0D56:xxxx"
           }
         ],
@@ -10943,6 +10982,10 @@
           {
             "name": "Skhepe Fringe",
             "coordinates": "0EB9:0082:061F:xxxx"
+          },
+          {
+            "name": "Utswicz Cloud",
+            "coordinates": "0468:0081:0D69:xxxx"
           }
         ],
         "Sumoha Starfleet": [
@@ -11089,6 +11132,10 @@
             "coordinates": "0520:0077:0E23:xxxx"
           },
           {
+            "name": "The Arm of Moismi",
+            "coordinates": "09B9:0081:0E6E:xxxx"
+          },
+          {
             "name": "Zexunggo Shallows",
             "coordinates": "09B8:0081:0E6E:xxxx"
           }
@@ -11168,6 +11215,10 @@
           }
         ],
         "The Entente Sector": [
+          {
+            "name": "Ahgnor Expanse",
+            "coordinates": "0468:0081:0D71:xxxx"
+          },
           {
             "name": "Ahgnortae Void",
             "coordinates": "0469:0081:0D71:xxxx"
@@ -11457,6 +11508,10 @@
           {
             "name": "Bejanaka Mass",
             "coordinates": "0EBA:0087:08D3:xxxx"
+          },
+          {
+            "name": "Oetzill Fringe",
+            "coordinates": "0943:007F:0EEA:xxxx"
           }
         ],
         "The resistance": [
