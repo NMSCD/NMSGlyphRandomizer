@@ -638,6 +638,10 @@
         ],
         "Alliance of Galactic Travellers": [
           {
+            "name": "Crethgea Instability",
+            "coordinates": "0703007D0EF0000C"
+          },
+          {
             "name": "Ouhotie Boundary",
             "coordinates": "0805:007A:0801:xxxx"
           },
@@ -4887,6 +4891,7 @@
         "Galactic Empire of HOVA",
         "Galactic Expedition Agency",
         "Galactic Fleet",
+        "Galactic Frontier Alliance",
         "Galactic Hub Project",
         "Galactic Maximus Empire",
         "Galactic Pathfinders",
@@ -7214,6 +7219,12 @@
           {
             "name": "Kaeane Quadrant",
             "coordinates": "08D0:00FC:0550:004F"
+          }
+        ],
+        "Galactic Frontier Alliance": [
+          {
+            "name": "Neforyson Nebula",
+            "coordinates": "041D:0080:0DBA:xxxx"
           }
         ],
         "Galactic Hub Project": [
@@ -16963,6 +16974,10 @@
       ],
       "regions": {
         "Alliance of Galactic Travellers": [
+          {
+            "name": "Fomoir Anomaly",
+            "coordinates": "053F00780E49"
+          },
           {
             "name": "Jasener Quadrant",
             "coordinates": "043D:0072:0D44:xxxx"
