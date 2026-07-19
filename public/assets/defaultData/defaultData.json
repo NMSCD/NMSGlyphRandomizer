@@ -33,7 +33,6 @@
     "Cuzcogipper",
     "Daitibeli",
     "Daksanquix",
-    "Daquaesc Conflux",
     "Davanossi",
     "Digarlewena",
     "Dihewsonj",
@@ -1523,7 +1522,8 @@
         "NMS Mexico",
         "NMSGPNEP (No Man's Sky Goofy Planet Naming Exploration Project)",
         "Oxalis",
-        "The Pirate Hub"
+        "The Pirate Hub",
+        "Tugarv Compendium"
       ],
       "regions": {
         "Alliance of Galactic Travellers": [
@@ -2115,6 +2115,12 @@
             "name": "Chkentius Mass",
             "coordinates": "0815:007B:00F3:XXXX"
           }
+        ],
+        "Tugarv Compendium": [
+          {
+            "name": "Riviola",
+            "coordinates": "03E1:0080:0DB1:xxxx"
+          }
         ]
       }
     },
@@ -2421,19 +2427,6 @@
           {
             "name": "Sea of Xaweri",
             "coordinates": "0802:0080:07F7:xxxx"
-          }
-        ]
-      }
-    },
-    "Daquaesc Conflux": {
-      "civilizations": [
-        "InExCor"
-      ],
-      "regions": {
-        "InExCor": [
-          {
-            "name": "Daquaesc Conflux",
-            "coordinates": "055F:0083:018D:xxxx"
           }
         ]
       }
@@ -3278,7 +3271,6 @@
         "NMS Wallpaper Hub",
         "Neo-Tech Industries",
         "New Galactic Empire",
-        "No",
         "No Man's High Hub",
         "No Man's Sky Love",
         "Ph@nt0I¥I Š¥nDî¢ÅT€",
@@ -3956,12 +3948,6 @@
           {
             "name": "Wayilwa Void",
             "coordinates": "046F:007C:0E12:xxxx"
-          }
-        ],
-        "No": [
-          {
-            "name": "Bojeaum",
-            "coordinates": "0E70:007F:0A84:0000"
           }
         ],
         "No Man's High Hub": [
@@ -8113,6 +8099,10 @@
             "coordinates": "071D:008B:027A:xxxx"
           },
           {
+            "name": "Daquaesc Conflux",
+            "coordinates": "055F:0083:018D:xxxx"
+          },
+          {
             "name": "Deagut Mass",
             "coordinates": "0EF7:007F:073E:xxxx"
           },
@@ -10458,7 +10448,7 @@
           },
           {
             "name": "Gumita Nebula",
-            "coordinates": "0523:0076:06BF:xxxx"
+            "coordinates": "0522:0076:06BE:xxxx"
           },
           {
             "name": "Jiessl Shallows",
@@ -12526,6 +12516,7 @@
         "The Council of Kings",
         "The Mnemosyne Initiative",
         "The Oak Initiative",
+        "Tugarv Compendium",
         "Wanderers Association"
       ],
       "regions": {
@@ -12655,6 +12646,12 @@
           {
             "name": "Procna Conflux",
             "coordinates": "07F9:0078:07FE:xxxx"
+          }
+        ],
+        "Tugarv Compendium": [
+          {
+            "name": "Ogswellia",
+            "coordinates": "05DA:0077:018D:xxxx"
           }
         ],
         "Wanderers Association": [
