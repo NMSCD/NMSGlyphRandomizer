@@ -2622,6 +2622,10 @@
           {
             "name": "Intrykro Shallows",
             "coordinates": "0B32:00B2:0B32:xxxx"
+          },
+          {
+            "name": "Sea of Syevit",
+            "coordinates": "06E2:006B:0EDE:xxxx"
           }
         ],
         "GenBra Space Corp": [
@@ -13474,7 +13478,8 @@
         "Morley Celestial Bureau",
         "Mud Bunny 11",
         "Shared Community",
-        "The Pirate Hub"
+        "The Pirate Hub",
+        "Tugarv Compendium"
       ],
       "regions": {
         "Alliance of Galactic Travellers": [
@@ -13730,6 +13735,12 @@
             "name": "Miradit Cloud",
             "coordinates": "0800:007C:0817:XXXX"
           }
+        ],
+        "Tugarv Compendium": [
+          {
+            "name": "Tahuitts",
+            "coordinates": "0287:0076:0412:xxxx"
+          }
         ]
       }
     },
@@ -13855,7 +13866,8 @@
         "InExCor",
         "Morley Celestial Bureau",
         "Multiverse Expeditionary Corps",
-        "Oxalis"
+        "Oxalis",
+        "Tugarv Compendium"
       ],
       "regions": {
         "Alliance of Galactic Travellers": [
@@ -13966,6 +13978,12 @@
           {
             "name": "Ikbruc Band",
             "coordinates": "0804:0079:07FD:xxxx"
+          }
+        ],
+        "Tugarv Compendium": [
+          {
+            "name": "Chyash",
+            "coordinates": "040D:0083:023E:xxxx"
           }
         ]
       }
@@ -15128,6 +15146,7 @@
     "Kimycuristh": {
       "civilizations": [
         "GenBra Space Corp",
+        "Houston",
         "InExCor"
       ],
       "regions": {
@@ -15135,6 +15154,12 @@
           {
             "name": "Katataca Expanse",
             "coordinates": "0803:0084:0804:xxxx"
+          }
+        ],
+        "Houston": [
+          {
+            "name": "Sea of Iijing",
+            "coordinates": "0538:0000:053E:0189"
           }
         ],
         "InExCor": [
@@ -17775,6 +17800,7 @@
       "civilizations": [
         "GenBra Space Corp",
         "InExCor",
+        "Rewmanawa Travellers Foundation",
         "UNITY"
       ],
       "regions": {
@@ -17832,6 +17858,24 @@
           {
             "name": "Zidamiobe",
             "coordinates": "07F9:007D:0804:xxxx"
+          }
+        ],
+        "Rewmanawa Travellers Foundation": [
+          {
+            "name": "Endazh Shallows",
+            "coordinates": "07FA:007F:0817:xxxx"
+          },
+          {
+            "name": "Owforn Cluster",
+            "coordinates": "07FB:007F:0818:xxxx"
+          },
+          {
+            "name": "Segeir Mass",
+            "coordinates": "07FA:007F:0818:xxxx"
+          },
+          {
+            "name": "Zakovae",
+            "coordinates": "07FB:007F:0817:xxxx"
           }
         ],
         "UNITY": [
