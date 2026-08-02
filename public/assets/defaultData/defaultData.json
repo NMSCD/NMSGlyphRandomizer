@@ -1187,7 +1187,8 @@
         "Morley Celestial Bureau",
         "New Hub Order",
         "Pier PVT Ltd",
-        "Royal Space Society"
+        "Royal Space Society",
+        "Tugarv Compendium"
       ],
       "regions": {
         "9x99": [
@@ -1464,6 +1465,12 @@
           {
             "name": "Jajaja Cluster",
             "coordinates": "034D:007D:0B87:xxxx"
+          }
+        ],
+        "Tugarv Compendium": [
+          {
+            "name": "Lemquitl Mass",
+            "coordinates": "05C0:0087:0193:xxxx"
           }
         ]
       }
@@ -15038,6 +15045,7 @@
         "InExCor",
         "Morley Celestial Bureau",
         "Oxalis",
+        "Tugarv Compendium",
         "Weyland-Yutani Corporation"
       ],
       "regions": {
@@ -15133,6 +15141,12 @@
           {
             "name": "Adiscir Nebula",
             "coordinates": "0804:0079:07FD:xxxx"
+          }
+        ],
+        "Tugarv Compendium": [
+          {
+            "name": "Lixeno",
+            "coordinates": "0ACA:007A:01A7:xxxx"
           }
         ],
         "Weyland-Yutani Corporation": [
