@@ -3302,6 +3302,7 @@
         "The Pirate Hub",
         "The Qitanian Empire",
         "The Viridian Assembly of Eissentam",
+        "Tugarv Compendium",
         "United Star Navy",
         "Weyland-Yutani Corporation",
         "YES Recovery Project"
@@ -4185,6 +4186,12 @@
             "coordinates": "05CE:0081:020E:xxxx"
           }
         ],
+        "Tugarv Compendium": [
+          {
+            "name": "Dehoove",
+            "coordinates": "022A:0081:0BE7:xxxx"
+          }
+        ],
         "United Star Navy": [
           {
             "name": "Asbrogr Nebula",
@@ -4354,7 +4361,8 @@
         "Federal Republic of Rezehno",
         "GenBra Space Corp",
         "InExCor",
-        "Morley Celestial Bureau"
+        "Morley Celestial Bureau",
+        "Tugarv Compendium"
       ],
       "regions": {
         "Alliance of Galactic Travellers": [
@@ -4480,6 +4488,12 @@
             "name": "Unovan Cluster",
             "coordinates": "080D:005C:07F6:0079"
           }
+        ],
+        "Tugarv Compendium": [
+          {
+            "name": "Abijemer Boundary",
+            "coordinates": "01C1:0083:04EA:xxxx"
+          }
         ]
       }
     },
@@ -4489,7 +4503,8 @@
         "Calypso Travellers Foundation",
         "GenBra Space Corp",
         "InExCor",
-        "Morley Celestial Bureau"
+        "Morley Celestial Bureau",
+        "Tugarv Compendium"
       ],
       "regions": {
         "Alliance of Galactic Travellers": [
@@ -4584,6 +4599,12 @@
           {
             "name": "Nupaaverau Expanse",
             "coordinates": "080D:005C:07F6:0079"
+          }
+        ],
+        "Tugarv Compendium": [
+          {
+            "name": "Lisrusiat Band",
+            "coordinates": "086A:0083:0107:xxxx"
           }
         ]
       }
@@ -10514,6 +10535,10 @@
           {
             "name": "Olvant",
             "coordinates": "0804:0089:07FE:xxxx"
+          },
+          {
+            "name": "Puisahui Sector",
+            "coordinates": "0803:0087:07FE:xxxx"
           }
         ],
         "Sacred Observers: Operation Null": [
@@ -11591,6 +11616,10 @@
           }
         ],
         "Tugarv Compendium": [
+          {
+            "name": "Amfordr Sector",
+            "coordinates": "0206:0083:0B98:xxxx"
+          },
           {
             "name": "Denirre Instability",
             "coordinates": "0B54:007B:0E26:xxxx"
@@ -18212,6 +18241,10 @@
           {
             "name": "Kihamm",
             "coordinates": "0805:007C:07F9:xxxx"
+          },
+          {
+            "name": "Ubakewen",
+            "coordinates": "0803:007A:07F8:xxxx"
           }
         ]
       }
