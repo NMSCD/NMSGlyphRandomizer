@@ -431,6 +431,7 @@
     },
     "Aldukesci": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "Cafe 42",
         "GenBra Space Corp",
         "InExCor",
@@ -438,6 +439,12 @@
         "UNITY"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Yeresnes Sector",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "Cafe 42": [
           {
             "name": "Hitinoh",
@@ -610,7 +617,8 @@
         "GenBra Space Corp",
         "InExCor",
         "Morley Celestial Bureau",
-        "Noctyrium"
+        "Noctyrium",
+        "Tugarv Compendium"
       ],
       "regions": {
         "ARFL": [
@@ -747,6 +755,12 @@
           {
             "name": "Datasynt Adjunct",
             "coordinates": "0807:0087:07F9:xxxx"
+          }
+        ],
+        "Tugarv Compendium": [
+          {
+            "name": "Nuheiad Quadrant",
+            "coordinates": "0C76:007C:0D61:xxxx"
           }
         ]
       }
@@ -4493,6 +4507,10 @@
           {
             "name": "Abijemer Boundary",
             "coordinates": "01C1:0083:04EA:xxxx"
+          },
+          {
+            "name": "Nodrewc Expanse",
+            "coordinates": "0EA6:007F:05B9:xxxx"
           }
         ]
       }
@@ -11695,6 +11713,10 @@
           {
             "name": "Xehuanado Band",
             "coordinates": "0AFD:0079:0E36:xxxx"
+          },
+          {
+            "name": "Yihelti Shallows",
+            "coordinates": "0EC6:007E:063F:xxxx"
           }
         ],
         "Typhon Empire": [
@@ -13211,11 +13233,11 @@
             "coordinates": "0551:0087:01C1:xxxx"
           },
           {
-            "name": "Ojinbar",
-            "coordinates": "0EC6:007E:063F:xxxx"
+            "name": "Geaexac Instability",
+            "coordinates": "0737:007D:0EB0:xxxx"
           },
           {
-            "name": "Yihelti Shallows",
+            "name": "Ojinbar",
             "coordinates": "0EC6:007E:063F:xxxx"
           }
         ],
@@ -17905,12 +17927,32 @@
         ],
         "Rewmanawa Travellers Foundation": [
           {
+            "name": "Aesubaili Mass",
+            "coordinates": "0000:007F:0000:xxxx"
+          },
+          {
+            "name": "Biyagii Boundary",
+            "coordinates": "0000:007F:0FFE:xxxx"
+          },
+          {
             "name": "Endazh Shallows",
             "coordinates": "07FA:007F:0817:xxxx"
           },
           {
+            "name": "Holineg Cloud",
+            "coordinates": "0FFE:007F:0FFE:xxxx"
+          },
+          {
             "name": "Owforn Cluster",
             "coordinates": "07FB:007F:0818:xxxx"
+          },
+          {
+            "name": "Riveyko",
+            "coordinates": "0FFE:007F:0000:xxxx"
+          },
+          {
+            "name": "Rovoitbi Mass",
+            "coordinates": "043D:0072:0D44:xxxx"
           },
           {
             "name": "Segeir Mass",
@@ -18353,6 +18395,10 @@
       "regions": {
         "Alliance of Galactic Travellers": [
           {
+            "name": "Kengun Shallows",
+            "coordinates": "043D:0072:0D44:xxxx"
+          },
+          {
             "name": "Ortemojea Instability",
             "coordinates": "0CE3:0079:0CD5:xxxx"
           }
@@ -18538,6 +18584,10 @@
           {
             "name": "Boffme",
             "coordinates": "0772:0084:0E25:xxxx"
+          },
+          {
+            "name": "Ijbaga Cluster",
+            "coordinates": "043D:0072:0D44:xxxx"
           }
         ],
         "Catholic Haven of Righteous Intergalactic Sanctified Travelers": [
@@ -19029,12 +19079,19 @@
     },
     "Twerbetek": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "InExCor",
         "Moon Echoes",
         "Morley Celestial Bureau",
         "UNITY"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Hanupia Boundary",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "InExCor": [
           {
             "name": "Ienara Instability",
@@ -19873,12 +19930,19 @@
     },
     "Wotyarogii": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "GenBra Space Corp",
         "InExCor",
         "Morley Celestial Bureau",
         "UNITY"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Yehitfor Void",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "GenBra Space Corp": [
           {
             "name": "Ajrapag",
