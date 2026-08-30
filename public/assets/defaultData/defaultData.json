@@ -805,6 +805,10 @@
         ],
         "UNITY": [
           {
+            "name": "Edelbif",
+            "coordinates": "07E2:0070:084B:xxxx"
+          },
+          {
             "name": "Eelofs",
             "coordinates": "0807:007E:0802:xxxx"
           }
@@ -11187,6 +11191,10 @@
             "coordinates": "07ED:0082:0147:xxxx"
           },
           {
+            "name": "Sea of Baucosyx",
+            "coordinates": "09B7:007F:0E6E:xxxx"
+          },
+          {
             "name": "Shbune Conflux",
             "coordinates": "0520:0077:0E23:xxxx"
           },
@@ -17828,7 +17836,8 @@
         "Eyfert Khannate",
         "GenBra Space Corp",
         "InExCor",
-        "Morley Celestial Bureau"
+        "Morley Celestial Bureau",
+        "Tugarv Compendium"
       ],
       "regions": {
         "Alliance of Galactic Travellers": [
@@ -17927,6 +17936,12 @@
           {
             "name": "Zawickeel Shallows",
             "coordinates": "080D:005C:07F6:0079"
+          }
+        ],
+        "Tugarv Compendium": [
+          {
+            "name": "Itvarl Mass",
+            "coordinates": "0E0B:007A:04A1:xxxx"
           }
         ]
       }
