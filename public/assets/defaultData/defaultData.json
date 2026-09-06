@@ -11727,12 +11727,20 @@
             "coordinates": "0AFE:0079:0E36:xxxx"
           },
           {
+            "name": "Xecheho",
+            "coordinates": "0C00:0080:0238:xxxx"
+          },
+          {
             "name": "Xehuanado Band",
             "coordinates": "0AFD:0079:0E36:xxxx"
           },
           {
             "name": "Yihelti Shallows",
             "coordinates": "0EC6:007E:063F:xxxx"
+          },
+          {
+            "name": "Zumelni Instability",
+            "coordinates": "0DB5:0076:0B8D:xxxx"
           }
         ],
         "Typhon Empire": [
