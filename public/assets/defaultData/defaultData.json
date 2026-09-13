@@ -5079,6 +5079,7 @@
         "The Plamidian Empire",
         "The Plamidian Remnants",
         "The Qitanian Empire",
+        "The Republic of the Convocation",
         "The Revilian Empire",
         "The Roman Star Federation",
         "The SHELTER Organization",
@@ -11187,6 +11188,10 @@
             "coordinates": "0B09:007B:0DD9:xxxx"
           },
           {
+            "name": "Kambushe Void",
+            "coordinates": "09B7:0080:0E6D:xxxx"
+          },
+          {
             "name": "Novski Terminus",
             "coordinates": "07ED:0082:0147:xxxx"
           },
@@ -11511,6 +11516,12 @@
           {
             "name": "Oefergia Boundary",
             "coordinates": "07FA:0081:07F9:xxxx"
+          }
+        ],
+        "The Republic of the Convocation": [
+          {
+            "name": "Maboea",
+            "coordinates": "0D59:007D:0B62:xxxx"
           }
         ],
         "The Revilian Empire": [
