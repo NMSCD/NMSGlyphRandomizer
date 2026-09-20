@@ -635,6 +635,10 @@
             "coordinates": "0806:007F:0803:xxxx"
           },
           {
+            "name": "Sivasi Anomaly",
+            "coordinates": "0806:0082:0803:xxxx"
+          },
+          {
             "name": "The Arm of Srushir",
             "coordinates": "0806:0081:0803:xxxx"
           },
@@ -4906,6 +4910,7 @@
         "Empire of Jatriwil",
         "Empire of New Missouri",
         "Empire of Phantomium Marxium",
+        "Empire of the First Spawn",
         "Envoys of Talos",
         "Et Viatores Amalgamation",
         "Euclid Market",
@@ -6936,6 +6941,12 @@
             "coordinates": "0801:0086:07E2:xxxx"
           }
         ],
+        "Empire of the First Spawn": [
+          {
+            "name": "Iuyoshis",
+            "coordinates": "064D:0081:0ED1:xxxx"
+          }
+        ],
         "Envoys of Talos": [
           {
             "name": "Cibalie Cloud",
@@ -7159,6 +7170,10 @@
           },
           {
             "name": "Ongyimid Shallows",
+            "coordinates": "0FFE:007F:0000:xxxx"
+          },
+          {
+            "name": "Ongyimid Shallows (SentinelUp)",
             "coordinates": "0FFE:007F:0000:xxxx"
           },
           {
@@ -7870,6 +7885,10 @@
           {
             "name": "Baixio Bajialdwe",
             "coordinates": "0CC4:0080:02F0:xxxx"
+          },
+          {
+            "name": "Cemandl Instability",
+            "coordinates": "0129:0080:06DD:xxxx"
           },
           {
             "name": "Cukjamu Nebula",
@@ -18706,6 +18725,10 @@
           {
             "name": "Uesswell Band",
             "coordinates": "0B39:007F:0235:XXXX"
+          },
+          {
+            "name": "Verieve",
+            "coordinates": "0B39:0080:0236:XXXX"
           }
         ],
         "GenBra Space Corp": [
