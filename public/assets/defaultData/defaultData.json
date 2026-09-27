@@ -3269,6 +3269,7 @@
         "Biological Survey Mission",
         "Black Cloud Commonwealth",
         "Brolo Republic",
+        "Cegina General Corporation",
         "Celestial Resource Network",
         "Ciscen Royal Republic",
         "Coalition of Free Systems",
@@ -3420,6 +3421,12 @@
           {
             "name": "Esbrug",
             "coordinates": "02F8:0062:0A69:xxxx"
+          }
+        ],
+        "Cegina General Corporation": [
+          {
+            "name": "Cegina Nebula",
+            "coordinates": "0BEA:0087:028A:xxxx"
           }
         ],
         "Celestial Resource Network": [
@@ -10558,6 +10565,10 @@
           }
         ],
         "SGCorp": [
+          {
+            "name": "Asilkitan Fringe",
+            "coordinates": "0804:0085:07FD:xxxx"
+          },
           {
             "name": "Axwelch",
             "coordinates": "0804:0088:07FE:xxxx"
