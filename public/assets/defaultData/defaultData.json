@@ -3,6 +3,7 @@
     "Aaseertush",
     "Aediabiel",
     "Agnusopwit",
+    "Akbulkabi",
     "Akvasanta",
     "Aldukesci",
     "Amsentisz",
@@ -10,7 +11,10 @@
     "Aptarkaba",
     "Autsurabin",
     "Badesclema",
+    "Bahibusey",
+    "Beiraghedwe",
     "Bephembah",
+    "Bifredait",
     "Bloytisagra",
     "Boyaghosganh",
     "Brogoweldian",
@@ -20,12 +24,19 @@
     "Calypso",
     "Chcehoemig",
     "Coellosipp",
+    "Cugnatachh",
+    "Cuzcogipper",
+    "Daitibeli",
     "Daksanquix",
     "Davanossi",
     "Digarlewena",
+    "Dihewsonj",
     "Dimonimba",
     "Doctinawyra",
     "Dokiessmat",
+    "Dotusingg",
+    "Dozivadido",
+    "Drajayanes",
     "Drundemiso",
     "Dugnowarilda",
     "Eajerandal",
@@ -39,45 +50,73 @@
     "Eltiensleen",
     "Emarmatosi",
     "Emiekereks",
+    "Enjaxusanto",
+    "Enlaythie",
     "Erquagsta",
+    "Ethiophodhe",
     "Euclid",
+    "Evcickcandj",
     "Ewcomechio",
     "Ewheelonc",
+    "Ezdaranit",
+    "Fladiselm",
+    "Fontenikk",
     "Gaybakuaria",
     "Getaizakaal",
     "Grbodubhe",
     "Gucuttarik",
+    "Haffneyrin",
+    "Hakapanasy",
+    "Hansolmien",
+    "Heperclait",
     "Hesperius Dimension",
     "Hicanpaav",
     "Hilbert Dimension",
+    "Hilfsesorbs",
     "Hitonskyer",
+    "Homskiw",
     "Horeroedsh",
     "Huruahili",
     "Husalvangewi",
     "Hyades",
+    "Iadoitesu",
     "Ialmendra",
     "Ickjamatew",
+    "Ikbaksmit",
     "Ilkerloor",
     "Ilmenhorn",
     "Impoxectin",
     "Innebdjerah",
+    "Iodhinxois",
     "Iousongola",
+    "Irceauffey",
     "Irroswitzs",
     "Isdoraijung",
     "Itlhotagra",
     "Ityanianat",
+    "Iwundaracos",
+    "Jasinessa",
     "Jelmandan",
     "Jewijkmas",
     "Kichiaroa",
     "Kikolgallr",
     "Kissonlin",
+    "Kisvarcini",
     "Kuolungau",
+    "Laanawemb",
+    "Ladgudiraf",
+    "Leckandmeram",
     "Logovoloin",
     "Loychazinq",
+    "Luleukous",
     "Lusontrygiamh",
+    "Maupenzhay",
     "Meximicka",
+    "Meykinunukur",
+    "Mibittara",
     "Milekistri",
     "Muhacksonto",
+    "Mushonponte",
     "Nasmilete",
     "Nepitzaspru",
     "Nipikulha",
@@ -89,6 +128,10 @@
     "Nuybeliaure",
     "Odiwagiri",
     "Odyalutai",
+    "Odyavanta",
+    "Oeileutasc",
+    "Ogtialabi",
+    "Olonerovo",
     "Oniijialdu",
     "Ontiniangp",
     "Ooibekuar",
@@ -98,6 +141,8 @@
     "Paholiang",
     "Pamanhermonsu",
     "Pasycihelwhee",
+    "Ploehrliou",
+    "Podalicess",
     "Puikitoac",
     "Quulngais",
     "Reponudrle",
@@ -105,6 +150,8 @@
     "Rewmanawa",
     "Rinjanagrbo",
     "Rivskimbe",
+    "Roansfien",
+    "Roclaytonycar",
     "Ruckinarkh",
     "Rukwatsuku",
     "Rycempler",
@@ -113,8 +160,10 @@
     "Sezviktorew",
     "Sivarates",
     "Smoduraykl",
+    "Sthatigudi",
     "Sudzerbal",
     "Sugiuniam",
+    "Sugueziume",
     "Telicianses",
     "Teyaypilny",
     "Thorettac",
@@ -129,21 +178,33 @@
     "Uiweupose",
     "Ulexovitab",
     "Uliciawai",
+    "Ulosaginyik",
     "Umirpaiya",
+    "Umlanswick",
+    "Urastrykle",
+    "Utzenmate",
     "Venessika",
+    "Veticueca",
     "Waferganh",
     "Wayndohalou",
+    "Wepaitvas",
+    "Wiensanshe",
     "Wongquarum",
     "Wotyarogii",
+    "Wucetosucc",
     "Xobeurindj",
+    "Yaevarcko",
     "Yagrovoisi",
     "Yeberhahne",
     "Yebrilowisod",
+    "Yekathsebehn",
+    "Yeonatlak",
     "Yevettiiqidcon",
     "Yudukagath",
     "Yuwarugha",
     "Zalienkosm",
     "Zavainlani",
+    "Zeziceloh",
     "Zicniijinis",
     "Zosakasiro",
     "Zukasizawa"
@@ -171,6 +232,14 @@
           {
             "name": "Banizuya Mass",
             "coordinates": "0ECB:007C:09AA:xxxx"
+          },
+          {
+            "name": "Crombish",
+            "coordinates": "0396:0084:02A2:xxxx"
+          },
+          {
+            "name": "Efimov Expanse",
+            "coordinates": "07FF:0080:0807:xxxx"
           }
         ]
       }
@@ -188,15 +257,39 @@
         ]
       }
     },
-    "Akvasanta": {
+    "Akbulkabi": {
       "civilizations": [
         "InExCor"
       ],
       "regions": {
         "InExCor": [
           {
+            "name": "Devasura Quadrant",
+            "coordinates": "0EC4:0077:0807:xxxx"
+          }
+        ]
+      }
+    },
+    "Akvasanta": {
+      "civilizations": [
+        "InExCor",
+        "PanGalactic StarCabs"
+      ],
+      "regions": {
+        "InExCor": [
+          {
             "name": "Amjeauf Mass",
             "coordinates": "0C04:0088:0D5F:xxxx"
+          },
+          {
+            "name": "Cisonma Cloud",
+            "coordinates": "0803:0080:0806:xxxx"
+          }
+        ],
+        "PanGalactic StarCabs": [
+          {
+            "name": "Etrepo Conflux",
+            "coordinates": "0800:0087:07FF:xxxx"
           }
         ]
       }
@@ -204,6 +297,7 @@
     "Aldukesci": {
       "civilizations": [
         "GenBra Space Corp",
+        "InExCor",
         "Morley Celestial Bureau"
       ],
       "regions": {
@@ -211,6 +305,12 @@
           {
             "name": "Ajgond Terminus",
             "coordinates": "0BBD:0079:0234:xxxx"
+          }
+        ],
+        "InExCor": [
+          {
+            "name": "Eedhei Sector",
+            "coordinates": "0769:007F:0C58:xxxx"
           }
         ],
         "Morley Celestial Bureau": [
@@ -244,6 +344,10 @@
           {
             "name": "Aspiapoya Spur",
             "coordinates": "0806:0080:0803:xxxx"
+          },
+          {
+            "name": "Ertoni Adjunct",
+            "coordinates": "0804:007D:07F9:xxxx"
           }
         ],
         "UNITY": [
@@ -257,7 +361,10 @@
     "Aptarkaba": {
       "civilizations": [
         "ARFL",
-        "InExCor"
+        "Alliance of Galactic Travellers",
+        "GenBra Space Corp",
+        "InExCor",
+        "Noctyrium"
       ],
       "regions": {
         "ARFL": [
@@ -266,17 +373,36 @@
             "coordinates": "0807:0080:0803:xxxx"
           }
         ],
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Crethgea Instability",
+            "coordinates": "0703007D0EF0000C"
+          }
+        ],
+        "GenBra Space Corp": [
+          {
+            "name": "Deconels",
+            "coordinates": "0641:0082:0DC3:xxxx"
+          }
+        ],
         "InExCor": [
           {
             "name": "Bowsky Mass",
             "coordinates": "0A78:0081:033D:xxxx"
+          }
+        ],
+        "Noctyrium": [
+          {
+            "name": "Datasynt Adjunct",
+            "coordinates": "0807:0087:07F9:xxxx"
           }
         ]
       }
     },
     "Autsurabin": {
       "civilizations": [
-        "InExCor"
+        "InExCor",
+        "UNITY"
       ],
       "regions": {
         "InExCor": [
@@ -287,6 +413,16 @@
           {
             "name": "Cemillio Quadrant",
             "coordinates": "0807:0080:0800:xxxx"
+          }
+        ],
+        "UNITY": [
+          {
+            "name": "Edelbif",
+            "coordinates": "07E2:0070:084B:xxxx"
+          },
+          {
+            "name": "Eelofs",
+            "coordinates": "0807:007E:0802:xxxx"
           }
         ]
       }
@@ -299,6 +435,32 @@
         "GenBra Space Corp": [
           {
             "name": "Acdowel Boundary",
+            "coordinates": "0807:0080:07FD:xxxx"
+          }
+        ]
+      }
+    },
+    "Bahibusey": {
+      "civilizations": [
+        "GenBra Space Corp"
+      ],
+      "regions": {
+        "GenBra Space Corp": [
+          {
+            "name": "Ekonbind Adjunct",
+            "coordinates": "07FA:007D:0805:xxxx"
+          }
+        ]
+      }
+    },
+    "Beiraghedwe": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Eegaki Nebula",
             "coordinates": "0807:0080:07FD:xxxx"
           }
         ]
@@ -317,6 +479,23 @@
           {
             "name": "Bazamaesh Conflux",
             "coordinates": "0CB6:007F:0D37:xxxx"
+          },
+          {
+            "name": "Duiwei",
+            "coordinates": "0806:007F:0803:xxxx"
+          }
+        ]
+      }
+    },
+    "Bifredait": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Coyredi Expanse",
+            "coordinates": "0806:007F:07FB:xxxx"
           }
         ]
       }
@@ -330,13 +509,18 @@
           {
             "name": "Ahdoute Shallows",
             "coordinates": "0F02:0081:07C0:xxxx"
+          },
+          {
+            "name": "Dayamaiki Conflux",
+            "coordinates": "0806:0080:0803:xxxx"
           }
         ]
       }
     },
     "Boyaghosganh": {
       "civilizations": [
-        "InExCor"
+        "InExCor",
+        "Morley Celestial Bureau"
       ],
       "regions": {
         "InExCor": [
@@ -347,13 +531,24 @@
           {
             "name": "Beattr Cluster",
             "coordinates": "0800:0080:0807:xxxx"
+          },
+          {
+            "name": "Eafior",
+            "coordinates": "0800:0080:07F7:xxxx"
+          }
+        ],
+        "Morley Celestial Bureau": [
+          {
+            "name": "Eirsky Conflux",
+            "coordinates": "080D:005C:07F6:xxxx"
           }
         ]
       }
     },
     "Brogoweldian": {
       "civilizations": [
-        "Cafe 42"
+        "Cafe 42",
+        "InExCor"
       ],
       "regions": {
         "Cafe 42": [
@@ -361,14 +556,27 @@
             "name": "Caygnirat",
             "coordinates": "07FD:007F:07F7:xxxx"
           }
+        ],
+        "InExCor": [
+          {
+            "name": "Ewpera",
+            "coordinates": "0807:0080:0800:xxxx"
+          }
         ]
       }
     },
     "Brotoghek": {
       "civilizations": [
+        "GenBra Space Corp",
         "InExCor"
       ],
       "regions": {
+        "GenBra Space Corp": [
+          {
+            "name": "Diggsand Terminus",
+            "coordinates": "07FA:007A:07FB:xxxx"
+          }
+        ],
         "InExCor": [
           {
             "name": "Bicania Void",
@@ -381,7 +589,9 @@
       "civilizations": [
         "Galactic Hub Budullangr",
         "GenBra Space Corp",
-        "New Hub Order"
+        "InExCor",
+        "New Hub Order",
+        "Pier PVT Ltd"
       ],
       "regions": {
         "Galactic Hub Budullangr": [
@@ -398,6 +608,24 @@
           {
             "name": "Bayshan Spur",
             "coordinates": "042B:0078:0D54:xxxx"
+          },
+          {
+            "name": "Eeshot Cluster",
+            "coordinates": "042C:0077:0D51:xxxx"
+          },
+          {
+            "name": "Ethesh Mass",
+            "coordinates": "0801:0076:07FA:xxxx"
+          },
+          {
+            "name": "Eyniansy Band",
+            "coordinates": "042C:0077:0D50:xxxx"
+          }
+        ],
+        "InExCor": [
+          {
+            "name": "Eapushj Boundary",
+            "coordinates": "0291:007D:0799:xxxx"
           }
         ],
         "New Hub Order": [
@@ -408,6 +636,16 @@
           {
             "name": "Asmeyta Instability",
             "coordinates": "0807:0077:0806:xxxx"
+          },
+          {
+            "name": "Eyhamsin Cloud",
+            "coordinates": "0805:0079:07FF:xxxx"
+          }
+        ],
+        "Pier PVT Ltd": [
+          {
+            "name": "Edbrya Band",
+            "coordinates": "07FB:007F:0806:xxxx"
           }
         ]
       }
@@ -425,6 +663,10 @@
           {
             "name": "Ajjarin Mass",
             "coordinates": "0801:007F:0807:xxxx"
+          },
+          {
+            "name": "Deaver Anomaly",
+            "coordinates": "04E1:0077:0E07:xxxx"
           }
         ]
       }
@@ -432,10 +674,12 @@
     "Calypso": {
       "civilizations": [
         "Calypso Travellers Foundation",
+        "GPIEC",
         "Galactic Hub Calypso",
         "GenBra Space Corp",
         "InExCor",
         "Khan Corporation",
+        "NMSGPNEP (No Man's Sky Goofy Planet Naming Exploration Project)",
         "The Pirate Hub"
       ],
       "regions": {
@@ -447,6 +691,48 @@
           {
             "name": "Aodess",
             "coordinates": "0688:0084:043E:xxxx"
+          },
+          {
+            "name": "Cokowat",
+            "coordinates": "0687:007E:043E:xxxx"
+          },
+          {
+            "name": "Deduywri Cloud",
+            "coordinates": "043D:0072:0D44:xxxx"
+          },
+          {
+            "name": "Eakoss",
+            "coordinates": "0689:0083:043D:xxxx"
+          },
+          {
+            "name": "Eissol",
+            "coordinates": "0689:0083:043E:xxxx"
+          },
+          {
+            "name": "Epoorphaach Boundary",
+            "coordinates": "0805:0082:07FA:xxxx"
+          },
+          {
+            "name": "Eporpha",
+            "coordinates": "0805:0082:07FA:xxxx"
+          },
+          {
+            "name": "Etnormt Cloud",
+            "coordinates": "0803:0084:07FA:xxxx"
+          },
+          {
+            "name": "Etnormteyll Void",
+            "coordinates": "0803:0084:07FA:xxxx"
+          },
+          {
+            "name": "Ewyans",
+            "coordinates": "0800:0088:0800:xxxx"
+          }
+        ],
+        "GPIEC": [
+          {
+            "name": "Dakesma Anomaly",
+            "coordinates": "0C6C:007A:0CE4:xxxx"
           }
         ],
         "Galactic Hub Calypso": [
@@ -461,6 +747,34 @@
           {
             "name": "Brambu Fringe",
             "coordinates": "0430:0078:0D53:xxxx"
+          },
+          {
+            "name": "Dappan Anomaly",
+            "coordinates": "042D:0078:0D54:xxxx"
+          },
+          {
+            "name": "Ecimbar Quadrant",
+            "coordinates": "042E:0077:0D56:xxxx"
+          },
+          {
+            "name": "Egerap Anomaly",
+            "coordinates": "0430:0078:0D56:xxxx"
+          },
+          {
+            "name": "Egezesi",
+            "coordinates": "042F:0077:0D54:xxxx"
+          },
+          {
+            "name": "Erhahn Fringe",
+            "coordinates": "042E:0078:0D56:0000"
+          },
+          {
+            "name": "Esburybur",
+            "coordinates": "042F:0077:0D56:xxxx"
+          },
+          {
+            "name": "Etiusin Cloud",
+            "coordinates": "0431:0078:0D53:xxxx"
           }
         ],
         "GenBra Space Corp": [
@@ -489,12 +803,22 @@
           {
             "name": "Bekremanab Expanse",
             "coordinates": "07F7:0080:07FC:xxxx"
+          },
+          {
+            "name": "Drogan",
+            "coordinates": "0870:0080:0894:xxxx"
           }
         ],
         "Khan Corporation": [
           {
             "name": "Cahuij",
             "coordinates": "0430:0079:0D55:xxxx"
+          }
+        ],
+        "NMSGPNEP (No Man's Sky Goofy Planet Naming Exploration Project)": [
+          {
+            "name": "Eoisse",
+            "coordinates": "0D30:007E:0CA2:xxxx"
           }
         ],
         "The Pirate Hub": [
@@ -520,12 +844,66 @@
     },
     "Coellosipp": {
       "civilizations": [
+        "GenBra Space Corp",
+        "InExCor"
+      ],
+      "regions": {
+        "GenBra Space Corp": [
+          {
+            "name": "Ecabos Instability",
+            "coordinates": "07FE:0081:0807:xxxx"
+          }
+        ],
+        "InExCor": [
+          {
+            "name": "Avinyam Spur",
+            "coordinates": "0806:0080:0803:xxxx"
+          },
+          {
+            "name": "Eizetta Fringe",
+            "coordinates": "0805:0081:0804:xxxx"
+          }
+        ]
+      }
+    },
+    "Cugnatachh": {
+      "civilizations": [
         "InExCor"
       ],
       "regions": {
         "InExCor": [
           {
-            "name": "Avinyam Spur",
+            "name": "Ehighe Nebula",
+            "coordinates": "0984:0077:0E91:xxxx"
+          }
+        ]
+      }
+    },
+    "Cuzcogipper": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Emlyan Spur",
+            "coordinates": "0800:0080:0807:xxxx"
+          }
+        ]
+      }
+    },
+    "Daitibeli": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Cornani Anomaly",
+            "coordinates": "08BE:0076:0EB0:xxxx"
+          },
+          {
+            "name": "Dakotzi",
             "coordinates": "0806:0080:0803:xxxx"
           }
         ]
@@ -563,13 +941,33 @@
     },
     "Digarlewena": {
       "civilizations": [
-        "InExCor"
+        "InExCor",
+        "UNITY"
       ],
       "regions": {
         "InExCor": [
           {
             "name": "Abhada Band",
             "coordinates": "0800:0080:07F7:xxxx"
+          }
+        ],
+        "UNITY": [
+          {
+            "name": "Eozawa",
+            "coordinates": "07FD:0080:07F7:xxxx"
+          }
+        ]
+      }
+    },
+    "Dihewsonj": {
+      "civilizations": [
+        "UNITY"
+      ],
+      "regions": {
+        "UNITY": [
+          {
+            "name": "Ciythieha Band",
+            "coordinates": "0802:0081:07F7:xxxx"
           }
         ]
       }
@@ -605,6 +1003,10 @@
           {
             "name": "Ceoski Sector",
             "coordinates": "06B0:007E:0386:xxxx"
+          },
+          {
+            "name": "Daqueo Conflux",
+            "coordinates": "0802:0082:07F8:xxxx"
           }
         ],
         "Morley Celestial Bureau": [
@@ -617,13 +1019,66 @@
     },
     "Dokiessmat": {
       "civilizations": [
+        "GenBra Space Corp",
+        "InExCor"
+      ],
+      "regions": {
+        "GenBra Space Corp": [
+          {
+            "name": "Deflor Cloud",
+            "coordinates": "07FA:0081:07F8:xxxx"
+          }
+        ],
+        "InExCor": [
+          {
+            "name": "Chnoukh Sector",
+            "coordinates": "0800:0080:0807:xxxx"
+          }
+        ]
+      }
+    },
+    "Dotusingg": {
+      "civilizations": [
         "InExCor"
       ],
       "regions": {
         "InExCor": [
           {
-            "name": "Chnoukh Sector",
-            "coordinates": "0800:0080:0807:xxxx"
+            "name": "Cityazzi Anomaly",
+            "coordinates": "0806:0081:0803:xxxx"
+          }
+        ]
+      }
+    },
+    "Dozivadido": {
+      "civilizations": [
+        "GenBra Space Corp",
+        "InExCor"
+      ],
+      "regions": {
+        "GenBra Space Corp": [
+          {
+            "name": "Eklanqu Shallows",
+            "coordinates": "07FE:007D:0807:xxxx"
+          }
+        ],
+        "InExCor": [
+          {
+            "name": "Enpaavi Nebula",
+            "coordinates": "07FD:0080:0807:xxxx"
+          }
+        ]
+      }
+    },
+    "Drajayanes": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Cuyointe Expanse",
+            "coordinates": "0806:0080:0803:xxxx"
           }
         ]
       }
@@ -637,6 +1092,10 @@
           {
             "name": "Aornao Shallows",
             "coordinates": "0800:0080:0807:xxxx"
+          },
+          {
+            "name": "Ehtondore Adjunct",
+            "coordinates": "0171:007E:0575:xxxx"
           }
         ]
       }
@@ -656,10 +1115,17 @@
     },
     "Eajerandal": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "GenBra Space Corp",
         "InExCor"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Ekfurb Adjunct",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "GenBra Space Corp": [
           {
             "name": "Carysoo",
@@ -670,6 +1136,14 @@
           {
             "name": "Awirdl Anomaly",
             "coordinates": "0454:007F:0585:xxxx"
+          },
+          {
+            "name": "Ehbocel Fringe",
+            "coordinates": "07F8:007C:07FC:xxxx"
+          },
+          {
+            "name": "Ekheimrik Expanse",
+            "coordinates": "07F6:007E:07F9:xxxx"
           }
         ]
       }
@@ -683,6 +1157,10 @@
           {
             "name": "Botridle Adjinct",
             "coordinates": "0CED:0085:0332:xxxx"
+          },
+          {
+            "name": "Dedenyac Fringe",
+            "coordinates": "0E67:0080:0AE1:xxxx"
           }
         ]
       }
@@ -697,6 +1175,10 @@
           {
             "name": "Ajeriata Expanse",
             "coordinates": "0807:0080:0800:xxxx"
+          },
+          {
+            "name": "Dohumpl",
+            "coordinates": "0B90:007C:0E05:xxxx"
           }
         ],
         "UNITY": [
@@ -724,25 +1206,35 @@
       "civilizations": [
         "9x99",
         "Alliance of Galactic Travellers",
+        "Brolo Republic",
         "Cegina General Corporation",
+        "Coalition of Free Systems",
         "Consortium Hub - Eissentam",
         "Eissentam Confederated Systems",
         "Eissentam Travellers Foundation",
+        "Eisvana",
         "ExoGek Intergalactic Holdings Corporation",
+        "Federal Republic of Rezehno",
         "Galactic Hub Eissentam",
         "Galactic Pioneer Services",
         "Galactic Republic of Eissentam",
         "InExCor",
         "Intergalactic Coalition of Travelers",
+        "MegaCorp",
         "Morley Celestial Bureau",
+        "No Man's Sky Love",
+        "Ph@nt0I¥I Š¥nDî¢ÅT€",
         "Ridsorian Empire",
         "SetDef",
         "Space Link Federation",
+        "The Blob Church",
         "The Council of Kings",
         "The Cult of 16",
         "The Eissentam Qitanian Empire",
+        "The Glowing Gek",
         "The Ironclad Empire",
         "The Nal Order",
+        "Tugarv Compendium",
         "United Star Navy",
         "Weyland-Yutani Corporation"
       ],
@@ -757,12 +1249,28 @@
           {
             "name": "Badelpi Fringe",
             "coordinates": "0973:007D:0159:xxxx"
+          },
+          {
+            "name": "Dedyley Terminus",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
+        "Brolo Republic": [
+          {
+            "name": "Esbrug",
+            "coordinates": "02F8:0062:0A69:xxxx"
           }
         ],
         "Cegina General Corporation": [
           {
             "name": "Cegina Nebula",
             "coordinates": "0BEA:0087:028A:xxxx"
+          }
+        ],
+        "Coalition of Free Systems": [
+          {
+            "name": "Efjeld",
+            "coordinates": "023C:0049:0FEE:xxxx"
           }
         ],
         "Consortium Hub - Eissentam": [
@@ -779,6 +1287,10 @@
           {
             "name": "Bohriga Nebula",
             "coordinates": "06B9:007C:0153:xxxx"
+          },
+          {
+            "name": "Etierfi",
+            "coordinates": "07FC:007D:0807:xxxx"
           }
         ],
         "Eissentam Travellers Foundation": [
@@ -787,16 +1299,44 @@
             "coordinates": "07FD:0078:0803:xxxx"
           }
         ],
+        "Eisvana": [
+          {
+            "name": "Cuynteto",
+            "coordinates": "0FFE:0021:090F:xxxx"
+          }
+        ],
         "ExoGek Intergalactic Holdings Corporation": [
           {
             "name": "Ameitn",
             "coordinates": "0BF5:007F:02E0:xxxx"
           }
         ],
+        "Federal Republic of Rezehno": [
+          {
+            "name": "Enmyoi",
+            "coordinates": "07AE:0083:0EE4:XXXX"
+          }
+        ],
         "Galactic Hub Eissentam": [
           {
             "name": "Anolamga Spur",
             "coordinates": "0430:0078:0D55:xxxx"
+          },
+          {
+            "name": "Cuculta",
+            "coordinates": "042E:0077:0D56:xxxx"
+          },
+          {
+            "name": "Ejongaa Anomaly",
+            "coordinates": "0430:0077:0D55:xxxx"
+          },
+          {
+            "name": "Etmarao",
+            "coordinates": "042E:0077:0D55:xxxx"
+          },
+          {
+            "name": "Exramb Adjunct",
+            "coordinates": "042E:0078:0D55:xxxx"
           }
         ],
         "Galactic Pioneer Services": [
@@ -843,10 +1383,28 @@
             "coordinates": "03D7:0081:0D96:xxxx"
           }
         ],
+        "MegaCorp": [
+          {
+            "name": "Econnune Sector",
+            "coordinates": "03F5:0078:0CFD:xxxx"
+          }
+        ],
         "Morley Celestial Bureau": [
           {
             "name": "Acamale Cluster",
             "coordinates": "0813:0082:0807:xxxx"
+          }
+        ],
+        "No Man's Sky Love": [
+          {
+            "name": "Epimetu Void",
+            "coordinates": "0802:0077:0803:xxxx"
+          }
+        ],
+        "Ph@nt0I¥I Š¥nDî¢ÅT€": [
+          {
+            "name": "Eclermaed Expanse",
+            "coordinates": "0802:0084:07F9:xxxx"
           }
         ],
         "Ridsorian Empire": [
@@ -861,6 +1419,10 @@
           {
             "name": "Arzacha",
             "coordinates": "0A20:00A0:0D54:XXXX"
+          },
+          {
+            "name": "Emglaro Quadrant",
+            "coordinates": "0A22:009F:0D54:XXXX"
           }
         ],
         "SetDef": [
@@ -875,10 +1437,20 @@
             "coordinates": "0E75:007D:096C:xxxx"
           }
         ],
+        "The Blob Church": [
+          {
+            "name": "Eizsakali",
+            "coordinates": "0287:0082:0428:xxxx"
+          }
+        ],
         "The Council of Kings": [
           {
             "name": "Azqure Nebula",
             "coordinates": "07F2:007E:010E:xxx"
+          },
+          {
+            "name": "Elpahmia Expanse",
+            "coordinates": "07F2:007E:00FF"
           }
         ],
         "The Cult of 16": [
@@ -897,6 +1469,12 @@
             "coordinates": "0804:007B:07F3:xxxx"
           }
         ],
+        "The Glowing Gek": [
+          {
+            "name": "Cirtsi",
+            "coordinates": "0B8E:007A:0244:xxxx"
+          }
+        ],
         "The Ironclad Empire": [
           {
             "name": "Adjages Spur",
@@ -907,6 +1485,12 @@
           {
             "name": "Aaport Sector",
             "coordinates": "0118:007E:088E:XXXX"
+          }
+        ],
+        "Tugarv Compendium": [
+          {
+            "name": "Dehoove",
+            "coordinates": "022A:0081:0BE7:xxxx"
           }
         ],
         "United Star Navy": [
@@ -925,13 +1509,24 @@
     },
     "Ekwathore": {
       "civilizations": [
+        "GenBra Space Corp",
         "InExCor"
       ],
       "regions": {
+        "GenBra Space Corp": [
+          {
+            "name": "Emoucer Void",
+            "coordinates": "0181:007F:0AB1:xxxx"
+          }
+        ],
         "InExCor": [
           {
             "name": "Aaheot Cloud",
             "coordinates": "0498:007F:0D80:xxxx"
+          },
+          {
+            "name": "Ehnkent Adjunct",
+            "coordinates": "0806:0082:07FC:xxxx"
           }
         ]
       }
@@ -952,6 +1547,7 @@
     "Elkupalos": {
       "civilizations": [
         "Alliance of Galactic Travellers",
+        "GenBra Space Corp",
         "InExCor",
         "Tugarv Compendium"
       ],
@@ -966,10 +1562,24 @@
             "coordinates": "0CA4:0081:0D4B:xxxx"
           }
         ],
+        "GenBra Space Corp": [
+          {
+            "name": "Ejleodz Mass",
+            "coordinates": "07FF:007A:07F8:xxxx"
+          }
+        ],
         "InExCor": [
           {
             "name": "Afioneas Conflux",
             "coordinates": "0EC4:0087:088D:xxxx"
+          },
+          {
+            "name": "Ciyrantpat Shallows",
+            "coordinates": "0806:007D:0804:xxxx"
+          },
+          {
+            "name": "Dohkapta Spur",
+            "coordinates": "07F7:0077:07F7:xxxx"
           }
         ],
         "Tugarv Compendium": [
@@ -982,13 +1592,24 @@
     },
     "Eltiensleen": {
       "civilizations": [
-        "InExCor"
+        "InExCor",
+        "Morley Celestial Bureau"
       ],
       "regions": {
         "InExCor": [
           {
             "name": "Chsenagya Cloud",
             "coordinates": "0807:0080:0801:xxxx"
+          },
+          {
+            "name": "Eqchin",
+            "coordinates": "0C78:007B:037A:xxxx"
+          }
+        ],
+        "Morley Celestial Bureau": [
+          {
+            "name": "Dryoida",
+            "coordinates": "07F1:007C:080F:0078"
           }
         ]
       }
@@ -1002,6 +1623,14 @@
           {
             "name": "Asuzukat",
             "coordinates": "0E40:0083:0B14:xxxx"
+          },
+          {
+            "name": "Dezhigu",
+            "coordinates": "091A:0083:011F:xxxx"
+          },
+          {
+            "name": "Doxuss Fringe",
+            "coordinates": "0806:007F:0803:xxxx"
           }
         ]
       }
@@ -1022,6 +1651,36 @@
           {
             "name": "Abrigi",
             "coordinates": "047A:0081:01EB:xxxx"
+          },
+          {
+            "name": "Dutersz",
+            "coordinates": "0806:0080:0803:xxxx"
+          }
+        ]
+      }
+    },
+    "Enjaxusanto": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Etforr Band",
+            "coordinates": "03BA:007F:0269:xxxx"
+          }
+        ]
+      }
+    },
+    "Enlaythie": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Daolitag Fringe",
+            "coordinates": "0701:0078:0EBE:xxxx"
           }
         ]
       }
@@ -1039,9 +1698,26 @@
         ]
       }
     },
+    "Ethiophodhe": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Ebehnirto Cloud",
+            "coordinates": "0E5C:007A:0AB2:xxxx"
+          }
+        ]
+      }
+    },
     "Euclid": {
       "civilizations": [
+        "9x99",
         "A+ Alliance",
+        "A.D.E.P.T Federation",
+        "ATLAS Commonwealth",
+        "Aculon Empire",
         "Ahiran Order",
         "Aiad Khaganate",
         "Aliens of NMS",
@@ -1049,30 +1725,54 @@
         "Amino Hub",
         "Anomaly Empire",
         "Arizonian Galactic Empire",
+        "Artifices Caeli",
+        "Astarian Star Frontiers",
+        "Atlas's Children",
         "Aviszar Cartel",
+        "BSO Botanical Society",
         "CELAB Galactic Industries",
         "Capital Triangle",
+        "Central Empire",
         "Commonwealth of Independent Systems",
         "Cosmic Cooperative",
         "Cungr Vanck Network",
+        "Cuzecha Interloper Republic",
         "Damatagam Coalition",
+        "Dapper Diplo Dough Depot",
+        "Democratic Order Of Planets",
+        "Dopelord Confederacy",
         "EPIC",
+        "Earthseed Civilization",
+        "Empire of Anomalies",
         "Empire of Eld",
         "Envoys of Talos",
         "Et Viatores Amalgamation",
         "Euclidean Federation of Independent Systems",
         "Euclidean Scholar's Society",
+        "Explorers Alliance",
         "Eye Of the Korvax Legion",
+        "Eyfert Khannate",
         "Federal Republic of Rezehno",
+        "Fiestan Empire",
+        "Forerunners",
         "Forgotten Colonies",
         "Free Delta Initiative",
         "Galactic Empire",
+        "Galactic Fleet",
         "Galactic Hub Project",
+        "Galactic Pathfinders",
+        "Galactic Patrol Federation",
         "Galactic Stargate Commando",
         "Galactic Trading Company",
         "Galactica",
+        "Galileo Hub",
+        "Gek United",
+        "Geknip Gang Hub",
         "GenBra Space Corp",
+        "Genesian Federation",
+        "Goose Trading Co.",
         "Grand Conjunction",
+        "Guardians of the Atlas",
         "Heian Empire",
         "Hub Francophone",
         "Imperium Astralis",
@@ -1082,49 +1782,96 @@
         "Joint Space Operations Administration",
         "Kingdom of Liycitus",
         "Korvax Ascendancy",
+        "MCR",
         "MegaCorp",
         "Morley Celestial Bureau",
         "Mud Bunny 11",
+        "NECO METUS EXITIUM",
         "NEXT Generation Hub",
         "New Aquarius",
+        "Nexus Imperium",
         "No Man's High Hub",
+        "Outdoor Decoration Company",
         "PANDORA-S CONSORTIUM",
         "Pirates of No Mans Sky",
         "Protectorate of Aualan",
         "RAIN",
         "Royal Space Society",
         "SGCorp",
+        "Samone Corporation",
         "Santherian Collective",
+        "Scholars and Cartographers Guild",
+        "Sepros Alliance",
         "Seventh Fleet",
         "Shared Community",
         "Silent Dragon Corp.",
+        "Skaggerrak Refuge",
+        "Société des Cartographes Stellaires",
+        "Solar Federation",
         "Solis Dominion",
         "Stream of P0ne",
         "Sumoha Starfleet",
         "Synthwave Eternal",
+        "The Astrocasters",
         "The Atlas Cartographers",
+        "The Aurorian Empire",
+        "The Collective",
         "The Crimson Arc",
+        "The Enigma Alliance",
         "The Entente Sector",
         "The Galactic Frontier",
         "The Hand of Nal",
+        "The Hyugame Empire",
         "The Kosmos Initiative",
+        "The Looland Corporation",
         "The Pirate Hub",
+        "The Plamidian Empire",
         "The Plamidian Remnants",
         "The Qitanian Empire",
         "The Union Of Communal Stars",
         "The Wander Society",
+        "Three",
         "Top of the Galaxy Hub",
+        "Trailblazer Corporation",
+        "Travellers of the Atlas",
         "Tugarv Compendium",
         "United Corporate Alliance",
+        "United Galactic Corps",
         "United Soviet Systemic Empire",
+        "Vy'Kea Furniture Company",
         "Winterdream Ubiety",
+        "Zann Consortium",
         "Zen"
       ],
       "regions": {
+        "9x99": [
+          {
+            "name": "Dwajim Adjunct",
+            "coordinates": "03D4:0083:0D90:xxxx"
+          }
+        ],
         "A+ Alliance": [
           {
             "name": "Cavian",
             "coordinates": "0472:0079:0D04:xxxx"
+          }
+        ],
+        "A.D.E.P.T Federation": [
+          {
+            "name": "Erwoodts Quadrant",
+            "coordinates": "013C:0087:0807:XXXX"
+          }
+        ],
+        "ATLAS Commonwealth": [
+          {
+            "name": "Erosung Quadrant",
+            "coordinates": "0801:007F:0828:03EF"
+          }
+        ],
+        "Aculon Empire": [
+          {
+            "name": "Eaumaso",
+            "coordinates": "0800:00C2:0D18:xxxx"
           }
         ],
         "Ahiran Order": [
@@ -1139,6 +1886,14 @@
           {
             "name": "Aorsing Instability",
             "coordinates": "044D:0081:0D55:xxxx"
+          },
+          {
+            "name": "Defloa Fringe",
+            "coordinates": "0452:0081:0D4E:xxxx"
+          },
+          {
+            "name": "Dubrayaco Cloud",
+            "coordinates": "044C:0081:0D56:xxxx"
           }
         ],
         "Aiad Khaganate": [
@@ -1285,6 +2040,154 @@
           {
             "name": "Cigudr",
             "coordinates": "0402:0072:0D03:xxxx"
+          },
+          {
+            "name": "Coatia Instability",
+            "coordinates": "0323:0072:0C61:xxxx"
+          },
+          {
+            "name": "Comildt Cluster",
+            "coordinates": "03C3:0072:0CDF:0xxx"
+          },
+          {
+            "name": "Dayima",
+            "coordinates": "0369:0072:0C98:xxxx"
+          },
+          {
+            "name": "Daytran Instability",
+            "coordinates": "033A:007E:0362:xxxx"
+          },
+          {
+            "name": "Dehnaya",
+            "coordinates": "0B0F:0080:02ED:xxxx"
+          },
+          {
+            "name": "Denevic Anomaly",
+            "coordinates": "05B6:007F:060F:xxxx"
+          },
+          {
+            "name": "Detundaw Cluster",
+            "coordinates": "033A:007E:0361:xxxx"
+          },
+          {
+            "name": "Deuter",
+            "coordinates": "0B0F:0081:02EB:xxxx"
+          },
+          {
+            "name": "Dewitz Conflux",
+            "coordinates": "06E1:0086:0141:0xxx"
+          },
+          {
+            "name": "Dijowendiin Mass",
+            "coordinates": "0B14:007E:01AE:xxxx"
+          },
+          {
+            "name": "Dimulao Boundary",
+            "coordinates": "010F:007E:06DC:0xxx"
+          },
+          {
+            "name": "Dimute",
+            "coordinates": "05E3:007A:0167:xxxx"
+          },
+          {
+            "name": "Diuhet",
+            "coordinates": "0B11:0080:02EB:xxxx"
+          },
+          {
+            "name": "Diwobol Cloud",
+            "coordinates": "09CD:0083:06C4:xxxx"
+          },
+          {
+            "name": "Diyanzieg Expanse",
+            "coordinates": "0B10:0081:02EA:xxxx"
+          },
+          {
+            "name": "Doceetz",
+            "coordinates": "0398:0072:0CBE:xxxx"
+          },
+          {
+            "name": "Doddiev",
+            "coordinates": "0B10:0080:02EA:xxxx"
+          },
+          {
+            "name": "Doperbac Cloud",
+            "coordinates": "0D37:007F:0A58:00FA"
+          },
+          {
+            "name": "Dujogosi",
+            "coordinates": "0385:0072:0CAE:xxxx"
+          },
+          {
+            "name": "Edqualal Sector",
+            "coordinates": "09C2:0080:0D3D:xxxx"
+          },
+          {
+            "name": "Effett Anomaly",
+            "coordinates": "023B:0081:0504:0xxx"
+          },
+          {
+            "name": "Eggine Sector",
+            "coordinates": "0D16:007F:0A58:xxxx"
+          },
+          {
+            "name": "Eibesh",
+            "coordinates": "0167:0083:05B3:xxxx"
+          },
+          {
+            "name": "Eidjam Conflux",
+            "coordinates": "043D:0073:0D45:xxxx"
+          },
+          {
+            "name": "Ekiani Band",
+            "coordinates": "06A8:0082:0735:xxxx"
+          },
+          {
+            "name": "Ekulca Conflux",
+            "coordinates": "0B10:0081:02EB:xxxx"
+          },
+          {
+            "name": "Elnatyaz Terminus",
+            "coordinates": "043E:0071:0D44:xxxx"
+          },
+          {
+            "name": "Emidtum",
+            "coordinates": "0A85:007C:017B:xxxx"
+          },
+          {
+            "name": "Enzexu Mass",
+            "coordinates": "03EC:0072:0CF7:xxxx"
+          },
+          {
+            "name": "Eotisidod Cloud",
+            "coordinates": "05AF:007D:07D1:xxxx"
+          },
+          {
+            "name": "Epawega Adjunct",
+            "coordinates": "0432:0072:0D27:0xxx"
+          },
+          {
+            "name": "Eqchit",
+            "coordinates": "0373:0072:0C9F:xxxx"
+          },
+          {
+            "name": "Ersfel Shallows",
+            "coordinates": "0453:0083:0212:xxxx"
+          },
+          {
+            "name": "Etlakl Instability",
+            "coordinates": "021E:0080:07A6:xxxx"
+          },
+          {
+            "name": "Ewguojim Cluster",
+            "coordinates": "061B:007D:02BD:0xxx"
+          },
+          {
+            "name": "Exlerce Sector",
+            "coordinates": "0163:0089:0664:xxxx"
+          },
+          {
+            "name": "Eyleru Mass",
+            "coordinates": "03A1:0072:0CC5:xxxx"
           }
         ],
         "Amino Hub": [
@@ -1295,6 +2198,18 @@
           {
             "name": "Aspiti",
             "coordinates": "064B:0082:01B9:xxxx"
+          },
+          {
+            "name": "Diyingn Boundary",
+            "coordinates": "064A:0082:01BA:xxxx"
+          },
+          {
+            "name": "Doardang Instability",
+            "coordinates": "064A:0081:01BA:xxxx"
+          },
+          {
+            "name": "Duyingnius Band",
+            "coordinates": "064A:0082:01BA:xxxx"
           }
         ],
         "Anomaly Empire": [
@@ -1309,10 +2224,34 @@
             "coordinates": "01CC:0082:0B3F:xxxx"
           }
         ],
+        "Artifices Caeli": [
+          {
+            "name": "Exphin Adjunct",
+            "coordinates": "091D:00A1:09FF:xxxx"
+          }
+        ],
+        "Astarian Star Frontiers": [
+          {
+            "name": "Eeshiro Adjunct",
+            "coordinates": "0656:0080:012A:xxxx"
+          }
+        ],
+        "Atlas's Children": [
+          {
+            "name": "Esniac Shallows",
+            "coordinates": "0414:007F:0DAA:xxxx"
+          }
+        ],
         "Aviszar Cartel": [
           {
             "name": "Azerno Sector",
             "coordinates": "0A56:0075:0E38:xxxx"
+          }
+        ],
+        "BSO Botanical Society": [
+          {
+            "name": "Dihirng",
+            "coordinates": "0A72:007C:0A56:xxxx"
           }
         ],
         "CELAB Galactic Industries": [
@@ -1331,6 +2270,14 @@
           {
             "name": "Cijollf Cluster",
             "coordinates": "08F7:0083:0647:xxxx"
+          },
+          {
+            "name": "Cudonok Band",
+            "coordinates": "0E06:0079:067F:xxxx"
+          },
+          {
+            "name": "Egerma Cloud",
+            "coordinates": "0A7F:0081:02B9:xxxx"
           }
         ],
         "Capital Triangle": [
@@ -1345,6 +2292,12 @@
           {
             "name": "Afuthro",
             "coordinates": "0363:0072:0CE5:xxxx"
+          }
+        ],
+        "Central Empire": [
+          {
+            "name": "Cutons Boundary",
+            "coordinates": "0868:0076:0156:xxxx"
           }
         ],
         "Commonwealth of Independent Systems": [
@@ -1365,6 +2318,12 @@
             "coordinates": "062F:0080:021C:xxxx"
           }
         ],
+        "Cuzecha Interloper Republic": [
+          {
+            "name": "Cuzecha Void",
+            "coordinates": "0D8F:0081:03B5:xxxx"
+          }
+        ],
         "Damatagam Coalition": [
           {
             "name": "Apiacosyr",
@@ -1373,6 +2332,28 @@
           {
             "name": "Bihuman Void",
             "coordinates": "0E15:007E:0B82:xxxx"
+          },
+          {
+            "name": "Cizikerr Mass",
+            "coordinates": "07F6:0081:07FC:xxxx"
+          }
+        ],
+        "Dapper Diplo Dough Depot": [
+          {
+            "name": "Ewguoj",
+            "coordinates": "07F9:0080:07F3:xxxx"
+          }
+        ],
+        "Democratic Order Of Planets": [
+          {
+            "name": "Ezeleek Cluster",
+            "coordinates": "0511:0080:0E63:xxxx"
+          }
+        ],
+        "Dopelord Confederacy": [
+          {
+            "name": "Edquamn Nebula",
+            "coordinates": "0802:007C:0806:xxxx"
           }
         ],
         "EPIC": [
@@ -1387,6 +2368,30 @@
           {
             "name": "Bonesenk Cloud",
             "coordinates": "0FE2:0004:0FFB:xxxx"
+          },
+          {
+            "name": "Emkinses Fringe",
+            "coordinates": "0FE1:0004:0FFB:xxxx"
+          },
+          {
+            "name": "Ergenth",
+            "coordinates": "0907:007E:092C:xxxx"
+          }
+        ],
+        "Earthseed Civilization": [
+          {
+            "name": "Dezumok Adjunct",
+            "coordinates": "0BC5:0079:023E:xxxx"
+          }
+        ],
+        "Empire of Anomalies": [
+          {
+            "name": "Domoni Boundary",
+            "coordinates": "0478:0078:0225:xxxx"
+          },
+          {
+            "name": "Eljend Conflux",
+            "coordinates": "0479:0078:0225:xxxx"
           }
         ],
         "Empire of Eld": [
@@ -1427,22 +2432,70 @@
             "coordinates": "0CE8:007A:031D:xxxx"
           }
         ],
+        "Explorers Alliance": [
+          {
+            "name": "Eferosy Quadrant",
+            "coordinates": "035D:007E:0CAF:xxxx"
+          },
+          {
+            "name": "Ercays",
+            "coordinates": "042F:0079:0D56:xxxx"
+          }
+        ],
         "Eye Of the Korvax Legion": [
           {
             "name": "Adinkl Nebula",
             "coordinates": "0FFE:007F:0FFE:xxxx"
+          },
+          {
+            "name": "Eboschau Band",
+            "coordinates": "0FFE:007D:0000:xxxx"
+          },
+          {
+            "name": "Epyatn Cloud",
+            "coordinates": "0000:007F:0FFE:xxxx"
+          }
+        ],
+        "Eyfert Khannate": [
+          {
+            "name": "Ebkauk Sector",
+            "coordinates": "0FFE:0000:0FB2:xxxx"
           }
         ],
         "Federal Republic of Rezehno": [
           {
             "name": "Acquiv Terminus",
             "coordinates": "0E02:007F:0BA5:xxxx"
+          },
+          {
+            "name": "Dizetfo Conflux",
+            "coordinates": "049E:0081:0E27:XXXX"
+          }
+        ],
+        "Fiestan Empire": [
+          {
+            "name": "Emwezio",
+            "coordinates": "0119:007D:0883:0066"
+          }
+        ],
+        "Forerunners": [
+          {
+            "name": "Cotters Adjunct",
+            "coordinates": "07E3:007E:0F02:xxxx"
+          },
+          {
+            "name": "Etramn",
+            "coordinates": "0949:0085:0ED0:xxxx"
           }
         ],
         "Forgotten Colonies": [
           {
             "name": "Blonsed",
             "coordinates": "0FFE:0000:0FFD:xxxx"
+          },
+          {
+            "name": "Eunitoa Boundary",
+            "coordinates": "0FFE:0081:0B46:xxxx"
           }
         ],
         "Free Delta Initiative": [
@@ -1455,6 +2508,12 @@
           {
             "name": "Ceroecam Spur",
             "coordinates": "0120:001B:0773:xxxx"
+          }
+        ],
+        "Galactic Fleet": [
+          {
+            "name": "Dacican Void",
+            "coordinates": "08D1:00FC:0550:00C1"
           }
         ],
         "Galactic Hub Project": [
@@ -1489,6 +2548,70 @@
           {
             "name": "Canthian",
             "coordinates": "042F:0078:0D54:xxxx"
+          },
+          {
+            "name": "Cuffman Anomaly",
+            "coordinates": "043C:006B:0D4A:xxxx"
+          },
+          {
+            "name": "Dadurgh",
+            "coordinates": "044B:0082:0D56:xxxx"
+          },
+          {
+            "name": "Davikto Sector",
+            "coordinates": "041D:004F:0D88:xxxx"
+          },
+          {
+            "name": "Dazhang Terminus",
+            "coordinates": "043D:0068:0D4A:xxxx"
+          },
+          {
+            "name": "Dexterf Sector",
+            "coordinates": "0430:0078:0D54:xxxx"
+          },
+          {
+            "name": "Dizele Void",
+            "coordinates": "044D:0082:0D55:xxxx"
+          },
+          {
+            "name": "Dujerad Adjunct",
+            "coordinates": "044C:0081:0D55:xxxx"
+          },
+          {
+            "name": "Eapustafi Fringe",
+            "coordinates": "046A:0081:0D6D:xxxx"
+          },
+          {
+            "name": "Eapustafiges Adjunct",
+            "coordinates": "046A:0081:0D6D:xxxx"
+          },
+          {
+            "name": "Edvario Cloud",
+            "coordinates": "041D:004D:0D89:xxxx"
+          },
+          {
+            "name": "Enhara",
+            "coordinates": "0468:0081:0D6C:xxxx"
+          },
+          {
+            "name": "Enharagch Expanse",
+            "coordinates": "0468:0081:0D6C:xxxx"
+          },
+          {
+            "name": "Eyrint Fringe",
+            "coordinates": "044C:0082:0D56:xxxx"
+          }
+        ],
+        "Galactic Pathfinders": [
+          {
+            "name": "Debehri Mass",
+            "coordinates": "07F6:0081:07FF:xxxx"
+          }
+        ],
+        "Galactic Patrol Federation": [
+          {
+            "name": "Dokinfur",
+            "coordinates": "0E05:0086:0B2E:xxxx"
           }
         ],
         "Galactic Stargate Commando": [
@@ -1521,6 +2644,28 @@
             "coordinates": "052A:007B:01DB:003F"
           }
         ],
+        "Galileo Hub": [
+          {
+            "name": "Dubhe Expanse",
+            "coordinates": "0A8F:0080:0DF6:xxxx"
+          }
+        ],
+        "Gek United": [
+          {
+            "name": "Eitsan Spur",
+            "coordinates": "0190:0079:03A6:000A"
+          }
+        ],
+        "Geknip Gang Hub": [
+          {
+            "name": "Eveenskai Shallows",
+            "coordinates": "0E40:0083:04E8:xxxx"
+          },
+          {
+            "name": "Eveenskaiosk Boundary",
+            "coordinates": "0E40:0083:04E8:xxxx"
+          }
+        ],
         "GenBra Space Corp": [
           {
             "name": "Aihewi Terminus",
@@ -1535,10 +2680,32 @@
             "coordinates": "0D79:0080:0395:xxxx"
           }
         ],
+        "Genesian Federation": [
+          {
+            "name": "Egiacon",
+            "coordinates": "05D0:0080:0E97:xxxx"
+          }
+        ],
+        "Goose Trading Co.": [
+          {
+            "name": "Deutayoqu Fringe",
+            "coordinates": "0B61:007B:0E15:xxxx"
+          }
+        ],
         "Grand Conjunction": [
           {
             "name": "Baijaoi Quadrant",
             "coordinates": "0199:0086:0565:xxxx"
+          },
+          {
+            "name": "Daclivun Spur",
+            "coordinates": "0CF1:0083:031B:XXXX"
+          }
+        ],
+        "Guardians of the Atlas": [
+          {
+            "name": "Eakian Instability",
+            "coordinates": "0804:0084:07FB:xxxx"
           }
         ],
         "Heian Empire": [
@@ -1551,6 +2718,10 @@
           {
             "name": "Aarima Mass",
             "coordinates": "0D99:0082:04A6:xxxx"
+          },
+          {
+            "name": "Egawul Mass",
+            "coordinates": "0D8E:0080:04A1:xxxx"
           }
         ],
         "Imperium Astralis": [
@@ -1565,6 +2736,30 @@
           {
             "name": "Cemandl Instability",
             "coordinates": "0129:0080:06DD:xxxx"
+          },
+          {
+            "name": "Cukjamu Nebula",
+            "coordinates": "09A6:007C:0132:xxxx"
+          },
+          {
+            "name": "Dibonk Quadrant",
+            "coordinates": "06B2:0082:066C:xxxx"
+          },
+          {
+            "name": "Diyuanite Belt",
+            "coordinates": "09A6:007C:012F:xxxx"
+          },
+          {
+            "name": "Ecuangd Mass",
+            "coordinates": "064B:0082:066E:xxxx"
+          },
+          {
+            "name": "Erjunlo Frontier",
+            "coordinates": "0127:0080:06DF:xxxx"
+          },
+          {
+            "name": "Esvallr",
+            "coordinates": "09A6:007C:0131:xxxx"
           }
         ],
         "InExCor": [
@@ -1747,6 +2942,186 @@
           {
             "name": "Cethid Spur",
             "coordinates": "034B:0080:038C:xxxx"
+          },
+          {
+            "name": "Ciyonyika",
+            "coordinates": "0E7D:0080:0A83:xxxx"
+          },
+          {
+            "name": "Clevikto Quadrant",
+            "coordinates": "085C:007C:0E9D:xxxx"
+          },
+          {
+            "name": "Cliach Anomaly",
+            "coordinates": "0E88:0082:0A80:xxxx"
+          },
+          {
+            "name": "Cokamma",
+            "coordinates": "0D86:0073:0C33:xxxx"
+          },
+          {
+            "name": "Cosabika Terminus",
+            "coordinates": "099F:007F:0BE5:xxxx"
+          },
+          {
+            "name": "Costia Nebula",
+            "coordinates": "0DC6:0088:0B6A:xxxx"
+          },
+          {
+            "name": "Cusleana Adjunct",
+            "coordinates": "0B10:007B:0E44:xxxx"
+          },
+          {
+            "name": "Cuyanoukh Quadrant",
+            "coordinates": "09A9:007F:03F4:xxxx"
+          },
+          {
+            "name": "Dakaapezi Mass",
+            "coordinates": "07FA:007C:07F9:xxxx"
+          },
+          {
+            "name": "Dalivesye",
+            "coordinates": "071D:008B:027A:xxxx"
+          },
+          {
+            "name": "Daquaesc Conflux",
+            "coordinates": "055F:0083:018D:xxxx"
+          },
+          {
+            "name": "Deagut Mass",
+            "coordinates": "0EF7:007F:073E:xxxx"
+          },
+          {
+            "name": "Deenar Instability",
+            "coordinates": "0D7F:0072:0C2E:xxxx"
+          },
+          {
+            "name": "Digailtb Shallows",
+            "coordinates": "0C48:007E:026D:xxxx"
+          },
+          {
+            "name": "Dohnaye Sector",
+            "coordinates": "0483:0089:04BA:xxxx"
+          },
+          {
+            "name": "Dovitro",
+            "coordinates": "0910:0083:013C:xxxx"
+          },
+          {
+            "name": "Duseyaevie Sector",
+            "coordinates": "0D83:0073:0C33:xxxx"
+          },
+          {
+            "name": "Duvaraja Mass",
+            "coordinates": "0921:007D:0E81:xxxx"
+          },
+          {
+            "name": "Eaboqu",
+            "coordinates": "07A8:0081:0852:xxxx"
+          },
+          {
+            "name": "Eaglav Cluster",
+            "coordinates": "0800:007F:07F7:xxxx"
+          },
+          {
+            "name": "Ebatus Fringe",
+            "coordinates": "0381:0084:03C2:xxxx"
+          },
+          {
+            "name": "Eckiang Cluster",
+            "coordinates": "0700:0083:01B5:xxxx"
+          },
+          {
+            "name": "Edkuba Instability",
+            "coordinates": "098C:007F:0BB4:xxxx"
+          },
+          {
+            "name": "Edravi Cluster",
+            "coordinates": "0721:008B:02B1:xxxx"
+          },
+          {
+            "name": "Edvard Band",
+            "coordinates": "0E86:0082:0A80:xxxx"
+          },
+          {
+            "name": "Egbartv Anomaly",
+            "coordinates": "0E76:0083:053F:xxxx"
+          },
+          {
+            "name": "Egbatzi Void",
+            "coordinates": "04BE:0084:0459:xxxx"
+          },
+          {
+            "name": "Eichsif Instability",
+            "coordinates": "03BE:0085:03FF:xxxx"
+          },
+          {
+            "name": "Eissim Spur",
+            "coordinates": "051D:007B:0215:xxxx"
+          },
+          {
+            "name": "Enisel Cluster",
+            "coordinates": "0A70:007C:024B:xxxx"
+          },
+          {
+            "name": "Enlanhe",
+            "coordinates": "03E0:007E:034D:xxxx"
+          },
+          {
+            "name": "Ennaqu Instability",
+            "coordinates": "0478:0083:0DED:xxxx"
+          },
+          {
+            "name": "Ercidon Void",
+            "coordinates": "0991:007F:0BC0:xxxx"
+          },
+          {
+            "name": "Erdroj Mass",
+            "coordinates": "0D36:007A:0368:xxxx"
+          },
+          {
+            "name": "Erxiansa Quadrant",
+            "coordinates": "0394:0084:03D6:xxxx"
+          },
+          {
+            "name": "Erzfel Shallows",
+            "coordinates": "00BA:007D:0318:xxxx"
+          },
+          {
+            "name": "Erzog",
+            "coordinates": "0A18:007F:0309:xxxx"
+          },
+          {
+            "name": "Esmerind",
+            "coordinates": "02EB:007C:0CC2:xxxx"
+          },
+          {
+            "name": "Essisy",
+            "coordinates": "03F4:0084:0256:xxxx"
+          },
+          {
+            "name": "Evnikegg Band",
+            "coordinates": "0641:007E:089B:xxxx"
+          },
+          {
+            "name": "Expard Cluster",
+            "coordinates": "0DA2:0076:045B:xxxx"
+          },
+          {
+            "name": "Exrobam Nebula",
+            "coordinates": "0CCB:003F:04C9:xxxx"
+          },
+          {
+            "name": "Extove Adjunct",
+            "coordinates": "0E2D:00A2:0BBF:xxxx"
+          },
+          {
+            "name": "Eyamixto Instability",
+            "coordinates": "0CFC:007C:0317:xxxx"
+          },
+          {
+            "name": "Eyferook Fringe",
+            "coordinates": "0CFC:007C:0316:xxxx"
           }
         ],
         "Intergalactic Discoveries": [
@@ -1779,10 +3154,20 @@
             "coordinates": "063D:0081:0132:xxxx"
           }
         ],
+        "MCR": [
+          {
+            "name": "Eggine Conflux",
+            "coordinates": "0E44:0082:04E5:xxxx"
+          }
+        ],
         "MegaCorp": [
           {
             "name": "Alscotaiz Void",
             "coordinates": "0FFD:007D:0897:xxxx"
+          },
+          {
+            "name": "Esvasol Conflux",
+            "coordinates": "0FFC:007D:0896:xxxx"
           }
         ],
         "Morley Celestial Bureau": [
@@ -1797,6 +3182,12 @@
             "coordinates": "0EBE:0080:08FF:xxxx"
           }
         ],
+        "NECO METUS EXITIUM": [
+          {
+            "name": "Eigertumu Quadrant",
+            "coordinates": "0EF6:007D:0717:xxxx"
+          }
+        ],
         "NEXT Generation Hub": [
           {
             "name": "Aoxime Expanse",
@@ -1809,10 +3200,34 @@
             "coordinates": "044C:0082:0D53:xxxx"
           }
         ],
+        "Nexus Imperium": [
+          {
+            "name": "Cuffettes Nebula",
+            "coordinates": "01A4:0081:0544:xxxx"
+          }
+        ],
         "No Man's High Hub": [
           {
             "name": "Angutha",
             "coordinates": "014C:0078:06D9:xxxx"
+          },
+          {
+            "name": "Cuzco Fringe",
+            "coordinates": "014C:0078:06DB:xxxx"
+          },
+          {
+            "name": "Eeckpod",
+            "coordinates": "014B:0077:06D9:xxxx"
+          },
+          {
+            "name": "Eodore Terminus",
+            "coordinates": "014B:0076:06DA:xxxx"
+          }
+        ],
+        "Outdoor Decoration Company": [
+          {
+            "name": "Ekperav Terminus",
+            "coordinates": "01A4:007E:0A7E:xxxx"
           }
         ],
         "PANDORA-S CONSORTIUM": [
@@ -1825,6 +3240,10 @@
           {
             "name": "Aijuham Instability",
             "coordinates": "089A:0080:0104:xxxx"
+          },
+          {
+            "name": "Eoissy Spur",
+            "coordinates": "0893:0080:0104:xxxx"
           }
         ],
         "Protectorate of Aualan": [
@@ -1837,6 +3256,10 @@
           {
             "name": "Acrumikil Cluster",
             "coordinates": "0800:007D:07F7:xxxx"
+          },
+          {
+            "name": "Diilis",
+            "coordinates": "0928:0083:06FC:xxxx"
           }
         ],
         "Royal Space Society": [
@@ -1847,6 +3270,14 @@
           {
             "name": "Becheeth Sector",
             "coordinates": "0523:0076:06C0:xxxx"
+          },
+          {
+            "name": "Eighba Fringe",
+            "coordinates": "040F:007D:0233:xxxx"
+          },
+          {
+            "name": "Emcalh Nebula",
+            "coordinates": "0ED7:0078:0783:xxxx"
           }
         ],
         "SGCorp": [
@@ -1861,12 +3292,34 @@
           {
             "name": "Biware",
             "coordinates": "0804:0086:07FE:xxxx"
+          },
+          {
+            "name": "Exkeel Sector",
+            "coordinates": "0803:0086:07FE:xxxx"
+          }
+        ],
+        "Samone Corporation": [
+          {
+            "name": "Debadzi Anomaly",
+            "coordinates": "0B27:004C:0D64:xxxx"
           }
         ],
         "Santherian Collective": [
           {
             "name": "Aycush Expanse",
             "coordinates": "0EE8:00A2:06EC:xxxx"
+          }
+        ],
+        "Scholars and Cartographers Guild": [
+          {
+            "name": "Ernhaku Band",
+            "coordinates": "071C:007F:0146:xxxx"
+          }
+        ],
+        "Sepros Alliance": [
+          {
+            "name": "Etnori",
+            "coordinates": "0663:0083:0EA3:xxxx"
           }
         ],
         "Seventh Fleet": [
@@ -1919,12 +3372,62 @@
           {
             "name": "Chnelem",
             "coordinates": "0152:0081:05B9:xxxx"
+          },
+          {
+            "name": "Coborovi Shallows",
+            "coordinates": "04E1:0082:0A3D:xxxx"
+          },
+          {
+            "name": "Dekalb Instability",
+            "coordinates": "0716:008B:01F6:xxxx"
+          },
+          {
+            "name": "Dezhur Cloud",
+            "coordinates": "0948:0086:0ED1:xxxx"
+          },
+          {
+            "name": "Diopia",
+            "coordinates": "04FC:0082:0A2C:xxxx"
+          },
+          {
+            "name": "Drlenj Expanse",
+            "coordinates": "0E76:0080:053F:xxxx"
+          },
+          {
+            "name": "Enusoph Mass",
+            "coordinates": "07FA:0084:07F5:xxxx"
+          },
+          {
+            "name": "Ewcomea",
+            "coordinates": "053D:0085:0A01:xxxx"
           }
         ],
         "Silent Dragon Corp.": [
           {
             "name": "Asgard Cluster",
             "coordinates": "0FFE:00D0:0000:xxxx"
+          }
+        ],
+        "Skaggerrak Refuge": [
+          {
+            "name": "Cutoph Band",
+            "coordinates": "041A:007D:0D58:xxxx"
+          },
+          {
+            "name": "Cutophusb Expanse",
+            "coordinates": "041A:007D:0D58:xxxx"
+          }
+        ],
+        "Société des Cartographes Stellaires": [
+          {
+            "name": "Daboudej Terminus",
+            "coordinates": "0D45:007A:0C83:xxxx"
+          }
+        ],
+        "Solar Federation": [
+          {
+            "name": "Edaykki Boundary",
+            "coordinates": "0B2D:007F:0FFD:xxxx"
           }
         ],
         "Solis Dominion": [
@@ -1937,6 +3440,18 @@
           {
             "name": "Batanssom",
             "coordinates": "0199:0080:0AA2:xxxx"
+          },
+          {
+            "name": "Cudowathian Fringe",
+            "coordinates": "0465:0081:0D6C:xxxx"
+          },
+          {
+            "name": "Dazhbocoy",
+            "coordinates": "0484:0081:0D42:xxxx"
+          },
+          {
+            "name": "Euniezhamh",
+            "coordinates": "0476:0081:0D56:xxxx"
           }
         ],
         "Sumoha Starfleet": [
@@ -1947,6 +3462,10 @@
           {
             "name": "Bipekin Shallows",
             "coordinates": "0129:007C:098D:xxxx"
+          },
+          {
+            "name": "Diuhei Nebula",
+            "coordinates": "012C:007C:098E:xxxx"
           }
         ],
         "Synthwave Eternal": [
@@ -1955,16 +3474,48 @@
             "coordinates": "013E:007D:0617:015D"
           }
         ],
+        "The Astrocasters": [
+          {
+            "name": "Elvindr",
+            "coordinates": "0FB1:00F1:0001:0026"
+          }
+        ],
         "The Atlas Cartographers": [
           {
             "name": "Bobagapa Band",
             "coordinates": "07FD:0084:07F9:xxxx"
           }
         ],
+        "The Aurorian Empire": [
+          {
+            "name": "Cithigh Sector",
+            "coordinates": "013D:0078:0901:xxxx"
+          }
+        ],
+        "The Collective": [
+          {
+            "name": "Ewburs",
+            "coordinates": "08C6:0077:0149:xxxx"
+          }
+        ],
         "The Crimson Arc": [
           {
             "name": "Bezesi Cluster",
             "coordinates": "0374:0086:0CF5:xxxx"
+          },
+          {
+            "name": "Exblah Sector",
+            "coordinates": "0BB6:007D:0259:xxxx"
+          }
+        ],
+        "The Enigma Alliance": [
+          {
+            "name": "Ciyrrihu Cloud",
+            "coordinates": "0CB3:007B:032A:xxxx"
+          },
+          {
+            "name": "Erperrong Quadrant",
+            "coordinates": "0CB4:007B:032C:xxxx"
           }
         ],
         "The Entente Sector": [
@@ -1993,10 +3544,22 @@
             "coordinates": "03F9:007E:0C2B:xxxx"
           }
         ],
+        "The Hyugame Empire": [
+          {
+            "name": "Eizelent Quadrant",
+            "coordinates": "0D3B:007F:0C29:xxxx"
+          }
+        ],
         "The Kosmos Initiative": [
           {
             "name": "Chwedy Shallows",
             "coordinates": "02C7:0082:035B:xxxx"
+          }
+        ],
+        "The Looland Corporation": [
+          {
+            "name": "Dagcutist Band",
+            "coordinates": "03F9:0078:0280:xxxx"
           }
         ],
         "The Pirate Hub": [
@@ -2007,6 +3570,20 @@
           {
             "name": "Cahusar Sector",
             "coordinates": "0D84:003C:0B75:XXXX"
+          },
+          {
+            "name": "Digond Nebula",
+            "coordinates": "0AF1:00F4:0F29:XXXX"
+          },
+          {
+            "name": "Ehbogi Adjunct",
+            "coordinates": "0E77:0082:0A72:XXXX"
+          }
+        ],
+        "The Plamidian Empire": [
+          {
+            "name": "Cotureshun Cluster",
+            "coordinates": "0208:0078:0B3E:xxxx"
           }
         ],
         "The Plamidian Remnants": [
@@ -2037,16 +3614,58 @@
             "coordinates": "0EBA:0087:08D3:xxxx"
           }
         ],
+        "Three": [
+          {
+            "name": "Ewenst Adjunct",
+            "coordinates": "03DD:0083:0268:xxxx"
+          }
+        ],
         "Top of the Galaxy Hub": [
           {
             "name": "Beholby Conflux",
             "coordinates": "0A48:00FD:075B:xxxx"
           }
         ],
+        "Trailblazer Corporation": [
+          {
+            "name": "Ehansh",
+            "coordinates": "0AF3:007C:0E57:xxxx"
+          }
+        ],
+        "Travellers of the Atlas": [
+          {
+            "name": "Eamullmam Void",
+            "coordinates": "0002:007D:0A5D:xxxx"
+          }
+        ],
         "Tugarv Compendium": [
           {
             "name": "Amfordr Sector",
             "coordinates": "0206:0083:0B98:xxxx"
+          },
+          {
+            "name": "Denirre Instability",
+            "coordinates": "0B54:007B:0E26:xxxx"
+          },
+          {
+            "name": "Devitr",
+            "coordinates": "0748:007B:0EF8:xxxx"
+          },
+          {
+            "name": "Dutjal Band",
+            "coordinates": "0AFE:0079:0E35:xxxx"
+          },
+          {
+            "name": "Eauxal Terminus",
+            "coordinates": "0AFF:0079:0E36:xxxx"
+          },
+          {
+            "name": "Edzicni Sector",
+            "coordinates": "059A:007C:0E55:xxxx"
+          },
+          {
+            "name": "Epchel Sector",
+            "coordinates": "0AFE:0079:0E37:xxxx"
           }
         ],
         "United Corporate Alliance": [
@@ -2055,22 +3674,57 @@
             "coordinates": "0D3C:007F:03F7:xxxx"
           }
         ],
+        "United Galactic Corps": [
+          {
+            "name": "Dubhe",
+            "coordinates": "0801:0078:0803:xxxx"
+          }
+        ],
         "United Soviet Systemic Empire": [
           {
             "name": "Biusha Terminus",
             "coordinates": "010E:0080:0753:xxxx"
           }
         ],
+        "Vy'Kea Furniture Company": [
+          {
+            "name": "Exhuan",
+            "coordinates": "0432:0078:0D52:xxxx"
+          }
+        ],
         "Winterdream Ubiety": [
           {
             "name": "Asusilu Spur",
             "coordinates": "06F5:007B:0151:xxxx"
+          },
+          {
+            "name": "Egbalongx Sector",
+            "coordinates": "09DB:0078:0BDF:xxxx"
+          }
+        ],
+        "Zann Consortium": [
+          {
+            "name": "Daporth Terminus",
+            "coordinates": "0193:007E:05CD:xxxx"
           }
         ],
         "Zen": [
           {
             "name": "Auolub Boundary",
             "coordinates": "0D01:0084:0CCC:xxxx"
+          }
+        ]
+      }
+    },
+    "Evcickcandj": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Etnore Void",
+            "coordinates": "0807:0080:07FD:xxxx"
           }
         ]
       }
@@ -2091,6 +3745,10 @@
           {
             "name": "Bigyanthi Band",
             "coordinates": "0800:0080:0807:xxxx"
+          },
+          {
+            "name": "Dinyach Conflux",
+            "coordinates": "048A:007F:01E0:xxxx"
           }
         ]
       }
@@ -2104,6 +3762,56 @@
           {
             "name": "Aphucc Band",
             "coordinates": "0118:007A:08A7:xxxx"
+          }
+        ]
+      }
+    },
+    "Ezdaranit": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Dusprin Cloud",
+            "coordinates": "06D3:0083:0125:xxxx"
+          }
+        ]
+      }
+    },
+    "Fladiselm": {
+      "civilizations": [
+        "Morley Celestial Bureau"
+      ],
+      "regions": {
+        "Morley Celestial Bureau": [
+          {
+            "name": "Ertsin Boundary",
+            "coordinates": "07F2:007E:07EE:xxxx"
+          }
+        ]
+      }
+    },
+    "Fontenikk": {
+      "civilizations": [
+        "InExCor",
+        "Morley Celestial Bureau"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Eprand Shallows",
+            "coordinates": "0806:007F:0803:xxxx"
+          },
+          {
+            "name": "Exblas Terminus",
+            "coordinates": "0806:0080:0803:xxxx"
+          }
+        ],
+        "Morley Celestial Bureau": [
+          {
+            "name": "Codevie Anomaly",
+            "coordinates": "080D:005C:07F6:xxxx"
           }
         ]
       }
@@ -2143,6 +3851,10 @@
           {
             "name": "Agunlo Shallows",
             "coordinates": "0111:007D:0911:xxxx"
+          },
+          {
+            "name": "Dekinat Band",
+            "coordinates": "0806:0080:0803:xxxx"
           }
         ]
       }
@@ -2156,6 +3868,78 @@
           {
             "name": "Ceyteedh Nebula",
             "coordinates": "0806:0080:0803:xxxx"
+          },
+          {
+            "name": "Egleshc Adjunct",
+            "coordinates": "0805:0081:0804:xxxx"
+          },
+          {
+            "name": "Epraau Mass",
+            "coordinates": "0C53:0078:02AB:xxxx"
+          }
+        ]
+      }
+    },
+    "Haffneyrin": {
+      "civilizations": [
+        "Alliance of Galactic Travellers"
+      ],
+      "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Ezinqa Band",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ]
+      }
+    },
+    "Hakapanasy": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Ebbess Terminus",
+            "coordinates": "0B2A:0078:01F2:xxxx"
+          },
+          {
+            "name": "Ejleon Cloud",
+            "coordinates": "0802:0082:0806:xxxx"
+          },
+          {
+            "name": "Eocheb Nebula",
+            "coordinates": "0806:007F:0803:xxxx"
+          }
+        ]
+      }
+    },
+    "Hansolmien": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Eforth Terminus",
+            "coordinates": "0805:0081:0804:xxxx"
+          },
+          {
+            "name": "Enwicar Conflux",
+            "coordinates": "051F:007D:0E64:xxxx"
+          }
+        ]
+      }
+    },
+    "Heperclait": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Cripib Band",
+            "coordinates": "0B61:0087:0228:xxxx"
           }
         ]
       }
@@ -2178,6 +3962,10 @@
           {
             "name": "Beurya Mass",
             "coordinates": "0A74:0082:0E01:xxxx"
+          },
+          {
+            "name": "Daghair",
+            "coordinates": "064B:007E:0515:xxxx"
           }
         ],
         "Morley Celestial Bureau": [
@@ -2198,6 +3986,8 @@
       "civilizations": [
         "9x99",
         "InExCor",
+        "Madrigal Kingdom",
+        "Morley Celestial Bureau",
         "Shire Exploration Group"
       ],
       "regions": {
@@ -2213,12 +4003,36 @@
           {
             "name": "Bevata Adjunct",
             "coordinates": "0803:0079:07FB:XXXX"
+          },
+          {
+            "name": "Cuilee Terminus",
+            "coordinates": "0802:007A:07F9:XXXX"
+          },
+          {
+            "name": "Escudat",
+            "coordinates": "0803:0078:07FC:XXXX"
           }
         ],
         "InExCor": [
           {
             "name": "Bastya Cloud",
             "coordinates": "0B07:0084:0E40:xxxx"
+          },
+          {
+            "name": "Cotlasesm Boundary",
+            "coordinates": "0805:007D:07F9:xxxx"
+          }
+        ],
+        "Madrigal Kingdom": [
+          {
+            "name": "Cunnor Mass",
+            "coordinates": "0981:007F:0EC1:xxxx"
+          }
+        ],
+        "Morley Celestial Bureau": [
+          {
+            "name": "Diyperb Anomaly",
+            "coordinates": "0811:007B:080A:XXXX"
           }
         ],
         "Shire Exploration Group": [
@@ -2231,15 +4045,29 @@
     },
     "Hilbert Dimension": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "Amino Hub",
         "Galactic Hub Hilbert",
+        "GenBra Space Corp",
         "Hilbert Gathering",
         "InExCor",
         "Morley Celestial Bureau",
         "Oxalis",
-        "The Order of the Eternal Shards"
+        "The Order of the Eternal Shards",
+        "Tugarv Compendium",
+        "XCR"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Daanev Cloud",
+            "coordinates": "077E:007F:0EC9:xxxx"
+          },
+          {
+            "name": "Dezistn Expanse",
+            "coordinates": "077E:007E:0ECB:xxxx"
+          }
+        ],
         "Amino Hub": [
           {
             "name": "Adfiell Cluster",
@@ -2266,6 +4094,16 @@
           {
             "name": "Bayores Shallows",
             "coordinates": "042E:0078:0D55:xxxx"
+          },
+          {
+            "name": "Doikawis",
+            "coordinates": "042F:0078:0D56:xxxx"
+          }
+        ],
+        "GenBra Space Corp": [
+          {
+            "name": "Eoffin Shallows",
+            "coordinates": "050B:0080:019E:xxxx"
           }
         ],
         "Hilbert Gathering": [
@@ -2294,12 +4132,24 @@
           {
             "name": "Cekleyzhay Adjunct",
             "coordinates": "06EC:0083:0E8F:xxxx"
+          },
+          {
+            "name": "Eirokuj Adjunct",
+            "coordinates": "0808:0080:0800:xxxx"
+          },
+          {
+            "name": "Enopulc",
+            "coordinates": "0A18:0085:016E:xxxx"
           }
         ],
         "Morley Celestial Bureau": [
           {
             "name": "Alngall Boundary",
             "coordinates": "07E9:0080:0801:xxxx"
+          },
+          {
+            "name": "Daskyer",
+            "coordinates": "0804:007B:07EA:0078"
           }
         ],
         "Oxalis": [
@@ -2317,6 +4167,31 @@
             "name": "Bossal Quadrant",
             "coordinates": "0A7B:007F:01BA:xxxx"
           }
+        ],
+        "Tugarv Compendium": [
+          {
+            "name": "Edquaayba Cluster",
+            "coordinates": "0551:0087:01C1:xxxx"
+          }
+        ],
+        "XCR": [
+          {
+            "name": "Erpiachbi Quadrant",
+            "coordinates": "0D8D:007F:045E:xxxx"
+          }
+        ]
+      }
+    },
+    "Hilfsesorbs": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Cocelon Band",
+            "coordinates": "01E3:0081:0B70:xxxx"
+          }
         ]
       }
     },
@@ -2329,6 +4204,26 @@
           {
             "name": "Akkais Mass",
             "coordinates": "07AA:0083:0EF4:xxxx"
+          }
+        ]
+      }
+    },
+    "Homskiw": {
+      "civilizations": [
+        "GenBra Space Corp",
+        "InExCor"
+      ],
+      "regions": {
+        "GenBra Space Corp": [
+          {
+            "name": "Eperto Terminus",
+            "coordinates": "07F9:0081:0804:xxxx"
+          }
+        ],
+        "InExCor": [
+          {
+            "name": "Duserqu",
+            "coordinates": "0AF6:0088:01F3:xxxx"
           }
         ]
       }
@@ -2368,16 +4263,38 @@
           {
             "name": "Britusl Instability",
             "coordinates": "0A3C:0087:019B:xxxx"
+          },
+          {
+            "name": "Ezhenthe Mass",
+            "coordinates": "0E23:0085:04D7:xxxx"
           }
         ]
       }
     },
     "Hyades": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
+        "GenBra Space Corp",
         "Hyades Travellers Foundation",
         "InExCor"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Eyanol Fringe",
+            "coordinates": "015C:0080:03CC:xxxx"
+          },
+          {
+            "name": "Eyanolisb Fringe",
+            "coordinates": "015C:0080:03CC:xxxx"
+          }
+        ],
+        "GenBra Space Corp": [
+          {
+            "name": "Edjeri Band",
+            "coordinates": "0AA1:007E:017C:xxxx"
+          }
+        ],
         "Hyades Travellers Foundation": [
           {
             "name": "Ansfor Cloud",
@@ -2390,6 +4307,10 @@
           {
             "name": "Bevais",
             "coordinates": "043D:0072:0D44:xxxx"
+          },
+          {
+            "name": "Eiweil Spur",
+            "coordinates": "07F9:0079:0802:xxxx"
           }
         ],
         "InExCor": [
@@ -2400,6 +4321,31 @@
           {
             "name": "Behrei",
             "coordinates": "07FB:007F:0806:xxxx"
+          },
+          {
+            "name": "Cogaialiu Cloud",
+            "coordinates": "0ED9:0086:0824:xxxx"
+          },
+          {
+            "name": "Ethorn Boundary",
+            "coordinates": "0B38:0080:0C0F:xxxx"
+          },
+          {
+            "name": "Eymill",
+            "coordinates": "0695:0080:03CB:xxxx"
+          }
+        ]
+      }
+    },
+    "Iadoitesu": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Desayehi",
+            "coordinates": "021F:007A:0BB4:xxxx"
           }
         ]
       }
@@ -2435,18 +4381,43 @@
           {
             "name": "Agommo Instability",
             "coordinates": "07F7:0080:0808:xxxx"
+          },
+          {
+            "name": "Dulice Void",
+            "coordinates": "0625:007D:059A:xxxx"
+          },
+          {
+            "name": "Eujmins Cloud",
+            "coordinates": "0669:007B:07DB:xxxx"
           }
         ],
         "Morley Celestial Bureau": [
           {
             "name": "Bashijra Conflux",
             "coordinates": "080D:005C:07F6:xxxx"
+          },
+          {
+            "name": "Ewdala Terminus",
+            "coordinates": "07FC:007D:0814:xxxx"
           }
         ],
         "Tugarv Compendium": [
           {
             "name": "Chyash",
             "coordinates": "040D:0083:023E:xxxx"
+          }
+        ]
+      }
+    },
+    "Ikbaksmit": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Eoffma",
+            "coordinates": "0806:0080:0803:xxxx"
           }
         ]
       }
@@ -2460,6 +4431,14 @@
           {
             "name": "Bamiliqu",
             "coordinates": "0806:007F:0803:xxxx"
+          },
+          {
+            "name": "Efioch",
+            "coordinates": "0459:0086:0232:xxxx"
+          },
+          {
+            "name": "Emlevch",
+            "coordinates": "012C:0078:0886:xxxx"
           }
         ]
       }
@@ -2473,6 +4452,10 @@
           {
             "name": "Anjakako Nebula",
             "coordinates": "07F7:0080:0800:xxxx"
+          },
+          {
+            "name": "Enszon",
+            "coordinates": "04A7:0086:0207:xxxx"
           }
         ]
       }
@@ -2490,6 +4473,10 @@
           {
             "name": "Awulah Void",
             "coordinates": "0EBF:0077:08BE:xxxx"
+          },
+          {
+            "name": "Evraya Spur",
+            "coordinates": "07FE:0080:0807:xxxx"
           }
         ]
       }
@@ -2503,6 +4490,23 @@
           {
             "name": "Binoha Mass",
             "coordinates": "07FE:0080:0807:xxxx"
+          },
+          {
+            "name": "Cokrang Void",
+            "coordinates": "0B1A:0082:01B9:xxxx"
+          }
+        ]
+      }
+    },
+    "Iodhinxois": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Eeuwem Nebula",
+            "coordinates": "0B27:007A:01D2:xxxx"
           }
         ]
       }
@@ -2534,6 +4538,23 @@
         ]
       }
     },
+    "Irceauffey": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Cunepar",
+            "coordinates": "0359:0078:0003:xxxx"
+          },
+          {
+            "name": "Egocin",
+            "coordinates": "0807:007E:07FF:xxxx"
+          }
+        ]
+      }
+    },
     "Irroswitzs": {
       "civilizations": [
         "InExCor"
@@ -2543,6 +4564,10 @@
           {
             "name": "Aikawa",
             "coordinates": "0807:0080:07FF:xxxx"
+          },
+          {
+            "name": "Dolinfax Cluster",
+            "coordinates": "03F3:0082:0DB5:xxxx"
           }
         ]
       }
@@ -2550,7 +4575,9 @@
     "Isdoraijung": {
       "civilizations": [
         "InExCor",
+        "Isdoraijung Travellers Foundation",
         "Morley Celestial Bureau",
+        "The Stargate Imperium",
         "UFIPA"
       ],
       "regions": {
@@ -2558,6 +4585,16 @@
           {
             "name": "Alpher Instability",
             "coordinates": "0806:007F:0803:xxxx"
+          },
+          {
+            "name": "Erbiere Terminus",
+            "coordinates": "0D3C:007F:0A2A:xxxx"
+          }
+        ],
+        "Isdoraijung Travellers Foundation": [
+          {
+            "name": "Dipibel Boundary",
+            "coordinates": "07BC:0082:07C4:xxxx"
           }
         ],
         "Morley Celestial Bureau": [
@@ -2566,10 +4603,24 @@
             "coordinates": "080D:005C:07F6:xxxx"
           }
         ],
+        "The Stargate Imperium": [
+          {
+            "name": "Cokwat Fringe",
+            "coordinates": "07F8:007D:0804:xxxx"
+          }
+        ],
         "UFIPA": [
           {
             "name": "Chmetz",
             "coordinates": "02EA:007F:0A13:00DB"
+          },
+          {
+            "name": "Domauj Boundary",
+            "coordinates": "02EB:007F:0A12:XXXX"
+          },
+          {
+            "name": "Ezhdes Boundary",
+            "coordinates": "02EE:007E:0A11:XXXX"
           }
         ]
       }
@@ -2600,6 +4651,50 @@
         ]
       }
     },
+    "Iwundaracos": {
+      "civilizations": [
+        "InExCor",
+        "UNITY"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Dayestop Instability",
+            "coordinates": "0807:0080:07FF:xxxx"
+          }
+        ],
+        "UNITY": [
+          {
+            "name": "Dohkwi",
+            "coordinates": "07FD:007E:07F6:xxxx"
+          }
+        ]
+      }
+    },
+    "Jasinessa": {
+      "civilizations": [
+        "InExCor",
+        "Morley Celestial Bureau"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Doenef Quadrant",
+            "coordinates": "0806:0081:0803:xxxx"
+          },
+          {
+            "name": "Duiwein",
+            "coordinates": "0160:0086:0661:xxxx"
+          }
+        ],
+        "Morley Celestial Bureau": [
+          {
+            "name": "Edeykkv",
+            "coordinates": "080D:005C:07F6:XXXX"
+          }
+        ]
+      }
+    },
     "Jelmandan": {
       "civilizations": [
         "InExCor"
@@ -2609,6 +4704,10 @@
           {
             "name": "Amquim Spur",
             "coordinates": "0E6F:007D:0532:xxxx"
+          },
+          {
+            "name": "Euserque Fringe",
+            "coordinates": "063D:0082:013B:xxxx"
           }
         ]
       }
@@ -2626,6 +4725,10 @@
           {
             "name": "Befand Void",
             "coordinates": "0B3E:0083:0E28:xxxx"
+          },
+          {
+            "name": "Dupoli",
+            "coordinates": "0806:0080:0803:xxxx"
           }
         ]
       }
@@ -2640,6 +4743,10 @@
           {
             "name": "Atungga Conflux",
             "coordinates": "0E60:0082:0AE2:xxxx"
+          },
+          {
+            "name": "Eadeki Conflux",
+            "coordinates": "0806:0080:0803:xxxx"
           }
         ],
         "Morley Celestial Bureau": [
@@ -2652,11 +4759,19 @@
     },
     "Kikolgallr": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "GenBra Space Corp",
         "InExCor",
+        "Morley Celestial Bureau",
         "Oxalis"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Ethead",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "GenBra Space Corp": [
           {
             "name": "Atyanga",
@@ -2671,6 +4786,28 @@
           {
             "name": "Buzhan",
             "coordinates": "0455:0085:0231:xxxx"
+          },
+          {
+            "name": "Cugnow Cloud",
+            "coordinates": "07FE:007C:07F7:xxxx"
+          },
+          {
+            "name": "Duysaim",
+            "coordinates": "05FD:0081:01E8:xxxx"
+          },
+          {
+            "name": "Emglai Sector",
+            "coordinates": "0346:0080:081A:xxxx"
+          },
+          {
+            "name": "Eubalia Cloud",
+            "coordinates": "0B2B:0083:0CAA:xxxx"
+          }
+        ],
+        "Morley Celestial Bureau": [
+          {
+            "name": "Esburt Cluster",
+            "coordinates": "080F:0083:07F0:xxxx"
           }
         ],
         "Oxalis": [
@@ -2701,6 +4838,19 @@
         ]
       }
     },
+    "Kisvarcini": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Dinabe Band",
+            "coordinates": "0182:0083:0A84:xxxx"
+          }
+        ]
+      }
+    },
     "Kuolungau": {
       "civilizations": [
         "InExCor"
@@ -2714,6 +4864,57 @@
           {
             "name": "Aelontonch",
             "coordinates": "0E63:0087:0A33:xxxx"
+          },
+          {
+            "name": "Clusub Adjunct",
+            "coordinates": "04E8:007E:0E4E:xxxx"
+          }
+        ]
+      }
+    },
+    "Laanawemb": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Cucuba Band",
+            "coordinates": "07FA:007D:07F9:xxxx"
+          },
+          {
+            "name": "Ducauac Void",
+            "coordinates": "0806:007F:0803:xxxx"
+          },
+          {
+            "name": "Edramac Void",
+            "coordinates": "053F:0077:0E39:xxxx"
+          }
+        ]
+      }
+    },
+    "Ladgudiraf": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Ewcomeyri Mass",
+            "coordinates": "0154:0088:08FF:xxxx"
+          }
+        ]
+      }
+    },
+    "Leckandmeram": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Ewbern Shallows",
+            "coordinates": "0804:0081:07F9:xxxx"
           }
         ]
       }
@@ -2759,6 +4960,27 @@
           {
             "name": "Ceserry",
             "coordinates": "0504:0083:0DE9:xxxx"
+          },
+          {
+            "name": "Dwigurt",
+            "coordinates": "0807:0080:0800:xxxx"
+          },
+          {
+            "name": "Eerdist Adjunct",
+            "coordinates": "0800:0080:07F7:xxxx"
+          }
+        ]
+      }
+    },
+    "Luleukous": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Eforthia Band",
+            "coordinates": "07F7:0081:07FF:xxxx"
           }
         ]
       }
@@ -2780,6 +5002,23 @@
         ]
       }
     },
+    "Maupenzhay": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Ciygnia Shallows",
+            "coordinates": "0807:0080:0800:xxxx"
+          },
+          {
+            "name": "Eontan Nebula",
+            "coordinates": "088B:0080:0845:xxxx"
+          }
+        ]
+      }
+    },
     "Meximicka": {
       "civilizations": [
         "InExCor"
@@ -2789,6 +5028,32 @@
           {
             "name": "Baffal Void",
             "coordinates": "0A4C:007D:015D:xxxx"
+          }
+        ]
+      }
+    },
+    "Meykinunukur": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Coopte Quadrant",
+            "coordinates": "0805:0081:0804:xxxx"
+          }
+        ]
+      }
+    },
+    "Mibittara": {
+      "civilizations": [
+        "Morley Celestial Bureau"
+      ],
+      "regions": {
+        "Morley Celestial Bureau": [
+          {
+            "name": "Dihnartb",
+            "coordinates": "07EB:0082:07F7:xxxx"
           }
         ]
       }
@@ -2815,13 +5080,45 @@
     },
     "Muhacksonto": {
       "civilizations": [
-        "GenBra Space Corp"
+        "GenBra Space Corp",
+        "InExCor"
       ],
       "regions": {
         "GenBra Space Corp": [
           {
             "name": "Accurla Adjunct",
             "coordinates": "0AD7:007D:07BC:xxxx"
+          }
+        ],
+        "InExCor": [
+          {
+            "name": "Dodurojin Instability",
+            "coordinates": "0807:0080:0800:xxxx"
+          },
+          {
+            "name": "Ejleochis Cloud",
+            "coordinates": "0128:0078:0852:xxxx"
+          }
+        ]
+      }
+    },
+    "Mushonponte": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Cizuynsye Band",
+            "coordinates": "0804:0081:0805:xxxx"
+          },
+          {
+            "name": "Damsesh Fringe",
+            "coordinates": "083D:0078:0124:xxxx"
+          },
+          {
+            "name": "Eponceg",
+            "coordinates": "0807:0080:0800:xxxx"
           }
         ]
       }
@@ -2835,16 +5132,31 @@
           {
             "name": "Axterong Band",
             "coordinates": "0806:0080:0803:xxxx"
+          },
+          {
+            "name": "Eherju Sector",
+            "coordinates": "0A32:007D:0155:xxxx"
+          },
+          {
+            "name": "Eusalug",
+            "coordinates": "07F8:007C:0802:xxxx"
           }
         ]
       }
     },
     "Nepitzaspru": {
       "civilizations": [
+        "GenBra Space Corp",
         "InExCor",
         "Infestation Remnants"
       ],
       "regions": {
+        "GenBra Space Corp": [
+          {
+            "name": "Enrepo Instability",
+            "coordinates": "0803:0080:07F8:xxxx"
+          }
+        ],
         "InExCor": [
           {
             "name": "Amhethi Conflux",
@@ -2895,13 +5207,27 @@
     },
     "Nolisonia": {
       "civilizations": [
-        "GenBra Space Corp"
+        "GenBra Space Corp",
+        "InExCor",
+        "Morley Celestial Bureau"
       ],
       "regions": {
         "GenBra Space Corp": [
           {
             "name": "Aausan Instability",
             "coordinates": "0807:007F:0801:xxxx"
+          }
+        ],
+        "InExCor": [
+          {
+            "name": "Eibtre",
+            "coordinates": "07FF:0080:0807:xxxx"
+          }
+        ],
+        "Morley Celestial Bureau": [
+          {
+            "name": "Egiraty Nebula",
+            "coordinates": "07EC:0080:080A:xxxx"
           }
         ]
       }
@@ -2932,19 +5258,34 @@
           {
             "name": "Aizukan",
             "coordinates": "0804:0081:07F9:xxxx"
+          },
+          {
+            "name": "Eakiew Expanse",
+            "coordinates": "02FE:0083:0CD3:xxxx"
           }
         ]
       }
     },
     "Nudquathsenfe": {
       "civilizations": [
+        "GenBra Space Corp",
         "InExCor"
       ],
       "regions": {
+        "GenBra Space Corp": [
+          {
+            "name": "Ekenas Nebula",
+            "coordinates": "07F8:007F:07FB:xxxx"
+          }
+        ],
         "InExCor": [
           {
             "name": "Asianii Spur",
             "coordinates": "0806:0080:0803:xxxx"
+          },
+          {
+            "name": "Deyujil Nebula",
+            "coordinates": "0C4C:0082:0086:xxxx"
           }
         ]
       }
@@ -2964,7 +5305,8 @@
     },
     "Odiwagiri": {
       "civilizations": [
-        "GenBra Space Corp"
+        "GenBra Space Corp",
+        "InExCor"
       ],
       "regions": {
         "GenBra Space Corp": [
@@ -2972,12 +5314,19 @@
             "name": "Aevedo Spur",
             "coordinates": "0EE7:007F:0947:xxxx"
           }
+        ],
+        "InExCor": [
+          {
+            "name": "Cubalain",
+            "coordinates": "06FF:0081:0635:xxxx"
+          }
         ]
       }
     },
     "Odyalutai": {
       "civilizations": [
         "Alliance of Galactic Travellers",
+        "GenBra Space Corp",
         "Morley Celestial Bureau",
         "New Atlantid Order",
         "No Man's High Hub",
@@ -2989,6 +5338,16 @@
           {
             "name": "Bojirus",
             "coordinates": "07F9:0084:07FD:0xxx"
+          },
+          {
+            "name": "Eensei Cluster",
+            "coordinates": "07FA:0085:07FD:xxxx"
+          }
+        ],
+        "GenBra Space Corp": [
+          {
+            "name": "Ekchim Instability",
+            "coordinates": "0805:007B:07FA:xxxx"
           }
         ],
         "Morley Celestial Bureau": [
@@ -3023,6 +5382,83 @@
         ]
       }
     },
+    "Odyavanta": {
+      "civilizations": [
+        "Alliance of Galactic Travellers",
+        "GenBra Space Corp",
+        "InExCor"
+      ],
+      "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Eforsh Expanse",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
+        "GenBra Space Corp": [
+          {
+            "name": "Ecqune Instability",
+            "coordinates": "07F7:007D:07FE:xxxx"
+          }
+        ],
+        "InExCor": [
+          {
+            "name": "Eachih Anomaly",
+            "coordinates": "0DD8:0081:0420:xxxx"
+          }
+        ]
+      }
+    },
+    "Oeileutasc": {
+      "civilizations": [
+        "Alliance of Galactic Travellers",
+        "InExCor"
+      ],
+      "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Cuthiucc Shallows",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
+        "InExCor": [
+          {
+            "name": "Errimf Adjunct",
+            "coordinates": "0D9E:0076:0BAC:xxxx"
+          }
+        ]
+      }
+    },
+    "Ogtialabi": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Cutonan Spur",
+            "coordinates": "0802:0082:0806:xxxx"
+          },
+          {
+            "name": "Ewoodr Expanse",
+            "coordinates": "0E48:0081:0747:xxxx"
+          }
+        ]
+      }
+    },
+    "Olonerovo": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Ehneit",
+            "coordinates": "0804:0083:0804:xxxx"
+          }
+        ]
+      }
+    },
     "Oniijialdu": {
       "civilizations": [
         "InExCor"
@@ -3032,6 +5468,10 @@
           {
             "name": "Bahcal",
             "coordinates": "0842:007F:0F06:xxxx"
+          },
+          {
+            "name": "Engita Instability",
+            "coordinates": "06EE:007E:0EF1:xxxx"
           }
         ]
       }
@@ -3039,6 +5479,7 @@
     "Ontiniangp": {
       "civilizations": [
         "InExCor",
+        "Morley Celestial Bureau",
         "Tugarv Compendium"
       ],
       "regions": {
@@ -3046,6 +5487,16 @@
           {
             "name": "Cigarn Sector",
             "coordinates": "0437:0080:0D2F:xxxx"
+          },
+          {
+            "name": "Egbarja Instability",
+            "coordinates": "062B:0080:0CF1:xxxx"
+          }
+        ],
+        "Morley Celestial Bureau": [
+          {
+            "name": "Eowena Nebula",
+            "coordinates": "080B:0081:0811:xxxx"
           }
         ],
         "Tugarv Compendium": [
@@ -3119,6 +5570,7 @@
     "Paholiang": {
       "civilizations": [
         "Empire of New Raxxla",
+        "InExCor",
         "Morley Celestial Bureau"
       ],
       "regions": {
@@ -3126,6 +5578,12 @@
           {
             "name": "Aepehu",
             "coordinates": "07F2:008A:07F5:xxxx"
+          }
+        ],
+        "InExCor": [
+          {
+            "name": "Egawli",
+            "coordinates": "0C06:0080:07FF:xxxx"
           }
         ],
         "Morley Celestial Bureau": [
@@ -3145,6 +5603,14 @@
           {
             "name": "Armato",
             "coordinates": "0CF8:0081:0CF3:xxxx"
+          },
+          {
+            "name": "Cisesum Quadrant",
+            "coordinates": "0800:0080:07F7:xxxx"
+          },
+          {
+            "name": "Compeye Expanse",
+            "coordinates": "0800:0080:0807:xxxx"
           }
         ]
       }
@@ -3158,6 +5624,47 @@
           {
             "name": "Anrubard",
             "coordinates": "0878:0080:00FC:xxxx"
+          },
+          {
+            "name": "Enmaromist Void",
+            "coordinates": "0804:0081:0805:xxxx"
+          }
+        ]
+      }
+    },
+    "Ploehrliou": {
+      "civilizations": [
+        "GenBra Space Corp",
+        "InExCor"
+      ],
+      "regions": {
+        "GenBra Space Corp": [
+          {
+            "name": "Ecuben Void",
+            "coordinates": "07FC:007E:0807:xxxx"
+          },
+          {
+            "name": "Eerdul Boundary",
+            "coordinates": "07FB:007E:0806:xxxx"
+          }
+        ],
+        "InExCor": [
+          {
+            "name": "Eddiona Fringe",
+            "coordinates": "01B4:007C:04EC:xxxx"
+          }
+        ]
+      }
+    },
+    "Podalicess": {
+      "civilizations": [
+        "UNITY"
+      ],
+      "regions": {
+        "UNITY": [
+          {
+            "name": "Erzfel",
+            "coordinates": "07F7:0082:07FD:xxxx"
           }
         ]
       }
@@ -3214,9 +5721,20 @@
     },
     "Rerasmutul": {
       "civilizations": [
+        "Eyfert Khannate",
         "InExCor"
       ],
       "regions": {
+        "Eyfert Khannate": [
+          {
+            "name": "Ekreen",
+            "coordinates": "01AB:00B0:054A:xxxx"
+          },
+          {
+            "name": "Exalkisi Sector",
+            "coordinates": "01AC:00B0:0548:xxxx"
+          }
+        ],
         "InExCor": [
           {
             "name": "Ahmede",
@@ -3225,6 +5743,10 @@
           {
             "name": "Alzovich Instability",
             "coordinates": "078B:007B:0715:xxxx"
+          },
+          {
+            "name": "Daspruan Band",
+            "coordinates": "088D:0080:0739:xxxx"
           }
         ]
       }
@@ -3249,6 +5771,10 @@
           {
             "name": "Biyagii Boundary",
             "coordinates": "0000:007F:0FFE:xxxx"
+          },
+          {
+            "name": "Endazh Shallows",
+            "coordinates": "07FA:007F:0817:xxxx"
           }
         ]
       }
@@ -3283,6 +5809,32 @@
         ]
       }
     },
+    "Roansfien": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Cochaong",
+            "coordinates": "0804:0081:0805:xxxx"
+          }
+        ]
+      }
+    },
+    "Roclaytonycar": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Ehnkens",
+            "coordinates": "0744:007D:0105:xxxx"
+          }
+        ]
+      }
+    },
     "Ruckinarkh": {
       "civilizations": [
         "InExCor"
@@ -3311,13 +5863,20 @@
     },
     "Rycempler": {
       "civilizations": [
-        "InExCor"
+        "InExCor",
+        "Rycempler Travellers Foundation"
       ],
       "regions": {
         "InExCor": [
           {
             "name": "Biteter Anomaly",
             "coordinates": "0806:0080:0803:xxxx"
+          }
+        ],
+        "Rycempler Travellers Foundation": [
+          {
+            "name": "Diadon Boundary",
+            "coordinates": "0803:007F:07F8:0xxx"
           }
         ]
       }
@@ -3345,6 +5904,10 @@
           {
             "name": "Agpurz",
             "coordinates": "07FF:0080:0807:xxxx"
+          },
+          {
+            "name": "Eelaod",
+            "coordinates": "0806:0081:0803:xxxx"
           }
         ]
       }
@@ -3358,6 +5921,10 @@
           {
             "name": "Bukathaym Mass",
             "coordinates": "0800:0080:0807:xxxx"
+          },
+          {
+            "name": "Evezicni Quadrant",
+            "coordinates": "0807:007F:07FF:xxxx"
           }
         ]
       }
@@ -3385,25 +5952,53 @@
           {
             "name": "Baydorpen Instability",
             "coordinates": "0807:0080:0800:xxxx"
+          },
+          {
+            "name": "Eugens Expanse",
+            "coordinates": "088E:007E:0954:xxxx"
           }
         ],
         "UNITY": [
           {
             "name": "Aujavesum Fringe",
             "coordinates": "0784:0074:0727:xxxx"
+          },
+          {
+            "name": "Dihengan Nebula",
+            "coordinates": "0784:0075:0726:xxxx"
           }
         ]
       }
     },
     "Smoduraykl": {
       "civilizations": [
-        "GenBra Space Corp"
+        "GenBra Space Corp",
+        "InExCor"
       ],
       "regions": {
         "GenBra Space Corp": [
           {
             "name": "Cerkhaz Adjunct",
             "coordinates": "07FE:0081:0807:xxxx"
+          }
+        ],
+        "InExCor": [
+          {
+            "name": "Edvarp Shallows",
+            "coordinates": "0805:0081:0804:xxxx"
+          }
+        ]
+      }
+    },
+    "Sthatigudi": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Ezgant Cluster",
+            "coordinates": "01A0:007A:053B:xxxx"
           }
         ]
       }
@@ -3426,6 +6021,14 @@
           {
             "name": "Aobrocia Boundary",
             "coordinates": "0C5B:007F:0C21:xxxx"
+          },
+          {
+            "name": "Esuvan Cloud",
+            "coordinates": "07F7:0080:0801:xxxx"
+          },
+          {
+            "name": "Etkhataya Boundary",
+            "coordinates": "0800:007D:0807:xxxx"
           }
         ],
         "Morley Celestial Bureau": [
@@ -3451,6 +6054,38 @@
           {
             "name": "Bocernab",
             "coordinates": "07FF:0080:0807:xxxx"
+          },
+          {
+            "name": "Embely",
+            "coordinates": "0D43:0078:0C5E:xxxx"
+          }
+        ]
+      }
+    },
+    "Sugueziume": {
+      "civilizations": [
+        "InExCor",
+        "Weyland-Yutani Corporation"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Cuffme",
+            "coordinates": "0806:007E:07FB:xxxx"
+          }
+        ],
+        "Weyland-Yutani Corporation": [
+          {
+            "name": "Eabopanc Anomaly",
+            "coordinates": "0E40:0085:04E7:XXXX"
+          },
+          {
+            "name": "Ensesura Sector",
+            "coordinates": "07FE:0087:07FF:XXXX"
+          },
+          {
+            "name": "Exeyba Quadrant",
+            "coordinates": "07F7:0080:07F9:XXXX"
           }
         ]
       }
@@ -3470,10 +6105,17 @@
     },
     "Teyaypilny": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "InExCor",
         "Morley Celestial Bureau"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Dajabuk Void",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "InExCor": [
           {
             "name": "Adfienas",
@@ -3482,25 +6124,40 @@
           {
             "name": "Aiwako Adjunct",
             "coordinates": "09ED:0085:0162:xxxx"
+          },
+          {
+            "name": "Dwelde Nebula",
+            "coordinates": "0804:0081:0805:xxxx"
           }
         ],
         "Morley Celestial Bureau": [
           {
             "name": "Builae Boundary",
             "coordinates": "080D:005C:07F6:xxxx"
+          },
+          {
+            "name": "Eylevsky Band",
+            "coordinates": "0814:0081:07F8:0078"
           }
         ]
       }
     },
     "Thorettac": {
       "civilizations": [
-        "GenBra Space Corp"
+        "GenBra Space Corp",
+        "InExCor"
       ],
       "regions": {
         "GenBra Space Corp": [
           {
             "name": "Bojeau Quadrant",
             "coordinates": "07FA:007D:0805:xxxx"
+          }
+        ],
+        "InExCor": [
+          {
+            "name": "Exvelare Conflux",
+            "coordinates": "0BB5:0077:0DB4:xxxx"
           }
         ]
       }
@@ -3547,7 +6204,8 @@
     },
     "Tuychelisaor": {
       "civilizations": [
-        "InExCor"
+        "InExCor",
+        "Morley Celestial Bureau"
       ],
       "regions": {
         "InExCor": [
@@ -3555,18 +6213,35 @@
             "name": "Bogenero",
             "coordinates": "0806:0080:0803:xxxx"
           }
+        ],
+        "Morley Celestial Bureau": [
+          {
+            "name": "Duffy Boundary",
+            "coordinates": "07FC:0082:0814:0078"
+          },
+          {
+            "name": "Erlanqu",
+            "coordinates": "080D:005C:07F6:0079"
+          }
         ]
       }
     },
     "Twerbetek": {
       "civilizations": [
-        "Moon Echoes"
+        "Moon Echoes",
+        "UNITY"
       ],
       "regions": {
         "Moon Echoes": [
           {
             "name": "Avskapp Anomaly",
             "coordinates": "0003:00AB:0C25:xxxx"
+          }
+        ],
+        "UNITY": [
+          {
+            "name": "Duymuruts Fringe",
+            "coordinates": "0805:0082:07C4:xxxx"
           }
         ]
       }
@@ -3593,6 +6268,14 @@
           {
             "name": "Apuaest Band",
             "coordinates": "0806:0080:0803:xxxx"
+          },
+          {
+            "name": "Duxford Mass",
+            "coordinates": "07FE:0080:0807:xxxx"
+          },
+          {
+            "name": "Eodosagi Cloud",
+            "coordinates": "0488:007C:01E9:xxxx"
           }
         ]
       }
@@ -3629,13 +6312,27 @@
     },
     "Uiweupose": {
       "civilizations": [
-        "GenBra Space Corp"
+        "Alliance of Galactic Travellers",
+        "GenBra Space Corp",
+        "InExCor"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Ezhukch",
+            "coordinates": "07FB:0086:0801:xxxx"
+          }
+        ],
         "GenBra Space Corp": [
           {
             "name": "Awchursich Adjunct",
             "coordinates": "0805:0081:07FA:xxxx"
+          }
+        ],
+        "InExCor": [
+          {
+            "name": "Duparoi Fringe",
+            "coordinates": "0801:0080:0807:xxxx"
           }
         ]
       }
@@ -3656,6 +6353,7 @@
     "Uliciawai": {
       "civilizations": [
         "Alliance of Galactic Travellers",
+        "Morley Celestial Bureau",
         "UNITY"
       ],
       "regions": {
@@ -3663,6 +6361,12 @@
           {
             "name": "Cadabosn Band",
             "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
+        "Morley Celestial Bureau": [
+          {
+            "name": "Eidrun Fringe",
+            "coordinates": "0802:0080:07E9:xxxx"
           }
         ],
         "UNITY": [
@@ -3673,16 +6377,42 @@
         ]
       }
     },
+    "Ulosaginyik": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Danukuli Expanse",
+            "coordinates": "0807:007D:07FF:xxxx"
+          },
+          {
+            "name": "Dezumes",
+            "coordinates": "0805:0081:0804:xxxx"
+          },
+          {
+            "name": "Eadyarr Void",
+            "coordinates": "028A:0088:0BED:xxxx"
+          }
+        ]
+      }
+    },
     "Umirpaiya": {
       "civilizations": [
         "InExCor",
-        "Morley Celestial Bureau"
+        "Morley Celestial Bureau",
+        "Shared Community"
       ],
       "regions": {
         "InExCor": [
           {
             "name": "Awsone Boundary",
             "coordinates": "07FE:007D:07F7:xxxx"
+          },
+          {
+            "name": "Elwick Quadrant",
+            "coordinates": "04F2:0087:01F5:xxxx"
           }
         ],
         "Morley Celestial Bureau": [
@@ -3690,18 +6420,99 @@
             "name": "Bowayas Mass",
             "coordinates": "080D:005C:07F6:XXXX"
           }
+        ],
+        "Shared Community": [
+          {
+            "name": "Comascha Expanse",
+            "coordinates": "025B:0082:03FF:xxxx"
+          },
+          {
+            "name": "Ereffi",
+            "coordinates": "0259:0082:03FE:xxxx"
+          }
+        ]
+      }
+    },
+    "Umlanswick": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Etuhysdru Conflux",
+            "coordinates": "0732:007A:011B:xxxx"
+          }
+        ]
+      }
+    },
+    "Urastrykle": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Coclinegol Shallows",
+            "coordinates": "0140:0087:0858:xxxx"
+          },
+          {
+            "name": "Coyano Nebula",
+            "coordinates": "07F7:007F:0800:xxxx"
+          },
+          {
+            "name": "Ezitaban",
+            "coordinates": "0807:0080:0800:xxxx"
+          }
+        ]
+      }
+    },
+    "Utzenmate": {
+      "civilizations": [
+        "GenBra Space Corp"
+      ],
+      "regions": {
+        "GenBra Space Corp": [
+          {
+            "name": "Elczyns Fringe",
+            "coordinates": "07FC:007C:0806:xxxx"
+          }
         ]
       }
     },
     "Venessika": {
+      "civilizations": [
+        "InExCor",
+        "Morley Celestial Bureau"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Degonii",
+            "coordinates": "0E77:007C:054E:xxxx"
+          },
+          {
+            "name": "Eggler Spur",
+            "coordinates": "0806:0080:0803:xxxx"
+          }
+        ],
+        "Morley Celestial Bureau": [
+          {
+            "name": "Cayanth Cloud",
+            "coordinates": "080D:005C:07F6:xxxx"
+          }
+        ]
+      }
+    },
+    "Veticueca": {
       "civilizations": [
         "Morley Celestial Bureau"
       ],
       "regions": {
         "Morley Celestial Bureau": [
           {
-            "name": "Cayanth Cloud",
-            "coordinates": "080D:005C:07F6:xxxx"
+            "name": "Drzesime Conflux",
+            "coordinates": "0814:0081:07FC:XXXX"
           }
         ]
       }
@@ -3715,6 +6526,14 @@
           {
             "name": "Aausdo",
             "coordinates": "0CD8:007F:0D17:xxxx"
+          },
+          {
+            "name": "Doturci Band",
+            "coordinates": "0807:0080:0800:xxxx"
+          },
+          {
+            "name": "Eoktisshi Band",
+            "coordinates": "0CD3:0079:031A:xxxx"
           }
         ]
       }
@@ -3739,6 +6558,46 @@
         ]
       }
     },
+    "Wepaitvas": {
+      "civilizations": [
+        "Alliance of Galactic Travellers",
+        "InExCor"
+      ],
+      "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Dausopdu Nebula",
+            "coordinates": "0663:0087:0167:xxxx"
+          }
+        ],
+        "InExCor": [
+          {
+            "name": "Dwrigen Cluster",
+            "coordinates": "02FE:0084:0CD2:xxxx"
+          }
+        ]
+      }
+    },
+    "Wiensanshe": {
+      "civilizations": [
+        "InExCor",
+        "Morley Celestial Bureau"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Circham Fringe",
+            "coordinates": "0C7D:0087:02E9:xxxx"
+          }
+        ],
+        "Morley Celestial Bureau": [
+          {
+            "name": "Doconsan Adjunct",
+            "coordinates": "0813:0082:0806:XXXX"
+          }
+        ]
+      }
+    },
     "Wongquarum": {
       "civilizations": [
         "InExCor"
@@ -3748,6 +6607,14 @@
           {
             "name": "Azraean Adjunct",
             "coordinates": "0ECB:007A:095C:xxxx"
+          },
+          {
+            "name": "Dioneva Terminus",
+            "coordinates": "0244:007D:0C09:xxxx"
+          },
+          {
+            "name": "Doyromma Conflux",
+            "coordinates": "0800:0080:0807:xxxx"
           }
         ]
       }
@@ -3755,6 +6622,7 @@
     "Wotyarogii": {
       "civilizations": [
         "GenBra Space Corp",
+        "Morley Celestial Bureau",
         "UNITY"
       ],
       "regions": {
@@ -3762,6 +6630,12 @@
           {
             "name": "Ajrapag",
             "coordinates": "0DD6:0083:042E:xxxx"
+          }
+        ],
+        "Morley Celestial Bureau": [
+          {
+            "name": "Dingekk",
+            "coordinates": "07F7:007C:0813:xxxx"
           }
         ],
         "UNITY": [
@@ -3772,16 +6646,43 @@
         ]
       }
     },
+    "Wucetosucc": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Dugleto Nebula",
+            "coordinates": "0340:007A:0D11:xxxx"
+          }
+        ]
+      }
+    },
     "Xobeurindj": {
       "civilizations": [
+        "9x99",
         "Alliance of Galactic Travellers",
+        "InExCor",
         "UNITY"
       ],
       "regions": {
+        "9x99": [
+          {
+            "name": "Edquech Mass",
+            "coordinates": "07F7:0080:0802:XXXX"
+          }
+        ],
         "Alliance of Galactic Travellers": [
           {
             "name": "Cagnow Instability",
             "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
+        "InExCor": [
+          {
+            "name": "Evnikkeen Expanse",
+            "coordinates": "0807:007F:07FE:xxxx"
           }
         ],
         "UNITY": [
@@ -3792,13 +6693,37 @@
         ]
       }
     },
+    "Yaevarcko": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Egirik Cloud",
+            "coordinates": "0B42:0083:01D5:xxxx"
+          }
+        ]
+      }
+    },
     "Yagrovoisi": {
       "civilizations": [
+        "Alliance of Galactic Travellers",
         "GenBra Space Corp",
         "InExCor",
         "Morley Celestial Bureau"
       ],
       "regions": {
+        "Alliance of Galactic Travellers": [
+          {
+            "name": "Cirtok Sector",
+            "coordinates": "0804:007F:03F9:xxxx"
+          },
+          {
+            "name": "Copanyoku Fringe",
+            "coordinates": "043D:0072:0D44:xxxx"
+          }
+        ],
         "GenBra Space Corp": [
           {
             "name": "Abifro Spur",
@@ -3809,6 +6734,10 @@
           {
             "name": "Bopaeza Instability",
             "coordinates": "0800:0080:0807:xxxx"
+          },
+          {
+            "name": "Degsont Quadrant",
+            "coordinates": "0807:007E:07FD:xxxx"
           }
         ],
         "Morley Celestial Bureau": [
@@ -3863,6 +6792,32 @@
         ]
       }
     },
+    "Yekathsebehn": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Doyeru",
+            "coordinates": "0804:0081:0806:xxxx"
+          }
+        ]
+      }
+    },
+    "Yeonatlak": {
+      "civilizations": [
+        "InExCor"
+      ],
+      "regions": {
+        "InExCor": [
+          {
+            "name": "Cucharik Sector",
+            "coordinates": "0805:0081:07FA:xxxx"
+          }
+        ]
+      }
+    },
     "Yevettiiqidcon": {
       "civilizations": [
         "InExCor"
@@ -3895,7 +6850,8 @@
     },
     "Yuwarugha": {
       "civilizations": [
-        "GenBra Space Corp"
+        "GenBra Space Corp",
+        "InExCor"
       ],
       "regions": {
         "GenBra Space Corp": [
@@ -3903,12 +6859,19 @@
             "name": "Abjaun",
             "coordinates": "07FD:0081:07F7:xxxx"
           }
+        ],
+        "InExCor": [
+          {
+            "name": "Dizhaowic Mass",
+            "coordinates": "0800:0080:0807:xxxx"
+          }
         ]
       }
     },
     "Zalienkosm": {
       "civilizations": [
-        "Alliance of Galactic Travellers"
+        "Alliance of Galactic Travellers",
+        "InExCor"
       ],
       "regions": {
         "Alliance of Galactic Travellers": [
@@ -3919,19 +6882,64 @@
           {
             "name": "Agrova Mass",
             "coordinates": "07FA:007A:07FB:xxxx"
+          },
+          {
+            "name": "Cohchowe Fringe",
+            "coordinates": "07FB:007A:07FA:xxxx"
+          }
+        ],
+        "InExCor": [
+          {
+            "name": "Deduros Cluster",
+            "coordinates": "09B3:0076:017A:xxxx"
+          },
+          {
+            "name": "Dryamana Instability",
+            "coordinates": "0807:0080:0800:xxxx"
           }
         ]
       }
     },
     "Zavainlani": {
       "civilizations": [
+        "InExCor",
+        "The Vykeen Dynasty",
         "Zavainlani Travellers Foundation"
       ],
       "regions": {
+        "InExCor": [
+          {
+            "name": "Dwinda Nebula",
+            "coordinates": "07FF:007D:07F7:xxxx"
+          },
+          {
+            "name": "Edfowl Conflux",
+            "coordinates": "07FE:007C:07F7:xxxx"
+          }
+        ],
+        "The Vykeen Dynasty": [
+          {
+            "name": "Elkima",
+            "coordinates": "0FFE:0084:04C2:xxxx"
+          }
+        ],
         "Zavainlani Travellers Foundation": [
           {
             "name": "Aeciac Instability",
             "coordinates": "0807:007C:0801:xxxx"
+          }
+        ]
+      }
+    },
+    "Zeziceloh": {
+      "civilizations": [
+        "Morley Celestial Bureau"
+      ],
+      "regions": {
+        "Morley Celestial Bureau": [
+          {
+            "name": "Exkeens",
+            "coordinates": "0815:0080:0801:xxxx"
           }
         ]
       }
@@ -3958,6 +6966,10 @@
           {
             "name": "Amonclo Adjunct",
             "coordinates": "0806:0080:0803:xxxx"
+          },
+          {
+            "name": "Eefjot Quadrant",
+            "coordinates": "0BFA:007A:0DA6:xxxx"
           }
         ]
       }
