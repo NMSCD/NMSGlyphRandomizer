@@ -7233,6 +7233,10 @@
           {
             "name": "Vedulay Cloud",
             "coordinates": "0000:007F:0000:xxxx"
+          },
+          {
+            "name": "Yuinniya Quadrant",
+            "coordinates": "0FFE:00FE:0000:0001"
           }
         ],
         "Free Delta Initiative": [
@@ -10611,6 +10615,10 @@
           {
             "name": "Puisahui Sector",
             "coordinates": "0803:0087:07FE:xxxx"
+          },
+          {
+            "name": "Urphyld Anomaly",
+            "coordinates": "0803:0086:07FD:xxxx"
           }
         ],
         "Sacred Observers: Operation Null": [
@@ -14038,6 +14046,7 @@
         "Alliance of Galactic Travellers",
         "GenBra Space Corp",
         "Gravemind Expeditionary Force",
+        "Ickjamatew Travellers Foundation",
         "InExCor",
         "Morley Celestial Bureau",
         "Multiverse Expeditionary Corps",
@@ -14070,6 +14079,12 @@
           {
             "name": "Iseleo Cluster",
             "coordinates": "0CF4:0083:031A:xxxx"
+          }
+        ],
+        "Ickjamatew Travellers Foundation": [
+          {
+            "name": "Zoquot Expanse",
+            "coordinates": "0E25:0077:0AE7:xxxx"
           }
         ],
         "InExCor": [
