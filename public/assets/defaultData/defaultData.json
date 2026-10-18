@@ -4881,6 +4881,7 @@
         "Brolo Republic",
         "CELAB Galactic Industries",
         "Cafe 42",
+        "Calypso Imperium",
         "Capital Triangle",
         "Carcharodon Merchant Fleet",
         "Central Empire",
@@ -5014,6 +5015,7 @@
         "New Aquarius",
         "New Frontiers Incorporated",
         "New Nizari",
+        "Nexaris Dominion",
         "Nexus Imperium",
         "No Man's High Hub",
         "No Man's Sky Justice Society",
@@ -6603,6 +6605,16 @@
             "coordinates": "0191:0079:03A5:xxxx"
           }
         ],
+        "Calypso Imperium": [
+          {
+            "name": "Iperku Fringe",
+            "coordinates": "0DF8:002F:053A:xxxx"
+          },
+          {
+            "name": "The Arm of Cuvien",
+            "coordinates": "0E7A:0079:0A66:xxxx"
+          }
+        ],
         "Capital Triangle": [
           {
             "name": "Aauwen Anomaly",
@@ -7187,8 +7199,20 @@
             "coordinates": "0FFE:0000:0FFD:xxxx"
           },
           {
+            "name": "Eitelm Cluster",
+            "coordinates": "0FFE:0080:0959:0001"
+          },
+          {
+            "name": "Eochagi",
+            "coordinates": "0000:007F:0A07:0001"
+          },
+          {
             "name": "Eunitoa Boundary",
             "coordinates": "0FFE:0081:0B46:xxxx"
+          },
+          {
+            "name": "Ezalcy",
+            "coordinates": "0FFE:0000:0000:0001"
           },
           {
             "name": "Legoanzen",
@@ -10209,6 +10233,12 @@
             "coordinates": "0CF3:007D:0549:xxxx"
           }
         ],
+        "Nexaris Dominion": [
+          {
+            "name": "Etmarty Sector",
+            "coordinates": "0EF7:0085:0787:xxxx"
+          }
+        ],
         "Nexus Imperium": [
           {
             "name": "Cuffettes Nebula",
@@ -11787,6 +11817,10 @@
           {
             "name": "The Arm of Vazotz",
             "coordinates": "03FC:0087:0D88:xxxx"
+          },
+          {
+            "name": "Theuvor Anomaly",
+            "coordinates": "0247:007A:03EA:xxxx"
           },
           {
             "name": "Tusdaibu Spur",
@@ -18740,6 +18774,7 @@
         "9x99",
         "Alliance of Galactic Travellers",
         "Catholic Haven of Righteous Intergalactic Sanctified Travelers",
+        "Galactic Bilge Rats",
         "GenBra Space Corp",
         "InExCor",
         "Morley Celestial Bureau",
@@ -18780,6 +18815,12 @@
           {
             "name": "Verieve",
             "coordinates": "0B39:0080:0236:XXXX"
+          }
+        ],
+        "Galactic Bilge Rats": [
+          {
+            "name": "Eomett Instability",
+            "coordinates": "07EE:0077:07ED:01BB"
           }
         ],
         "GenBra Space Corp": [
