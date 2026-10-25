@@ -3297,6 +3297,7 @@
         "Intergalactic Coalition of Travelers",
         "Interstellar Security Fleet",
         "Iraxell Anomaly Trading Corporation",
+        "Japan Community Planet (日本人コミュニティ惑星)",
         "Korvaxium Republic",
         "League of Super Evil",
         "MegaCorp",
@@ -3307,6 +3308,7 @@
         "New Galactic Empire",
         "No Man's High Hub",
         "No Man's Sky Love",
+        "Order of the Purple Lotus",
         "Ph@nt0I¥I Š¥nDî¢ÅT€",
         "Ridsorian Empire",
         "Royal Space Society",
@@ -3931,6 +3933,12 @@
             "coordinates": "0846:007c:03b0:xxxx"
           }
         ],
+        "Japan Community Planet (日本人コミュニティ惑星)": [
+          {
+            "name": "Geiste Cluster",
+            "coordinates": "0DA4:0068:0B7D:010A"
+          }
+        ],
         "Korvaxium Republic": [
           {
             "name": "Luskijima Anomaly",
@@ -4009,6 +4017,12 @@
           {
             "name": "Epimetu Void",
             "coordinates": "0802:0077:0803:xxxx"
+          }
+        ],
+        "Order of the Purple Lotus": [
+          {
+            "name": "Uaesatv Quadrant",
+            "coordinates": "0116:007B:08C3:xxxx"
           }
         ],
         "Ph@nt0I¥I Š¥nDî¢ÅT€": [
@@ -4848,11 +4862,11 @@
         "Adventurers Society",
         "Aesir Ascendancy",
         "Age of eXistence",
-        "Agenzia Galattica Italiana",
         "Ahiran Order",
         "Aiad Khaganate",
         "AlienVirus",
         "Aliens of NMS",
+        "Alleanza Galattica Italiana",
         "Alliance of Atlas Travellers",
         "Alliance of Delta Andromeda",
         "Alliance of Galactic Travellers",
@@ -5211,12 +5225,6 @@
             "coordinates": "0A90:0075:01B3:xxxx"
           }
         ],
-        "Agenzia Galattica Italiana": [
-          {
-            "name": "Yarramaz",
-            "coordinates": "07F8:0083:080A:xxxx"
-          }
-        ],
         "Ahiran Order": [
           {
             "name": "Ahiran",
@@ -5271,6 +5279,12 @@
           {
             "name": "Aausses Spur",
             "coordinates": "07EE:007E:07FA:xxxx"
+          }
+        ],
+        "Alleanza Galattica Italiana": [
+          {
+            "name": "Yarramaz",
+            "coordinates": "07F8:0083:080A:xxxx"
           }
         ],
         "Alliance of Atlas Travellers": [
@@ -11293,6 +11307,10 @@
           {
             "name": "The Arm of Moismi",
             "coordinates": "09B9:0081:0E6E:xxxx"
+          },
+          {
+            "name": "The Arm of Utgamauja",
+            "coordinates": "0B71:0083:01F5:xxxx"
           },
           {
             "name": "Zexunggo Shallows",
@@ -18777,6 +18795,7 @@
         "Galactic Bilge Rats",
         "GenBra Space Corp",
         "InExCor",
+        "Magnus Galactic Star Union",
         "Morley Celestial Bureau",
         "Order of the Narwhals Tusk",
         "The Pirate Hub",
@@ -18820,7 +18839,7 @@
         "Galactic Bilge Rats": [
           {
             "name": "Eomett Instability",
-            "coordinates": "07EE:0077:07ED:01BB"
+            "coordinates": "07EE:0077:07ED:0204"
           }
         ],
         "GenBra Space Corp": [
@@ -18861,6 +18880,12 @@
           {
             "name": "Uzonen Expanse",
             "coordinates": "07F8:0080:0803:xxxx"
+          }
+        ],
+        "Magnus Galactic Star Union": [
+          {
+            "name": "Seklisc",
+            "coordinates": "056C:007F:0C1D:xxxx"
           }
         ],
         "Morley Celestial Bureau": [
