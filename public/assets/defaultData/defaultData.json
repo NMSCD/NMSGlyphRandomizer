@@ -4926,6 +4926,7 @@
         "East Indica Company",
         "Emberwatch Empire",
         "Emeril Federation",
+        "Empire Hapax",
         "Empire of Achenar",
         "Empire of Anomalies",
         "Empire of Bizent",
@@ -6891,6 +6892,12 @@
           {
             "name": "Oskyam",
             "coordinates": "0BB1:007E:0205:xxxx"
+          }
+        ],
+        "Empire Hapax": [
+          {
+            "name": "Gwionnut Nebula",
+            "coordinates": "0536:0086:01E4:xxxx"
           }
         ],
         "Empire of Achenar": [
