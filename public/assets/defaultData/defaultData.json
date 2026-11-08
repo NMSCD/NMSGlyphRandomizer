@@ -5066,6 +5066,7 @@
         "Selenite Blizzard Guild",
         "Sepros Alliance",
         "Seventh Fleet",
+        "Shadow Kingdom",
         "Shared Community",
         "Silent Dragon Corp.",
         "Sixty-Eighth Fleet",
@@ -10744,6 +10745,12 @@
           {
             "name": "Ajauri",
             "coordinates": "0D61:0078:0C40:xxxx"
+          }
+        ],
+        "Shadow Kingdom": [
+          {
+            "name": "Sea of Opluhet",
+            "coordinates": "041F:0084:023B:0000"
           }
         ],
         "Shared Community": [
